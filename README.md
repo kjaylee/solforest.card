@@ -61,3 +61,4 @@
 - Nature-aligned Magic is strong against Mental-aligned Magic.
 - Mental-aligned Magic is strong against Diverse & Mystical Magic.
 - Diverse & Mystical Magic is strong against Nature-aligned Magic.
+
