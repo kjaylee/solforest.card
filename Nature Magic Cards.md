@@ -32,3 +32,7 @@
 - **Range**: 4 tiles
 - **Strong Against**: Phytomancy
 - **Story**: Known as the "Star Sorceress," this witch girl draws power from celestial bodies to unleash devastating attacks. With a mysterious aura, she embodies the infinite potential and volatility of the cosmos.
+
+---
+
+These cards also have specific strengths and weaknesses against each other, forming a part of the larger elemental and magical ecosystem.

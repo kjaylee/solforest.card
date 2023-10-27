@@ -43,3 +43,7 @@
 - **Range**: 1 tile
 - **Strong Against**: Pyro
 - **Story**: Referred to as the "Guardian of Earth," this witch girl stands her ground with sturdy defenses and robust health. She is wise and cautious, originating from the first mountain where she learned to manipulate the earth and neutralize fire elements.
+
+---
+
+I hope you find this extended Elemental Magic Card list helpful and engaging!
