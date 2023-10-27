@@ -1,4 +1,4 @@
-### Energy & Light Magic Cards
+### Luminomancy Magic Cards
 
 #### 1. Electromancy Card (Electric Magic)
 
@@ -24,4 +24,4 @@
 
 ---
 
-These cards are unique in their own right but are also a part of the broader system of magic with their distinct strengths and weaknesses against other types of magic.
+These cards are unique in their own right but are also a part of the broader Luminomancy system of magic, with their distinct strengths and weaknesses against other types of magic.

@@ -1,4 +1,4 @@
-### Death & Necromancy Magic Cards
+### Death Magic Cards
 
 #### 1. Soul Summoning Card
 
@@ -24,4 +24,4 @@
 
 ---
 
-Both Soul Summoning and Necromancy are powerful and somewhat taboo forms of magic, focusing on control over life and death. While they are strong against each other, they each have their own strengths and weaknesses, offering a balanced yet dangerous array of options.
+Both Soul Summoning and Necromancy are equally matched in their affinities, creating a balanced and perilous set of choices within the domain of Death Magic.

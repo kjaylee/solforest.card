@@ -1,4 +1,4 @@
-### Time & Space Magic Cards
+### Chronospace Magic Cards
 
 #### 1. Chronomancy Card
 
@@ -24,4 +24,4 @@
 
 ---
 
-These Time & Space Magic cards each offer unique abilities, adding another layer of depth to the game's magical ecosystem.
+Each of these Chronospace Magic cards brings unique abilities to the table, adding another layer of complexity and strategy to the magical ecosystem.

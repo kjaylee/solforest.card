@@ -1,4 +1,4 @@
-### Mental Magic Cards
+### Psionics Magic Cards
 
 #### 1. Telepathy Card
 
@@ -35,4 +35,4 @@
 
 ---
 
-Each of these Mental Magic cards carries its own unique abilities and characteristics, contributing to a diverse and complex magical ecosystem.
+Each of these Psionics Magic cards carries its own unique abilities and characteristics, contributing to a diverse and complex magical ecosystem.
