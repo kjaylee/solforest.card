@@ -2,7 +2,7 @@
 
 ---
 
-#### 1. Gaia's Symphony (Universal Seasons + Cosmic Climate + Planetary Life Cycle)
+#### Gaia's Symphony (Universal Seasons + Cosmic Climate + Planetary Life Cycle)
 
 - **Attack Power**: 24
 - **Defense Power**: 21

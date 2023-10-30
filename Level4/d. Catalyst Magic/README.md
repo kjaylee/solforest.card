@@ -2,7 +2,7 @@
 
 ---
 
-#### 1. Seraphic Covenant (Divine Rebirth + Unbreakable Seal + Guardian of Souls)
+#### Seraphic Covenant (Divine Rebirth + Unbreakable Seal + Guardian of Souls)
 
 - **Attack Power**: 10
 - **Defense Power**: 20

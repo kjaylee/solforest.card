@@ -2,7 +2,7 @@
 
 ---
 
-#### 1. Cosmic Illusion (Quantum Reality + Sensory Void + Phantasmal Quake)
+#### Cosmic Illusion (Quantum Reality + Sensory Void + Phantasmal Quake)
 
 - **Attack Power**: 18
 - **Defense Power**: 17

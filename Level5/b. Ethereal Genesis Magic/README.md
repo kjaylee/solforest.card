@@ -2,7 +2,7 @@
 
 ---
 
-#### 1. Ethereal Genesis (Gaia's Symphony + Terra Firma Cyclone + Primordial Tempest + Cosmic Illusion)
+#### 2. Ethereal Genesis (Gaia's Symphony + Terra Firma Cyclone + Primordial Tempest + Cosmic Illusion)
 
 - **Attack Power**: 42
 - **Defense Power**: 40

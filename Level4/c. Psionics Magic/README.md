@@ -2,7 +2,7 @@
 
 ---
 
-#### 1. Quantum Consciousness (Omniscient Control + Galactic Manipulation + Cosmic Awareness)
+#### Quantum Consciousness (Omniscient Control + Galactic Manipulation + Cosmic Awareness)
 
 - **Attack Power**: 26
 - **Defense Power**: 22
