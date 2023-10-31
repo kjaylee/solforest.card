@@ -5,6 +5,8 @@
 #### 1. Ecosystem Magic (Phytomancy + Zoomancy)
 <center><img src="./Warden of Life.png" width="30%"></center>
 
+![alt](./Warden of Life.png){: width="50%"}
+
 - **Attack Power**: 10
 - **Defense Power**: 9
 - **Health**: 11
