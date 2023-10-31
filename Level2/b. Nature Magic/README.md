@@ -3,7 +3,7 @@
 ---
 
 #### 1. Ecosystem Magic (Phytomancy + Zoomancy)
-![alt "Warden of Life"](https://github.com/kjaylee/solforest.card/blob/main/Level2/b.%20Nature%20Magic/Warden%20of%20Life.png?raw=true "Warden of Life" =x250)
+![alt "Warden of Life"](https://github.com/kjaylee/solforest.card/blob/main/Level2/b.%20Nature%20Magic/Warden%20of%20Life.png?raw=true =250x)
 - **Attack Power**: 10
 - **Defense Power**: 9
 - **Health**: 11
