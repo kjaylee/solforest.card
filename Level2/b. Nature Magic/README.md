@@ -15,7 +15,7 @@
 ---
 
 #### 2. Climate Control Magic (Zoomancy + Meteoromancy)
-
+  <img src="./Tempest Tamer.png" width="30%"></img>
 - **Attack Power**: 13
 - **Defense Power**: 7
 - **Health**: 9
@@ -28,7 +28,7 @@
 ---
 
 #### 3. Seasonal Magic (Meteoromancy + Phytomancy)
-
+  <img src="./Seasonal Sage.png" width="30%"></img>
 - **Attack Power**: 11
 - **Defense Power**: 8
 - **Health**: 10
