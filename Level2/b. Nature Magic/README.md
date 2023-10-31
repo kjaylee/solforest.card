@@ -3,9 +3,8 @@
 ---
 
 #### 1. Ecosystem Magic (Phytomancy + Zoomancy)
-<center><img src="./Warden of Life.png" width="30%"></center>
-
-![|50](https://github.com/kjaylee/solforest.card/blob/main/Level2/b.%20Nature%20Magic/Warden%20of%20Life.png|width=10)
+<center>
+  <img src="./Warden of Life.png" width="30%">
 
 - **Attack Power**: 10
 - **Defense Power**: 9
@@ -15,7 +14,7 @@
 - **Range**: 3 tiles
 - **Strong Against**: Meteoromancy
 - **Story**: Dubbed the "Warden of Life," she can control both plants and animals, creating a balanced and harmonious battlefield. Her personality is a blend of calm wisdom and untamed spirit, making her as versatile as the ecosystem she controls. 
-
+</center>
 ---
 
 #### 2. Climate Control Magic (Zoomancy + Meteoromancy)
