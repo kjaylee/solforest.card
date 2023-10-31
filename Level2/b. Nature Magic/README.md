@@ -3,9 +3,7 @@
 ---
 
 #### 1. Ecosystem Magic (Phytomancy + Zoomancy)
-<center>
   <img src="./Warden of Life.png" width="30%">
-
 - **Attack Power**: 10
 - **Defense Power**: 9
 - **Health**: 11
@@ -14,7 +12,6 @@
 - **Range**: 3 tiles
 - **Strong Against**: Meteoromancy
 - **Story**: Dubbed the "Warden of Life," she can control both plants and animals, creating a balanced and harmonious battlefield. Her personality is a blend of calm wisdom and untamed spirit, making her as versatile as the ecosystem she controls. 
-</center>
 ---
 
 #### 2. Climate Control Magic (Zoomancy + Meteoromancy)
