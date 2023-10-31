@@ -1,4 +1,7 @@
 # solforest.card
+[![english](https://img.shields.io/badge/lang-english-red.svg)](https://github.com/kjaylee/solforest.card/blob/master/README.md)
+[![korean](https://img.shields.io/badge/lang-korean-blue.svg)](https://github.com/kjaylee/solforest.card/blob/master/README.kr.md)
+
 ### Magic Types and Their Affinities
 1. **Elemental Magic**
    - Pyromancy is strong against Hydromancy.
