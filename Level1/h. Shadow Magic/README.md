@@ -9,7 +9,7 @@
 - **Duration**: 2 turns
 - **Range**: 3 tiles
 - **Strong Against**: Shadow Conjuring
-- **Story**: Known as the "Shadowmaster," this witch girl commands the darkness itself. She can obscure vision, create illusions, or even solidify shadows into physical attacks. Her mysterious and elusive nature makes her a tricky opponent to deal with. She's secretive and cunning, adept at turning the tide of battle in her favor.
+- **Story**: Known as the "Shadowmaster," this girl commands the darkness itself. She can obscure vision, create illusions, or even solidify shadows into physical attacks. Her mysterious and elusive nature makes her a tricky opponent to deal with. She's secretive and cunning, adept at turning the tide of battle in her favor.
 
 #### 2. Shadow Conjuring Card
 
@@ -20,7 +20,7 @@
 - **Duration**: 3 turns
 - **Range**: 4 tiles
 - **Strong Against**: Umbramancy
-- **Story**: Often called the "Shadowcrafter," this witch girl specializes in summoning shadowy creatures and objects. Whether it's a shadow wolf to aid her in battle or shadow chains to bind her enemies, her conjurations are versatile and adaptive. She's imaginative and resourceful, able to think on her feet in any situation.
+- **Story**: Often called the "Shadowcrafter," this girl specializes in summoning shadowy creatures and objects. Whether it's a shadow wolf to aid her in battle or shadow chains to bind her enemies, her conjurations are versatile and adaptive. She's imaginative and resourceful, able to think on her feet in any situation.
 
 ---
 

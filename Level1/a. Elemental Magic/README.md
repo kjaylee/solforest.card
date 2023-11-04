@@ -9,7 +9,7 @@
 - **Duration**: 1 turn
 - **Range**: 3 tiles
 - **Strong Against**: Hydromancy
-- **Story**: Known as the "Flame Wielder," this witch girl has mastery over fire. She can cast fireballs, create walls of flame, and even cloak herself in fire. She's hot-headed and passionate, always looking to turn up the heat in battle.
+- **Story**: Known as the "Flame Wielder," this girl has mastery over fire. She can cast fireballs, create walls of flame, and even cloak herself in fire. She's hot-headed and passionate, always looking to turn up the heat in battle.
 
 #### 2. Hydromancy Card
 
@@ -20,7 +20,7 @@
 - **Duration**: 2 turns
 - **Range**: 4 tiles
 - **Strong Against**: Aeromancy
-- **Story**: Referred to as the "Water Sage," this witch girl can control water in all its forms. She can summon rain, create tidal waves, and even manipulate ice. She's calm and fluid, adapting easily to changing battle conditions.
+- **Story**: Referred to as the "Water Sage," this girl can control water in all its forms. She can summon rain, create tidal waves, and even manipulate ice. She's calm and fluid, adapting easily to changing battle conditions.
 
 #### 3. Aeromancy Card
 
@@ -31,7 +31,7 @@
 - **Duration**: 3 turns
 - **Range**: 5 tiles
 - **Strong Against**: Geomancy
-- **Story**: Often called the "Wind Whisperer," this witch girl has the power to control air currents and winds. She can generate powerful gusts, create wind barriers, and even summon storms. She's light on her feet and quick to react, making her a dynamic force on the battlefield.
+- **Story**: Often called the "Wind Whisperer," this girl has the power to control air currents and winds. She can generate powerful gusts, create wind barriers, and even summon storms. She's light on her feet and quick to react, making her a dynamic force on the battlefield.
 
 #### 4. Geomancy Card
 
@@ -42,7 +42,7 @@
 - **Duration**: 1 turn
 - **Range**: 2 tiles
 - **Strong Against**: Pyromancy
-- **Story**: Known as the "Earthshaker," this witch girl can manipulate the earth and stone. She can create rock walls, summon earthquakes, and even cause landslides. She's steady and unmovable, a rock-solid ally or foe.
+- **Story**: Known as the "Earthshaker," this girl can manipulate the earth and stone. She can create rock walls, summon earthquakes, and even cause landslides. She's steady and unmovable, a rock-solid ally or foe.
 
 ---
 

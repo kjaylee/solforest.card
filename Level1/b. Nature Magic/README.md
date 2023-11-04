@@ -9,7 +9,7 @@
 - **Duration**: 2 turns
 - **Range**: 2 tiles
 - **Strong Against**: Zoomancy
-- **Story**: Known as the "Guardian of the Forest," this witch girl has the power to control plants. She uses vines and leaves to entrap and defeat her enemies. Her calm demeanor and wisdom make her a formidable protector of nature.
+- **Story**: Known as the "Guardian of the Forest," this girl has the power to control plants. She uses vines and leaves to entrap and defeat her enemies. Her calm demeanor and wisdom make her a formidable protector of nature.
 
 #### 2. Zoomancy Card (Animal Magic)
 
@@ -20,7 +20,7 @@
 - **Duration**: 3 turns
 - **Range**: 3 tiles
 - **Strong Against**: Meteoromancy
-- **Story**: Called the "Beast Whisperer," this witch girl can control animals and use them to her advantage in battle. She is adventurous and untamed, finding kinship in the animal kingdom which she represents.
+- **Story**: Called the "Beast Whisperer," this girl can control animals and use them to her advantage in battle. She is adventurous and untamed, finding kinship in the animal kingdom which she represents.
 
 #### 3. Meteoromancy Card (Meteor Magic)
 
@@ -31,7 +31,7 @@
 - **Duration**: 1 turn
 - **Range**: 4 tiles
 - **Strong Against**: Phytomancy
-- **Story**: Known as the "Star Sorceress," this witch girl draws power from celestial bodies to unleash devastating attacks. With a mysterious aura, she embodies the infinite potential and volatility of the cosmos.
+- **Story**: Known as the "Star Sorceress," this girl draws power from celestial bodies to unleash devastating attacks. With a mysterious aura, she embodies the infinite potential and volatility of the cosmos.
 
 ---
 

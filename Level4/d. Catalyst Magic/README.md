@@ -11,7 +11,7 @@
 - **Duration**: 5 turns
 - **Range**: 6 tiles
 - **Strong Against**: Virtually all forms of magic due to its divine protection, irreversible seals, and soul guardianship
-- **Story**: Bestowed with the title of "Celestial Warden," this witch girl transcends the realms of life and restriction, becoming a nearly divine entity. Her ability to resurrect allies is now elevated to a celestial level, while her protective seals and soul guardianship have become unbreakable and universally effective. She essentially holds the keys to life and fate, making her a quasi-divine force on the battlefield.
+- **Story**: Bestowed with the title of "Celestial Warden," this girl transcends the realms of life and restriction, becoming a nearly divine entity. Her ability to resurrect allies is now elevated to a celestial level, while her protective seals and soul guardianship have become unbreakable and universally effective. She essentially holds the keys to life and fate, making her a quasi-divine force on the battlefield.
 
 ---
 

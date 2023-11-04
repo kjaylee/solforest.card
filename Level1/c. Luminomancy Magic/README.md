@@ -9,7 +9,7 @@
 - **Duration**: 1 turn
 - **Range**: 3 tiles
 - **Strong Against**: Photomancy
-- **Story**: Known as the "Thunder Mage," this witch girl wields the raw power of electricity. She can send shockwaves of electrical energy through her foes, making her an excellent disruptor on the battlefield. Quick-witted and electrifying, she lights up any fight she's in.
+- **Story**: Known as the "Thunder Mage," this girl wields the raw power of electricity. She can send shockwaves of electrical energy through her foes, making her an excellent disruptor on the battlefield. Quick-witted and electrifying, she lights up any fight she's in.
 
 #### 2. Photomancy Card (Light Magic)
 
@@ -20,7 +20,7 @@
 - **Duration**: 2 turns
 - **Range**: 4 tiles
 - **Strong Against**: Electromancy
-- **Story**: Referred to as the "Lightbringer," this witch girl has the power to control light itself. She can create illusions, blind enemies, or even focus light into a laser-like beam. With a graceful and radiant presence, she brings hope and clarity to her allies.
+- **Story**: Referred to as the "Lightbringer," this girl has the power to control light itself. She can create illusions, blind enemies, or even focus light into a laser-like beam. With a graceful and radiant presence, she brings hope and clarity to her allies.
 
 ---
 
