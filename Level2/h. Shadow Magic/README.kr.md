@@ -1,18 +1,18 @@
-### Level 2 Shadow Composite Magic Cards
+### 레벨 2 그림자 합성 마법 카드
 
 ---
 
-#### 1. Dark Creation Magic (Umbramancy + Shadow Conjuring)
+#### 1. 어둠 창조 마법 (엄브래머시 + 그림자 마법)
 
-- **Attack Power**: 8
-- **Defense Power**: 6
-- **Health**: 7
-- **Mana Cost**: 6
-- **Duration**: 3 turns
-- **Range**: 4 tiles
-- **Strong Against**: Both Umbramancy and Shadow Conjuring
-- **Story**: Known as the "Dark Creator," this girl wields the powers of both Umbramancy and Shadow Conjuring. She can not only manipulate shadows but also give them form and substance, making her an exceptional force on the battlefield. She can create complex illusions while summoning shadow creatures, making her both a master of deception and a formidable summoner. She is elusive and creative, embodying the ultimate expression of shadow magic.
+- **공격력**: 8
+- **방어력**: 6 6
+- **체력**: 7 7
+- **마나 비용**: 6
+- **지속 시간**: 3 턴
+- **범위**: 타일 4개
+- **강력한 상대**: 엄브래맨시 및 그림자 요술 모두
+- **스토리**: "어둠의 창조자"로 알려진 이 소녀는 엄브래맨시와 그림자 요술의 힘을 모두 사용합니다. 그림자를 조작할 수 있을 뿐만 아니라 그림자에 형태와 실체를 부여할 수 있어 전장에서 탁월한 힘을 발휘합니다. 그림자 생물을 소환하면서 복잡한 환영을 만들 수 있어 속임수의 달인이자 강력한 소환수입니다. 그녀는 그림자 마법의 궁극적인 표현을 구현하는 애매하고 창의적인 존재입니다.
 
 ---
 
-The Shadow Magic cards introduce a realm of mystique and adaptability to the magical ecosystem. The "Dark Creator" is the epitome of this, offering a potent combination of shadow manipulation and conjuration that can challenge any opponent.
+그림자 마법 카드는 마법 생태계에 신비함과 적응력의 영역을 도입합니다. "어둠의 창조자"가 그 전형으로, 그림자 조작과 마법의 강력한 조합을 통해 상대에게 도전할 수 있습니다.

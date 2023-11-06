@@ -1,18 +1,18 @@
-### Level 3 Chronospace Composite Magic Card
+### 레벨 3 크로노스 스페이스 합성 마법 카드
 
 ---
 
-#### 1. Eternal Warp (Spacetime Warp Magic + Spacetime Warp Magic)
+#### 1. 이터널 워프 (시공간 워프 마법 + 시공간 워프 마법)
 
-- **Attack Power**: 18
-- **Defense Power**: 16
-- **Health**: 18
-- **Mana Cost**: 12
-- **Duration**: 4 turns
-- **Range**: 6 tiles
-- **Strong Against**: Almost all forms due to its mastery over time and space
-- **Story**: Revered as the "Architect of Eternity," this girl is the epitome of time-space manipulation. With the power to control both dimensions in an even more advanced way, she can stop time for short periods and teleport multiple allies and enemies across vast distances. Her near-omnipotent abilities make her one of the most unpredictable and uncounterable entities on the battlefield.
+- **공격력**: 18
+- **방어력**: 16
+- **체력**: 18
+- **마나 비용**: 12
+- **지속 시간**: 4 턴
+- **범위**: 6 타일
+- **강력한 상대**: 시간과 공간에 대한 숙달로 거의 모든 형태에 대응 가능
+- **스토리**: '영원의 건축가'로 존경받는 이 소녀는 시공간 조작의 전형입니다. 두 차원을 더욱 발전된 방식으로 제어할 수 있는 힘을 가진 그녀는 짧은 시간 동안 시간을 멈추고 여러 아군과 적을 먼 거리로 순간이동시킬 수 있습니다. 전능에 가까운 능력 덕분에 전장에서 가장 예측하기 어렵고 상대하기 힘든 존재 중 하나입니다.
 
 ---
 
-The Level 3 Eternal Warp Magic card pushes the boundaries of what is considered possible in the realm of magical combat. By combining two Spacetime Warp Magic cards, this girl gains an almost god-like ability to manipulate the fabric of reality itself. This card represents the pinnacle of Chronospace Magic, offering unparalleled tactical depth and strategic complexity.
+레벨 3 이터널 워프 마법 카드는 마법 전투의 영역에서 가능한 한계를 뛰어넘는 카드입니다. 시공간 워프 마법 카드 두 장을 합치면 현실의 구조 자체를 조작할 수 있는 거의 신과 같은 능력을 얻게 됩니다. 이 카드는 크로노스페이스 마법의 정점을 보여주는 카드이며, 비교할 수 없는 전술적 깊이와 전략적 복잡성을 제공합니다.

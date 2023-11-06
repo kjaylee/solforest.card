@@ -1,44 +1,44 @@
-### Level 3 Catalyst Composite Magic Cards
+### 레벨 3 촉매제 합성 마법 카드
 
 ---
 
-#### 1. Sacred Resurrection (Resurrection Magic + Complete Protection Magic)
+#### 1. 신성한 부활 (부활 마법 + 완전한 보호 마법)
 
-- **Attack Power**: 5
-- **Defense Power**: 12
-- **Health**: 15
-- **Mana Cost**: 11
-- **Duration**: 4 turns
-- **Range**: 5 tiles
-- **Strong Against**: A broad spectrum of offensive and defensive magic
-- **Story**: Known as the "Eternal Guardian," this girl is a master of both resurrection and complete protection magic. She can bring allies back to life while surrounding them with near-impenetrable barriers, creating an environment where her team can act with impunity. Her nature is a synthesis of light and darkness, life and death, making her a spiritual beacon on the battlefield.
-
----
-
-#### 2. Resurrection Seal (Resurrection Magic + Sealing Magic)
-
-- **Attack Power**: 8
-- **Defense Power**: 8
-- **Health**: 10
-- **Mana Cost**: 11
-- **Duration**: 3 turns
-- **Range**: 4 tiles
-- **Strong Against**: Both life-based and affliction-based magic
-- **Story**: Referred to as the "Soul Gatekeeper," this girl merges resurrection and sealing powers. She can bring allies back while setting up devastating traps for enemies, creating a battlefield that's advantageous for her team. She holds the keys to life and constriction, making her an enigmatic and unpredictable force.
+- **공격력**: 5
+- **방어력**: 12
+- **체력**: 15
+- **마나 비용**: 11
+- **지속 시간**: 4 턴
+- **범위**: 5 타일
+- **강력한 상대**: 광범위한 공격 및 방어 마법 스펙트럼
+- **스토리**: "영원한 수호자"로 알려진 이 소녀는 부활 마법과 완벽한 보호 마법의 대가입니다. 아군을 부활시키는 동시에 거의 뚫을 수 없는 방어막으로 둘러싸서 아군이 마음 놓고 활동할 수 있는 환경을 조성할 수 있습니다. 빛과 어둠, 삶과 죽음의 합성체인 그녀의 본성은 전장의 정신적 지주가 되어줍니다.
 
 ---
 
-#### 3. Protective Seal (Complete Protection Magic + Sealing Magic)
+#### 2. 부활 봉인 (부활 마법 + 봉인 마법)
 
-- **Attack Power**: 4
-- **Defense Power**: 12
-- **Health**: 12
-- **Mana Cost**: 10
-- **Duration**: 3 turns
-- **Range**: 5 tiles
-- **Strong Against**: Both protective and destructive magic
-- **Story**: Known as the "Bastion Alchemist," this girl fuses the arts of warding and cursing into a unique blend of protective seals that can both protect allies and restrict enemies. Her dual abilities make her a fortress of defense and a web of peril, capable of changing the dynamics of the battlefield in an instant.
+- **공격력**: 8
+- **방어력**: 8
+- **체력**: 10
+- **마나 비용**: 11
+- **지속 시간**: 3 턴
+- **범위**: 타일 4개
+- **강력한 상대**: 생명력 기반 마법과 고통 기반 마법 모두
+- **스토리**: "영혼의 문지기"라고 불리는 이 소녀는 부활과 봉인의 힘을 합쳤습니다. 아군을 되살리는 동시에 적에게 치명적인 함정을 설치하여 아군에게 유리한 전장을 만들 수 있습니다. 생명과 수축의 열쇠를 쥐고 있어 예측할 수 없는 수수께끼의 힘을 지니고 있습니다.
 
 ---
 
-The Level 3 Catalyst Magic cards enhance the strategic depth and complexity of the game even further, offering players a broader range of tactical options. With these cards, witches can now excel in either pure defensive play, a balanced approach, or a deadly combination of offense and defense.
+#### 3. 보호 봉인 (완전 보호 마법 + 봉인 마법)
+
+- **공격력**: 4
+- **방어력**: 12
+- **체력**: 12
+- **마나 비용**: 10
+- **지속 시간**: 3 턴
+- **범위**: 5 타일
+- **강력한 상대**: 보호 마법과 파괴 마법 모두
+- **스토리**: "요새의 연금술사"로 알려진 이 소녀는 보호와 저주의 기술을 융합하여 아군을 보호하고 적을 제한할 수 있는 독특한 보호 인장을 만들어냅니다. 이중적인 능력으로 방어의 요새이자 위험의 거미줄이 되어 전장의 역학 관계를 순식간에 바꿀 수 있습니다.
+
+---
+
+레벨 3 카탈리스트 마법 카드는 게임의 전략적 깊이와 복잡성을 더욱 강화하여 플레이어에게 더 다양한 전술 옵션을 제공합니다. 이제 마녀는 이 카드를 사용하여 순수 방어 플레이, 균형 잡힌 접근 방식 또는 치명적인 공격과 방어의 조합에서 탁월한 능력을 발휘할 수 있습니다.

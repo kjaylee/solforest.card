@@ -1,16 +1,16 @@
-### Level 5 Quadruple-Composite Magic Cards
+### 레벨 5 4중 복합 마법 카드
 
-1. **Celestial Singularity (Celestial Inferno + Quantum Consciousness + Seraphic Covenant + Cosmic Illusion)**
-   - A reality-bending magic that merges elemental, mental, and divine energies into a singular point of power.
+1. **셀레스티얼 특이점 (셀레스티얼 인페르노 + 양자 의식 + 세라픽 언약 + 코스믹 일루전)** 
+   - 원소, 정신, 신성한 에너지를 하나의 힘으로 합쳐 현실을 뒤틀어버리는 마법입니다.
 
-2. **Ethereal Genesis (Gaia's Symphony + Terra Firma Cyclone + Primordial Tempest + Cosmic Illusion)**
-   - A magic that allows the user to generate and manipulate new forms of life and nature.
+2. **에테리얼 제네시스 (가이아의 교향곡 + 테라 피르마 사이클론 + 태초의 폭풍 + 코스믹 일루전)** 
+   - 새로운 형태의 생명체와 자연을 생성하고 조작할 수 있는 마법입니다.
 
-3. **Chrono-Mystical Nexus (Celestial Inferno + Quantum Consciousness + Primordial Tempest + Gaia's Symphony)**
-   - Combines elemental fury with the mysterious abilities to manipulate time, thought, and the natural world.
+3.  **크로노-미스틱 넥서스 (천공의 지옥 + 양자 의식 + 태초의 폭풍 + 가이아의 교향곡)**
+   - 원소의 분노와 시간, 생각, 자연계를 조작하는 신비한 능력을 결합합니다.
 
-4. **Divine Apocalypse (Seraphic Covenant + Celestial Inferno + Quantum Consciousness + Gaia's Symphony)**
-   - A heavenly magic with the power to bring forth catastrophic changes while safeguarding the sanctity of life.
+4. **디바인 아포칼립스 (세라픽 언약 + 천상의 지옥 + 양자 의식 + 가이아의 교향곡)** 
+   - 생명의 신성함을 지키면서 대재앙적인 변화를 가져올 수 있는 힘을 지닌 천상의 마법입니다.
 
-5. **Omnipotent Convergence (Cosmic Illusion + Quantum Consciousness + Seraphic Covenant + Terra Firma Cyclone)**
-   - An all-encompassing magic that unites the strengths of illusion, mind, divine protection, and earthly might.
+5. **전능한 융합 (코스믹 일루전 + 양자 의식 + 세라픽 언약 + 테라 피르마 사이클론)**
+   - 환영, 정신, 신성한 보호, 지상의 힘을 하나로 묶는 포괄적인 마법입니다.

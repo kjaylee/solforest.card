@@ -1,44 +1,44 @@
-### Level 3 Nature Composite Magic Cards
+### 레벨 3 자연 합성 마법 카드
 
 ---
 
-#### 1. Bio-Climate (Ecosystem Magic + Climate Control Magic)
+#### 1. 생물 기후 (생태계 마법 + 기후 제어 마법)
 
-- **Attack Power**: 15
-- **Defense Power**: 12
-- **Health**: 14
-- **Mana Cost**: 12
-- **Duration**: 2 turns
-- **Range**: 4 tiles
-- **Strong Against**: Phytomancy and Meteoromancy
-- **Story**: Known as the "Guardian of Balance," she masterfully integrates ecosystems and climate to create a dynamic, adaptive battlefield. Her ability to manipulate both flora, fauna, and weather make her an adaptable and strategic force. Her personality fuses the wisdom of an ancient forest with the unpredictability of a storm, making her a complex and challenging adversary.
-
----
-
-#### 2. Nature's Seasons (Ecosystem Magic + Seasonal Magic)
-
-- **Attack Power**: 13
-- **Defense Power**: 13
-- **Health**: 16
-- **Mana Cost**: 11
-- **Duration**: 3 turns
-- **Range**: 3 tiles
-- **Strong Against**: Zoomancy and Meteoromancy
-- **Story**: Dubbed the "Seer of Seasons," she combines the powers of ecosystems and celestial phenomena to create a harmonious yet ever-changing battlefield. Her character combines the nurturing aspects of an ecosystem with the cyclical wisdom of the seasons, making her a guardian of both time and life.
+- **공격력**: 15
+- **방어력**: 12
+- **체력**: 14 14
+- **마나 비용**: 12
+- **지속 시간**: 2턴
+- **범위**: 타일 4개
+- **강력한 상대**: 식물 마법과 유성 마법
+- **스토리**: "균형의 수호자"로 알려진 그녀는 생태계와 기후를 능숙하게 통합하여 역동적이고 적응력 있는 전장을 만들어냅니다. 동식물과 날씨를 모두 조종할 수 있는 능력 덕분에 그녀는 적응력이 뛰어나고 전략적인 힘을 발휘합니다. 고대 숲의 지혜와 폭풍의 예측 불가능성을 융합한 그녀의 성격은 복잡하고 도전적인 적입니다.
 
 ---
 
-#### 3. Climate Seasons (Climate Control Magic + Seasonal Magic)
+#### 2. 자연의 계절 (생태계 마법 + 계절 마법)
 
-- **Attack Power**: 16
-- **Defense Power**: 10
-- **Health**: 12
-- **Mana Cost**: 10
-- **Duration**: 2 turns
-- **Range**: 4 tiles
-- **Strong Against**: Phytomancy and Zoomancy
-- **Story**: Known as the "Tempest of Time," she fuses the control of weather and the changing seasons to manipulate the battlefield in both immediate and long-term ways. Her temperament is a balance between the fickle shifts of weather and the steady change of seasons, making her a mercurial yet reliable ally or foe.
+- **공격력**: 13
+- **방어력**: 13
+- **체력**: 16
+- **마나 비용**: 11
+- **지속 시간**: 3 턴
+- **범위**: 타일 3개
+- **강력한 상대**: 줌맨시 및 유성 마법
+- **스토리**: "계절의 선견자"라고 불리는 그녀는 생태계와 천체 현상의 힘을 결합하여 조화로우면서도 끊임없이 변화하는 전장을 만들어냅니다. 생태계의 육성 측면과 계절의 주기적 지혜를 결합한 캐릭터로 시간과 생명을 모두 지키는 수호자입니다.
 
 ---
 
-These Level 3 composite cards continue to expand the magical universe by adding further depth to the Nature Magic category. Each card builds upon the unique properties of its Level 2 predecessors, offering advanced strategic possibilities and challenging the players to adapt and innovate in their gameplay.
+#### 3. 기후 계절 (기후 제어 마법 + 계절 마법)
+
+- **공격력**: 16
+- **방어력**: 10
+- **체력**: 12
+- **마나 비용**: 10
+- **지속 시간**: 2턴
+- **범위**: 타일 4개
+- **강력한 상대**: 식물 마법과 줌맨시
+- **스토리**: "시간의 폭풍"으로 알려진 그녀는 날씨와 계절의 변화를 통제하여 즉각적이고 장기적인 방식으로 전장을 조종합니다. 변덕스러운 날씨 변화와 꾸준한 계절 변화 사이에서 균형을 잡는 기질로, 변덕스럽지만 믿을 수 있는 아군 또는 적군이 될 수 있습니다.
+
+---
+
+이 레벨 3 합성 카드는 자연 마법 카테고리에 깊이를 더하여 마법 세계를 계속 확장합니다. 각 카드는 이전 레벨 2 카드의 고유한 특성을 기반으로 하여 더욱 발전된 전략적 가능성을 제공하며 플레이어가 게임 플레이에 적응하고 혁신하도록 도전합니다.

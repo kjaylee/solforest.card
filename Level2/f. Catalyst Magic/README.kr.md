@@ -1,40 +1,40 @@
-### Level 2 Catalyst Composite Magic Cards
+### 레벨 2 촉매 컴포지트 매직 카드
 
 ---
 
-#### 1. Resurrection Magic (Cursing + Healing)
+#### 1. 부활 마법 (저주 + 치유)
 
-- **Attack Power**: 4
-- **Defense Power**: 4
-- **Health**: 8
-- **Mana Cost**: 7
-- **Duration**: 2 turns
-- **Range**: 3 tiles
-- **Strong Against**: Both Cursing and Healing
-- **Story**: Known as the "Soul Warden," this girl combines the power of curses and healing to manipulate life forces directly. She can not only heal her allies but also revive them with a cursed condition, making them even more potent for a short period. She's a blend of darkness and light, straddling the line between life and death.
+- **공격력**: 4
+- **방어력**: 4
+- **체력**: 8
+- **마나 비용**: 7
+- **지속 시간**: 2 턴
+- **범위**: 3 타일
+- **강점**: 저주와 치유 모두에 강함
+- **스토리**: "영혼의 감시자"로 알려진 이 소녀는 저주와 치유의 힘을 결합하여 생명력을 직접 조작합니다. 동맹을 치유할 뿐만 아니라 저주받은 상태로 부활시켜 짧은 기간 동안 더욱 강력하게 만듭니다. 그녀는 어둠과 빛의 혼합체로, 생명과 죽음 사이의 경계를 걷습니다.
 
-#### 2. Complete Protection Magic (Healing + Warding)
+#### 2. 완전 보호 마법 (치유 + 보호)
 
-- **Attack Power**: 2
-- **Defense Power**: 9
-- **Health**: 9
-- **Mana Cost**: 6
-- **Duration**: 3 turns
-- **Range**: 4 tiles
-- **Strong Against**: Both Healing and Warding
-- **Story**: Referred to as the "Sanctuary Sentinel," this girl is the epitome of defense, merging healing and warding spells to create an almost impregnable protective zone around her allies. Her compassionate and steadfast nature make her the ultimate guardian, capable of both preventing and undoing harm.
+- **공격력**: 2
+- **방어력**: 9
+- **체력**: 9
+- **마나 비용**: 6
+- **지속 시간**: 3 턴
+- **범위**: 4 타일
+- **강점**: 치유와 보호 모두에 강함
+- **스토리**: "성역의 파수꾼"이라 불리는 이 소녀는 방어의 극치를 나타내며, 치유와 보호 마법을 결합하여 동맹 주변에 거의 뚫을 수 없는 보호 구역을 만듭니다. 그녀의 연민과 굳건함은 해를 예방하고 되돌릴 수 있는 최고의 수호자로 만듭니다.
 
-#### 3. Sealing Magic (Warding + Cursing)
+#### 3. 봉인 마법 (보호 + 저주)
 
-- **Attack Power**: 6
-- **Defense Power**: 6
-- **Health**: 5
-- **Mana Cost**: 7
-- **Duration**: 2 turns
-- **Range**: 3 tiles
-- **Strong Against**: Both Warding and Cursing
-- **Story**: Known as the "Sealbreaker," this girl combines warding and cursing powers to create magical seals that not only protect but also afflict enemies who dare cross them. These seals can trap enemies, making them easy targets for her allies. She's tactical and cunning, creating labyrinths of danger and safety on the battlefield.
+- **공격력**: 6
+- **방어력**: 6
+- **체력**: 5
+- **마나 비용**: 7
+- **지속 시간**: 2 턴
+- **범위**: 3 타일
+- **강점**: 보호와 저주 모두에 강함
+- **스토리**: "봉인 파괴자"로 알려진 이 소녀는 보호와 저주의 힘을 결합하여 적들을 공격할 뿐만 아니라 적이 넘나들면 고통을 주는 마법의 봉인을 만듭니다. 이 봉인은 적들을 함정에 빠뜨려 동맹들이 쉽게 타격할 수 있게 합니다. 그녀는 전술적이고 교활하며, 전장에 위험과 안전의 미로를 만들어냅니다.
 
 ---
 
-These Catalyst Magic cards add more layers of strategy to the magical ecosystem, offering a blend of offensive and defensive capabilities. Each witch girl in this category brings a unique dual-aspect magic that makes her invaluable in different scenarios.
+이 촉매 매직 카드들은 마법 생태계에 전략의 더 많은 층을 추가하며, 공격과 방어 능력의 혼합을 제공합니다. 이 범주에 있는 각 마녀 소녀는 그녀들을 다양한 시나리오에서 가치 있게 만드는 독특한 이중 측면의 마법을 가지고 있습니다.

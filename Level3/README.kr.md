@@ -1,43 +1,72 @@
-### Level 3 Magic Cards
+### 레벨 3 마법 카드
 
-### Elemental Magic
-1. **Thermal Mist (Steam Magic + Fog Magic)**
-2. **Lava Surge (Steam Magic + Volcanic Magic)**
-3. **Desert Wind (Fog Magic + Sandstorm Magic)**
-4. **Mountain Fire (Sandstorm Magic + Volcanic Magic)**
 
-### Nature Magic
-1. **Bio-Climate (Ecosystem Magic + Climate Control Magic)**
-2. **Nature's Seasons (Ecosystem Magic + Seasonal Magic)**
-3. **Climate Seasons (Climate Control Magic + Seasonal Magic)**
 
-### Luminomancy Magic
-1. **Hyper Laser (Laser Magic + Laser Magic)**
 
-### Psionics Magic
-1. **Futuristic Manipulation (Future Prediction Magic + Manipulation Magic)**
-2. **Collective Forecast (Future Prediction Magic + Group Control Magic)**
-3. **Mass Manipulation (Manipulation Magic + Group Control Magic)**
+### 원소 마법
+1. **열 안개 (증기 마법 + 안개 마법)** 
+2. **용암 쇄도 (증기 마법 + 화산 마법)** 
+3. **사막의 바람 (안개 마법 + 모래 폭풍 마법)** 
+4. **산불 (모래폭풍 마법 + 화산 마법)** 
 
-### Chronospace Magic
-1. **Eternal Warp (Spacetime Warp Magic + Spacetime Warp Magic)**
 
-### Catalyst Magic
-1. **Sacred Resurrection (Resurrection Magic + Complete Protection Magic)**
-2. **Resurrection Seal (Resurrection Magic + Sealing Magic)**
-3. **Protective Seal (Complete Protection Magic + Sealing Magic)**
 
-### Transformation Magic
-1. **Absolute Morphing (Complete Transformation Magic + Complete Transformation Magic)**
 
-### Shadow Magic
-1. **Abyssal Shadows (Dark Creation Magic + Dark Creation Magic)**
+### 자연 마법
+1. **바이오-기후 (생태계 마법 + 기후 조절 마법)** 
+2. **자연의 계절 (생태계 마법 + 계절 마법)** 
+3. **기후 계절 (기후 제어 마법 + 계절 마법)** 
 
-### Death Magic
-1. **Soul Dominion (Soul Resurrection Magic + Soul Resurrection Magic)**
 
-### Mystic Magic
-1. **Distorted Vibration (Reality Distortion Magic + Vibration Magic)**
-2. **Sonic Illusion (Vibration Magic + Hallucination Magic)**
-3. **Distorted Hallucination (Reality Distortion Magic + Hallucination Magic)**
 
+
+### 발광 마법
+1. **하이퍼 레이저 (레이저 마법 + 레이저 마법)** 
+
+
+
+
+### 사이오닉스 마법
+1. **미래 조작 (미래 예측 마법 + 조작 마법)** 
+2. **집단 예측 (미래 예측 마법 + 집단 제어 마법)** 
+3. **대량 조작 (조작 마법 + 그룹 제어 마법)** 
+
+
+
+
+### 크로노스 스페이스 마법
+1. **이터널 워프 (시공간 워프 마법 + 시공간 워프 마법)** 
+
+
+
+
+### 촉매제 마법
+1. **신성한 부활 (부활 마법 + 완전 보호 마법)** 
+2. **부활 봉인 (부활 마법 + 봉인 마법)** 
+3. **보호의 봉인 (완전 보호 마법 + 봉인 마법)** 
+
+
+
+
+### 변신 마법
+1. **절대 변신 (변신 마법 완성 + 변신 마법 완성)** 
+
+
+
+
+### 그림자 마법
+1. **아비살 그림자 (암흑 생성 마법 + 암흑 생성 마법)**
+
+
+
+
+### 죽음의 마법 
+1. **소울 도미네이션 (영혼 부활 마법 + 영혼 부활 마법)**
+
+
+
+
+### 미스틱 마법
+1. **왜곡된 진동 (현실 왜곡 마법 + 진동 마법)**
+2. **소닉 일루전 (진동 마법 + 환각 마법)**
+3. **왜곡된 환각 (현실 왜곡 마법 + 환각 마법)**

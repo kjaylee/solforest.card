@@ -1,44 +1,44 @@
-### Level 2 Psionics Composite Magic Cards
+### 레벨 2 초능력 합성 마법 카드
 
 ---
 
-#### 1. Future Prediction Magic (Telepathy + Divination)
+#### 1. 미래 예지 마법 (텔레파시 + 점술)
 
-- **Attack Power**: 8
-- **Defense Power**: 9
-- **Health**: 11
-- **Mana Cost**: 7
-- **Duration**: 3 turns
-- **Range**: 4 tiles
-- **Strong Against**: Both Telepathy and Divination
-- **Story**: Known as the "Seer of All," this girl combines mind-reading with foresight to not only predict but also influence future events. Her unparalleled strategic advantage makes her almost untouchable on the battlefield. With the ability to read minds and see the future, she can effortlessly avoid threats while setting up advantages for her team.
-
----
-
-#### 2. Manipulation Magic (Divination + Mind Control)
-
-- **Attack Power**: 11
-- **Defense Power**: 6
-- **Health**: 9
-- **Mana Cost**: 9
-- **Duration**: 2 turns
-- **Range**: 3 tiles
-- **Strong Against**: Both Divination and Mind Control
-- **Story**: Named the "Mastermind," this girl combines foresight with control over her enemies. Not only can she predict their moves, but she can also manipulate them into unfavorable positions. Her skills make her a potent disruptor in battle, sowing chaos and confusion among enemy ranks.
+- **공격력**: 8
+- **방어력**: 9
+- **체력**: 11
+- **마나 비용**: 7
+- **지속 시간**: 3 턴
+- **범위**: 4 타일
+- **강점**: 텔레파시와 점술에 모두 강함
+- **스토리**: "모든 것을 보는 예언자"로 알려진 이 소녀는 마음을 읽는 능력과 예지력을 결합하여 미래를 예측할 뿐만 아니라 미래 사건에 영향을 미칩니다. 그녀의 비교할 수 없는 전략적 이점은 전투에서 거의 무적으로 만들어줍니다. 마음을 읽고 미래를 내다보면서 그녀는 위협을 쉽게 피하고 팀에게 유리한 상황을 조성할 수 있습니다.
 
 ---
 
-#### 3. Group Control Magic (Mind Control + Telepathy)
+#### 2. 조종 마법 (점술 + 마음 제어)
 
-- **Attack Power**: 7
-- **Defense Power**: 7
-- **Health**: 10
-- **Mana Cost**: 8
-- **Duration**: 2 turns
-- **Range**: 3 tiles
-- **Strong Against**: Both Mind Control and Telepathy
-- **Story**: Known as the "Conductor of Will," this girl has the power to control multiple minds simultaneously while reading their thoughts. Her dual abilities make her a formidable leader, capable of orchestrating complex strategies and turning the tide of battle in her favor.
+- **공격력**: 11
+- **방어력**: 6
+- **체력**: 9
+- **마나 비용**: 9
+- **지속 시간**: 2 턴
+- **범위**: 3 타일
+- **강점**: 점술과 마음 제어에 모두 강함
+- **스토리**: "걸물"로 불리는 이 소녀는 예지력과 적의 마음을 제어하는 능력을 결합합니다. 적의 행동을 예측할 수 있는 것은 물론이고, 적들을 불리한 위치로 조종할 수도 있습니다. 그녀의 능력은 전투에서 강력한 혼란 요소가 되어 적진에 혼란과 혼돈을 뿌립니다.
 
 ---
 
-These Level 2 Psionics Magic cards add new layers of depth and strategy to the already intricate magical ecosystem. By combining different psionic powers, these witches gain capabilities that can significantly alter the dynamics of any magical conflict.
+#### 3. 집단 제어 마법 (마음 제어 + 텔레파시)
+
+- **공격력**: 7
+- **방어력**: 7
+- **체력**: 10
+- **마나 비용**: 8
+- **지속 시간**: 2 턴
+- **범위**: 3 타일
+- **강점**: 마음 제어와 텔레파시에 모두 강함
+- **스토리**: "의지의 지휘자"로 알려진 이 소녀는 여러 사람의 마음을 동시에 제어하면서 그들의 생각을 읽을 수 있는 힘을 가지고 있습니다. 그녀의 이중 능력은 복잡한 전략을 짜고 전투의 흐름을 자신의 편으로 만들 수 있는 뛰어난 리더로 만들어줍니다.
+
+---
+
+이 레벨 2 초능력 마법 카드들은 이미 복잡한 마법 생태계에 새로운 깊이와 전략을 더합니다. 다양한 초능력을 결합함으로써 이 마녀들은 마법 갈등의 역학을 크게 변화시킬 수 있는 능력을 얻습니다.

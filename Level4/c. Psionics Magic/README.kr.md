@@ -1,18 +1,18 @@
-### Level 4 Psionics Composite Magic Cards
+### 레벨 4 사이오닉스 합성 마법 카드
 
 ---
 
-#### Quantum Consciousness (Omniscient Control + Galactic Manipulation + Cosmic Awareness)
+#### 양자 의식 (전지적 통제 + 은하계 조작 + 우주 인식)
 
-- **Attack Power**: 26
-- **Defense Power**: 22
-- **Health**: 25
-- **Mana Cost**: 27
-- **Duration**: 4 turns
-- **Range**: 7 tiles
-- **Strong Against**: All forms of magic due to its transcendent awareness and control
-- **Story**: Hailed as the "Mind of the Multiverse," this girl attains a level of awareness and control that is virtually unparalleled. She not only can manipulate individual minds and predict future events but her consciousness extends to a galactic, even cosmic level. This allows her to anticipate and adapt to virtually any magical form or strategy, making her almost a divine entity in the realm of Psionics.
+- **공격력**: 26
+- 방어력 **: 22
+- 건강**: 25
+- **마나 비용**: 27
+- **지속 시간**: 4 턴
+- **범위**: 7 타일
+- **강력한 상대**: 초월적인 인식과 제어로 모든 형태의 마법을 다룰 수 있습니다.
+- **스토리**: "다중 우주의 마음"으로 칭송받는 이 소녀는 사실상 타의 추종을 불허하는 수준의 인식과 통제력을 지니고 있습니다. 그녀는 개인의 마음을 조종하고 미래의 사건을 예측할 수 있을 뿐만 아니라 그녀의 의식은 은하계, 심지어 우주 수준까지 확장됩니다. 이를 통해 그녀는 거의 모든 마법 형태나 전략을 예측하고 적응할 수 있으며, 사이오닉스 영역에서는 거의 신적인 존재에 가깝죠.
 
 ---
 
-The Level 4 Psionics Composite card, Quantum Consciousness, is the epitome of mental mastery and strategic depth. With an incomparable fusion of Omniscient Control, Galactic Manipulation, and Cosmic Awareness, this card defies the limitations of individual and group control, transcending into a realm of almost omnipotent capabilities. For a player skilled enough to wield such immense power, Quantum Consciousness can alter the fabric of the magical battlefield, rendering conventional strategies and powers nearly obsolete.
+레벨 4 사이오닉스 합성 카드인 양자 의식은 정신적 숙달과 전략적 깊이의 전형입니다. 전지적 통제, 은하계 조작, 우주 인식이 융합된 이 카드는 개인 및 그룹 제어의 한계를 뛰어넘어 거의 전능한 능력의 영역으로 넘어갑니다. 엄청난 힘을 발휘할 수 있을 만큼 숙련된 플레이어라면 양자 의식을 통해 마법 전장의 구조를 바꾸고 기존의 전략과 힘을 거의 쓸모없게 만들 수 있습니다.

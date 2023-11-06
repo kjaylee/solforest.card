@@ -1,38 +1,38 @@
-### Mystic Magic Cards
+#### 미스틱 마법 카드
 
-#### 1. Illusion Card
+##### 1. 환상 마법 카드
 
-- **Attack Power**: 5
-- **Defense Power**: 4
-- **Health**: 6
-- **Mana Cost**: 4
-- **Duration**: 3 turns
-- **Range**: 3 tiles
-- **Strong Against**: Gravimancy
-- **Story**: Known as the "Illusionist," this girl can manipulate what others perceive, creating false realities or making herself invisible. She uses her skills to deceive enemies and create opportunities for her allies. Her nature is as elusive as her magic.
+- **공격력**: 5
+- **방어력**: 4
+- **체력**: 6
+- **마나 비용**: 4
+- **지속 시간**: 3턴
+- **범위**: 3 타일
+- **강력한 상대**: 중력 마법
+- **스토리**: "환상술사"라고 알려진 이 소녀는 다른 사람들이 인지하는 것을 조작하여 거짓 현실을 만들거나 자신을 보이지 않게 할 수 있다. 적을 속이고 동료들에게 기회를 만들어 주는데 그녀의 기술을 사용한다. 그녀의 성격은 그녀의 마법처럼 알 수 없다.
 
-#### 2. Gravimancy Card
+##### 2. 중력 마법 카드
 
-- **Attack Power**: 3
-- **Defense Power**: 6
-- **Health**: 5
-- **Mana Cost**: 5
-- **Duration**: 2 turns
-- **Range**: 4 tiles
-- **Strong Against**: Sonimancy
-- **Story**: The "Gravimancer" witch girl manipulates gravitational forces, making it difficult for enemies to move or attack. She can also lighten the force around her allies, aiding their mobility. She is a ponderous thinker, always contemplating the weight of her actions.
+- **공격력**: 3
+- **방어력**: 6
+- **체력**: 5
+- **마나 비용**: 5
+- **지속 시간**: 2턴
+- **범위**: 4 타일
+- **강력한 상대**: 음향 마법
+- **스토리**: "중력술사" 마녀 소녀는 중력을 조작하여 적들이 움직이거나 공격하기 어렵게 만든다. 또한 그녀는 동료들 주변의 힘을 가볍게 해 그들의 기동성을 돕는다. 그녀는 항상 자신의 행동의 무게를 생각하는 심오한 사고를 가진다.
 
-#### 3. Sonimancy Card
+##### 3. 음향 마법 카드
 
-- **Attack Power**: 6
-- **Defense Power**: 3
-- **Health**: 4
-- **Mana Cost**: 3
-- **Duration**: 1 turn
-- **Range**: 5 tiles
-- **Strong Against**: Illusion
-- **Story**: The "Sonimancer" witch girl can manipulate sound waves, disorienting enemies and shattering obstacles. Her magic is as versatile as it is disarming, capable of both healing and harm. She is a vivacious and energetic individual, never missing a beat in battle or life.
+- **공격력**: 6
+- **방어력**: 3
+- **체력**: 4
+- **마나 비용**: 3
+- **지속 시간**: 1턴
+- **범위**: 5 타일
+- **강력한 상대**: 환상 마법
+- **스토리**: "음향술사" 마녀 소녀는 사운드 웨이브를 조작하여 적을 혼란시키고 장애물을 파괴한다. 그녀의 마법은 다양하며 무장해제가 가능하다. 치유와 해를 둘 다 할 수 있다. 그녀는 생기발랄하고 에너지가 넘치며 전투나 삶에서 결코 박자를 놓치지 않는다.
 
 ---
 
-Mystic Magic encompasses a range of unconventional and unpredictable forms of magic. From illusion to gravimancy and sonimancy, this category provides a wide array of tactics, making it strong against more focused or specialized types of magic.
+미스틱 마법은 예측할 수 없고 전통적이지 않은 마법 형태의 범위를 포함한다. 환상에서 중력마법과 음향마법에 이르기까지, 이 카테고리는 다양한 전술을 제공하며, 더 집중된 또는 전문화된 마법 유형에 강하다.

@@ -1,57 +1,57 @@
-### Level 2 Elemental Composite Magic Cards
+### 레벨 2 원소 복합 마법 카드
 
 ---
 
-#### 1. Steam Magic (Pyromancy + Hydromancy)
+#### 1. 스팀 마법 (화염 마법 + 수계 마법)
 
-- **Attack Power**: 11
-- **Defense Power**: 9
-- **Health**: 9
-- **Mana Cost**: 9
-- **Duration**: 1 turn
-- **Range**: 3 tiles
-- **Strong Against**: Aeromancy
-- **Story**: Known as the "Mistress of Mist," she combines the fire and water elements to unleash scalding steam on her enemies. The steam not only burns but also provides a defensive mist, disorienting the enemy. Her personality is a mix of fiery passion and fluid adaptability, making her a formidable and unpredictable opponent.
-
----
-
-#### 2. Fog Magic (Hydromancy + Aeromancy)
-
-- **Attack Power**: 8
-- **Defense Power**: 12
-- **Health**: 11
-- **Mana Cost**: 7
-- **Duration**: 3 turns
-- **Range**: 5 tiles
-- **Strong Against**: Geomancy
-- **Story**: Dubbed the "Veilweaver," she combines water and air to create dense fog on the battlefield. The fog obscures vision and dampens sound, providing tactical advantages. Her demeanor is calm like water but can be as swiftly changing as the wind, making her a slippery foe.
+- **공격력**: 11
+- **방어력**: 9
+- **체력**: 9
+- **마나 비용**: 9
+- **지속 시간**: 1 턴
+- **범위**: 3 타일
+- **강력한 상대**: 풍마법에
+- **스토리**: "안개의 여주인"으로 알려진 그녀는 불과 물의 원소를 결합하여 적에게 끓는 증기를 내뿜습니다. 이 증기는 불만 태우는 것이 아니라 방어적인 안개를 만들어 적을 혼란에 빠트립니다. 그녀의 성격은 불같은 열정과 유동적인 적응성의 혼합체로, 그녀를 예측할 수 없는 강력한 상대로 만듭니다.
 
 ---
 
-#### 3. Sandstorm Magic (Aeromancy + Geomancy)
+#### 2. 안개 마법 (수계 마법 + 풍마법)
 
-- **Attack Power**: 11
-- **Defense Power**: 11
-- **Health**: 10
-- **Mana Cost**: 5
-- **Duration**: 2 turns
-- **Range**: 4 tiles
-- **Strong Against**: Pyromancy
-- **Story**: Known as the "Desert Tempest," she fuses air and earth to summon fierce sandstorms that not only damage but also disrupt the movements of her enemies. She embodies the swiftness of the wind and the resilience of the earth, making her both a relentless and enduring force.
-
----
-
-#### 4. Volcanic Magic (Geomancy + Pyromancy)
-
-- **Attack Power**: 14
-- **Defense Power**: 8
-- **Health**: 8
-- **Mana Cost**: 7
-- **Duration**: 1 turn
-- **Range**: 3 tiles
-- **Strong Against**: Hydromancy
-- **Story**: Also known as the "Lava Queen," she blends fire and earth to call forth volcanic eruptions, spewing lava and ash. Her temperament is as volatile as a volcano yet as steadfast as a mountain. Her spells can create both offensive and defensive barriers, making her a well-rounded adversary.
+- **공격력**: 8
+- **방어력**: 12
+- **체력**: 11
+- **마나 비용**: 7
+- **지속 시간**: 3 턴
+- **범위**: 5 타일
+- **강력한 상대**: 지마법에
+- **스토리**: "장막 짜는 자"로 불리는 그녀는 물과 공기를 결합하여 전장에 짙은 안개를 만들어냅니다. 이 안개는 시야를 가리고 소리를 감쇄시켜 전술적 이점을 제공합니다. 그녀의 태도는 물처럼 평온하지만 바람처럼 빠르게 변할 수 있어, 미끄러운 적으로 만듭니다.
 
 ---
 
-These Level 2 composite cards offer a new layer of strategy, blending the strengths and weaknesses of their foundational Elemental Magic cards. Each card presents a unique set of capabilities that can turn the tide of battle in exciting ways.
+#### 3. 모래폭풍 마법 (풍마법 + 지마법)
+
+- **공격력**: 11
+- **방어력**: 11
+- **체력**: 10
+- **마나 비용**: 5
+- **지속 시간**: 2 턴
+- **범위**: 4 타일
+- **강력한 상대**: 화염 마법에
+- **스토리**: "사막의 폭풍"으로 알려진 그녀는 공기와 대지를 융합하여 적을 해치고 움직임을 방해하는 강력한 모래폭풍을 소환합니다. 그녀는 바람의 빠름과 대지의 강인함을 내포하고 있어, 끈질기고 지속적인 힘을 가진 존재입니다.
+
+---
+
+#### 4. 화산 마법 (지마법 + 화염 마법)
+
+- **공격력**: 14
+- **방어력**: 8
+- **체력**: 8
+- **마나 비용**: 7
+- **지속 시간**: 1 턴
+- **범위**: 3 타일
+- **강력한 상대**: 수계 마법에
+- **스토리**: "용암의 여왕"으로도 알려진 그녀는 불과 대지를 결합하여 화산 분출을 일으키고, 용암과 재를 뿜어냅니다. 그녀의 기질은 화산처럼 변덕스럽지만 산처럼 단단합니다. 그녀의 주문은 공격과 방어 장벽을 모두 만들어내, 둥근 전략적 상대가 됩니다.
+
+---
+
+레벨 2 복합 카드들은 기초 원소 마법 카드들의 장단점을 혼합하여 새로운 전략 층을 제공합니다. 각 카드는 전투의 흐름을 흥미롭게 바꿀 수 있는 고유한 능력들을 보여줍니다.

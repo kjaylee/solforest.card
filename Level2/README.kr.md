@@ -1,42 +1,52 @@
-### Level 2 Magic Cards
+### 레벨 2 마법 카드
 
-#### Elemental Magic
-1. **Steam Magic (Pyromancy + Hydromancy)**
-2. **Fog Magic (Hydromancy + Aeromancy)**
-3. **Sandstorm Magic (Aeromancy + Geomancy)**
-4. **Volcanic Magic (Geomancy + Pyromancy)**
 
-#### Nature Magic
-1. **Ecosystem Magic (Phytomancy + Zoomancy)**
-2. **Climate Control Magic (Zoomancy + Meteoromancy)**
-3. **Seasonal Magic (Meteoromancy + Phytomancy)**
+#### 엘리멘탈 매직
+1. **증기 마법 (파이로맨시 + 하이드로맨시)** 1.
+2. **안개 마법 (하이드로맨시 + 에어로맨시)** 2.
+3. **모래 폭풍 마법 (공중 마법 + 지마법)** 3.
+4. **화산 마법 (지마술 + 화염 마법)** 4.
 
-#### Luminomancy Magic
-1. **Laser Magic (Electromancy + Photomancy)**
 
-#### Psionics Magic
-1. **Future Prediction Magic (Telepathy + Divination)**
-2. **Manipulation Magic (Divination + Mind Control)**
-3. **Group Control Magic (Mind Control + Telepathy)**
+#### 자연 마법
+1. **생태계 마법 (식물 마법 + 줌맨시)** 1.
+2. **기후 제어 마법 (줌맨시 + 유성 마법)** 2.
+3. **계절 마법 (유성 마법 + 식물 마법)** 3.
 
-#### Chronospace Magic
-1. **Spacetime Warp Magic (Chronomancy + Teleportation)**
 
-#### Catalyst Magic
-1. **Resurrection Magic (Cursing + Healing)**
-2. **Complete Protection Magic (Healing + Warding)**
-3. **Sealing Magic (Warding + Cursing)**
+#### 루미노맨시 마법
+1. **레이저 마법 (일렉트로맨시 + 포토맨시)** 2.
 
-#### Transformation Magic
-1. **Complete Transformation Magic (Shape-shifting + Transmutation)**
 
-#### Shadow Magic
-1. **Dark Creation Magic (Umbramancy + Shadow Conjuring)**
+#### 사이오닉스 마법
+1. **미래 예측 마법 (텔레파시 + 점술)**
+2. **조작 마법 (점술 + 마인드 컨트롤)** 2.
+3. **그룹 제어 마법 (마인드 컨트롤 + 텔레파시)** 3.
 
-#### Death Magic
-1. **Soul Resurrection Magic (Soul Summoning + Necromancy)**
 
-#### Mystic Magic
-1. **Reality Distortion Magic (Illusion + Gravimancy)**
-2. **Vibration Magic (Gravimancy + Sonimancy)**
-3. **Hallucination Magic (Sonimancy + Illusion)**
+#### 크로노스 스페이스 매직
+1. **시공간 워프 마법 (크로노맨시 + 순간이동)** 1.
+
+
+#### 촉매 마법
+1. **부활 마법 (저주 + 치유)**
+2. **완전 보호 마법 (치유 + 와딩)** 2.
+3. **봉인 마법 (와딩 + 저주)** 3.
+
+
+#### 변신 마법
+1. **변환 마법 완성 (변신 + 변신)** 2.
+
+
+#### 그림자 마법
+1. **암흑 생성 마법 (엄브래머시 + 그림자 마법)**
+
+
+#### 죽음의 마법
+1. **소울 부활 마법 (영혼 소환 + 강령술)**
+
+
+#### 미스틱 매직
+1. **현실 왜곡 마법 (환영 + 중력)**
+2. **진동 마법 (중력 + 음력)** 2.
+3. **환각 마법 (음파력 + 환영)** 3.

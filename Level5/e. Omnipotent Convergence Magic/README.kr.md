@@ -1,18 +1,23 @@
-### Level 5 Composite Magic Cards
+### 레벨 5 합성 마법 카드
+
 
 ---
 
-#### 5. Omnipotent Convergence (Cosmic Illusion + Quantum Consciousness + Seraphic Covenant + Terra Firma Cyclone)
 
-- **Attack Power**: 50
-- **Defense Power**: 48
-- **Health**: 57
-- **Mana Cost**: 65
-- **Duration**: 12 turns
-- **Range**: 18 tiles
-- **Strong Against**: Virtually all forms of magic due to its unparalleled mastery over illusion, mind control, divine protection, and elemental forces.
-- **Story**: Known as the "Master of All Realms," this girl defies categorization. Her magic converges the illusionary realms of Cosmic Illusion, the psionic power of Quantum Consciousness, the divine protection of Seraphic Covenant, and the elemental ferocity of Terra Firma Cyclone into a singular, unfathomable entity. She wields the power to deceive reality, dominate minds, protect souls, and reshape the earth, all while maintaining an intricate balance among these diverse powers. The Omnipotent Convergence is the pinnacle of magical arts, an all-encompassing force that can simultaneously destroy and create, deceive and reveal, dominate and protect. It's a paradoxical magic that brings together the quintessence of each magical discipline into a unified whole. This card not only challenges the boundaries of what is considered possible in magic but also redefines the very concept of omnipotence in the magical realm. Each move in her presence becomes a cosmic choice between reality and illusion, life and death, freedom and control.
+#### 5. 전능한 융합 (우주 환영 + 양자 의식 + 세라픽 언약 + 테라 피르마 사이클론)
+
+
+- **공격력**: 50
+- **방어력**: 48
+- **체력**: 57
+- **마나 비용**: 65
+- **지속 시간**: 12 턴
+- **범위**: 18 타일
+- **강력한 상대**: 환상, 마인드 컨트롤, 신성한 보호, 원소의 힘에 대한 탁월한 숙달로 거의 모든 형태의 마법을 다룰 수 있습니다.
+- **스토리**: "모든 영역의 마스터"로 알려진 이 소녀는 분류를 거부합니다. 그녀의 마법은 우주 일루전의 환상 영역, 양자 의식의 사이오닉 파워, 세라픽 커버넌트의 신성한 보호, 테라 피르마 사이클론의 원소적 맹렬함을 하나의 헤아릴 수 없는 존재로 통합합니다. 그녀는 현실을 속이고, 마음을 지배하고, 영혼을 보호하고, 지구를 재구성하는 힘을 휘두르며, 이 모든 다양한 힘들 사이에서 복잡한 균형을 유지합니다. 전능한 융합은 파괴와 창조, 속임수와 드러냄, 지배와 보호를 동시에 수행할 수 있는 모든 것을 아우르는 힘으로 마법 기술의 정점입니다. 각 마법 분야의 정수를 하나로 통합하는 역설적인 마법입니다. 이 카드는 마법에서 가능한 것의 한계에 도전할 뿐만 아니라 마법의 영역에서 전능함의 개념을 재정의합니다. 그녀의 존재 앞에서 모든 움직임은 현실과 환상, 삶과 죽음, 자유와 통제 사이의 우주적 선택이 됩니다.
+
 
 ---
 
-The Omnipotent Convergence card is an extraordinary achievement in the world of magical dueling, breaking all previously known limits. The card weaves together the most potent forms of illusionary, mental, divine, and elemental magics, becoming a near-omnipotent force on the magical battlefield. Wielding such a card would undoubtedly tip the scales of any duel, offering both the breadth and depth of almost all magical arts combined. It's a meta-defining card that would shape the strategies and tactics of all who encounter it.
+
+전능한 융합 카드는 마법 결투의 세계에서 이전에 알려진 모든 한계를 뛰어넘는 특별한 업적입니다. 이 카드는 가장 강력한 형태의 환상, 정신, 신성, 원소 마법을 하나로 엮어 마법 전장에서 거의 전능에 가까운 힘을 발휘합니다. 이 카드를 사용하면 거의 모든 마법의 폭과 깊이를 결합하여 결투의 승부를 결정지을 수 있습니다. 이 카드는 모든 플레이어의 전략과 전술을 결정짓는 메타를 정의하는 카드입니다.

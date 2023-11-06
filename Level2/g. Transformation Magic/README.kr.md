@@ -1,18 +1,18 @@
-### Level 2 Transformation Composite Magic Cards
+### 레벨 2 변신 합성 마법 카드
 
 ---
 
-#### 1. Complete Transformation Magic (Shape-shifting + Transmutation)
+#### 1. 완전한 변신 마법 (형태 변환 + 변신)
 
-- **Attack Power**: 7
-- **Defense Power**: 6
-- **Health**: 7
-- **Mana Cost**: 6
-- **Duration**: 3 turns
-- **Range**: 3 tiles
-- **Strong Against**: Both Shape-shifting and Transmutation
-- **Story**: Known as the "Master of Forms," this girl combines the power of shape-shifting and transmutation, allowing her to change both herself and her surroundings at will. This makes her an exceptionally versatile magician who can adapt to nearly any circumstance. Whether transforming into a powerful creature or altering the battlefield itself, her potential is limitless. She's ingenious and versatile, a true wildcard in any magical conflict.
+- **공격력**: 7
+- **방어력**: 6
+- **체력**: 7
+- **마나 비용**: 6
+- **지속 시간**: 3 턴
+- **범위**: 타일 3개
+- **강력한 상대**: 변신과 변신 모두
+- **스토리**: "형태의 마스터"로 알려진 이 소녀는 변신과 형상 변환의 힘을 결합하여 자신과 주변 환경을 마음대로 바꿀 수 있습니다. 덕분에 거의 모든 상황에 적응할 수 있는 다재다능한 마술사예요. 강력한 생명체로 변신하든 전장 자체를 바꾸든, 그녀의 잠재력은 무한합니다. 독창적이고 다재다능한 그녀는 모든 마법 분쟁에서 진정한 와일드카드입니다.
 
 ---
 
-The Transformation Magic cards add another layer of adaptability to the magical ecosystem. The "Master of Forms" exemplifies the full spectrum of transformational magic, making her a game-changing asset in any strategic play.
+변신 마법 카드는 마법 생태계에 또 다른 적응력을 추가합니다. "형상의 달인"은 변신 마법의 모든 스펙트럼을 보여주기 때문에 어떤 전략적 플레이에서든 판도를 바꿀 수 있는 자산입니다.

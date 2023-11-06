@@ -1,18 +1,18 @@
-### Level 4 Mystic Composite Magic Cards
+### 레벨 4 신비한 합성 마법 카드
 
 ---
 
-#### Cosmic Illusion (Quantum Reality + Sensory Void + Phantasmal Quake)
+#### 우주 환영 (양자 현실 + 감각 공허 + 환상의 지진)
 
-- **Attack Power**: 18
-- **Defense Power**: 17
-- **Health**: 20
-- **Mana Cost**: 35
-- **Duration**: 6 turns
-- **Range**: 8 tiles
-- **Strong Against**: Virtually all forms of magic due to its mastery over quantum reality, sensory manipulation, and vibration
-- **Story**: Given the title of "Cosmic Enchantress," this girl is the ultimate form of Mystic Magic. She can manipulate quantum reality, erase sensory experiences, and induce cataclysmic vibrations, all at once. This combination makes her not just a master of illusions but a weaver of reality itself. Enemies facing her don't just question their senses; they question the very fabric of their existence. She is the apex of mystical power, rendering almost all strategies and magics ineffective against her.
+- **공격력**: 18
+- **방어력**: 17 17
+- **체력**: 20
+- **마나 비용**: 35
+- **지속 시간**: 6 턴
+- **범위**: 8 타일
+- **강력한 상대**: 양자 현실, 감각 조작, 진동에 능숙하여 거의 모든 형태의 마법을 다룰 수 있습니다.
+- **스토리**: "우주 요술사"라는 칭호를 가진 이 소녀는 미스틱 마법의 궁극적인 형태입니다. 양자 현실을 조작하고, 감각 경험을 지우고, 대격변의 진동을 유도할 수 있는 능력을 한꺼번에 발휘합니다. 이 조합을 통해 그녀는 환상의 대가가 아니라 현실 자체를 짜는 자로 거듭납니다. 그녀와 맞서는 적들은 단순히 감각에 의문을 제기하는 것이 아니라 존재의 구조 자체를 의심하게 됩니다. 신비로운 힘의 정점인 그녀 앞에서는 거의 모든 전략과 마법이 무력화됩니다.
 
 ---
 
-The Level 4 Mystic Composite card, Cosmic Illusion, serves as the culmination of all Mystic magics, offering unparalleled control over the battlefield. With the ability to manipulate quantum states, nullify senses, and induce powerful vibrations, this card transcends previous limitations, effectively becoming a universal counter to almost any form of magic. Facing Cosmic Illusion challenges players to devise entirely new strategies and rethink conventional magical warfare, pushing the boundaries of what is possible in this complex and ever-evolving game.
+4레벨 미스틱 합성 카드인 우주 환영은 모든 미스틱 마법의 정점으로, 전장을 압도적으로 지배할 수 있습니다. 양자 상태를 조작하고 감각을 무효화하며 강력한 진동을 유도할 수 있는 이 카드는 이전의 한계를 뛰어넘어 거의 모든 형태의 마법에 대응할 수 있는 만능 카드가 되었습니다. 우주 환영에 맞서면 플레이어는 완전히 새로운 전략을 고안하고 기존의 마법 전쟁에 대해 다시 생각하게 되며, 이 복잡하고 끊임없이 진화하는 게임에서 가능한 것의 한계를 뛰어넘게 됩니다.

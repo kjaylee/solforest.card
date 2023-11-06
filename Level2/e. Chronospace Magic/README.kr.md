@@ -1,18 +1,18 @@
-### Level 2 Chronomancy Composite Magic Cards
+### 레벨 2 시간 마법 복합 카드
 
 ---
 
-#### 1. Spacetime Warp Magic (Chronomancy + Teleportation)
+#### 1. 시공간 왜곡 마법 (시간 마법 + 순간 이동)
 
-- **Attack Power**: 11
-- **Defense Power**: 10
-- **Health**: 10
-- **Mana Cost**: 7
-- **Duration**: 3 turns
-- **Range**: 4 tiles
-- **Strong Against**: Both Chronomancy and Teleportation
-- **Story**: Known as the "Dimensional Maestro," this girl merges the powers of time and space manipulation. She can not only control the pace of the battle but can also relocate herself and her allies instantaneously. This combination makes her incredibly versatile and unpredictable, capable of dictating the flow of time while shifting the spatial layout of the battlefield.
+- **공격력**: 11
+- **방어력**: 10
+- **체력**: 10
+- **마나 비용**: 7
+- **지속 시간**: 3 턴
+- **범위**: 4 타일
+- **강력한 상대**: 시간 마법과 순간 이동 모두에
+- **스토리**: "차원의 지휘자"로 알려진 이 소녀는 시간과 공간 조작의 힘을 결합합니다. 그녀는 전투의 속도를 조절할 뿐만 아니라 자신과 동료들을 순식간에 재배치할 수 있습니다. 이 조합은 그녀를 무척 다재다능하고 예측할 수 없게 만들어, 시간의 흐름을 지휘하면서 전장의 공간적 배치를 변화시킬 수 있습니다.
 
 ---
 
-The Spacetime Warp Magic card integrates the complexities of both time and space manipulation into one, creating an entirely new layer of strategic depth. This witch's unique ability to control the dimensions of time and space makes her a formidable opponent, capable of swinging the tide of any battle in her favor.
+시공간 왜곡 마법 카드는 시간과 공간 조작의 복잡함을 하나로 통합하여 전략의 깊이를 새로운 차원으로 끌어올립니다. 이 마녀의 시간과 공간의 차원을 조종하는 독특한 능력은 그녀를 전투의 조류를 자신의 편으로 돌릴 수 있는 강력한 상대로 만듭니다.

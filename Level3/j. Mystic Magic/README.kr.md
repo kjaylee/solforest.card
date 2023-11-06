@@ -1,40 +1,40 @@
-### Level 3 Mystic Composite Magic Cards
+### 레벨 3 신비한 합성 마법 카드
 
 ---
 
-#### 1. Distorted Vibration (Reality Distortion Magic + Vibration Magic)
+#### 1. 왜곡된 진동 (현실 왜곡 마법 + 진동 마법)
 
-- **Attack Power**: 11
-- **Defense Power**: 11
-- **Health**: 12
-- **Mana Cost**: 12
-- **Duration**: 4 turns
-- **Range**: 6 tiles
-- **Strong Against**: Multiple magic types due to mastering the manipulation of gravity, perception, and sound
-- **Story**: Known as the "Master of Dissonance," this girl has achieved the pinnacle of Reality Distortion and Vibration Magic. She can manipulate both perception and gravitational and sound waves simultaneously, leading to disorienting, chaotic battlefields where enemies can't trust their senses or even the ground beneath their feet. She is the epitome of control and confusion.
+- **공격력**: 11
+- **방어력**: 11
+- **체력**: 12 12
+- **마나 비용**: 12
+- **지속 시간**: 4 턴
+- **범위**: 6 타일
+- **강력한 상대**: 중력, 지각, 소리의 조작을 마스터하여 여러 마법 유형 사용 가능
+- **스토리**: '불협화음의 달인'으로 알려진 이 소녀는 현실 왜곡과 진동 마법의 정점에 도달했습니다. 지각과 중력, 음파를 동시에 조작할 수 있어 적들이 자신의 감각은 물론 발밑의 지반조차 믿을 수 없는 혼란스러운 전장을 만들 수 있습니다. 그녀는 통제와 혼란의 전형입니다.
 
-#### 2. Sonic Illusion (Vibration Magic + Hallucination Magic)
+#### 2. 소닉 일루전 (진동 마법 + 환각 마법)
 
-- **Attack Power**: 10
-- **Defense Power**: 7
-- **Health**: 9
-- **Mana Cost**: 10
-- **Duration**: 3 turns
-- **Range**: 6 tiles
-- **Strong Against**: Various forms of magic due to the combined mastery of sound and illusion
-- **Story**: Referred to as the "Harmony Illusionist," this girl fuses the arts of Vibration and Hallucination Magic to produce mesmerizing and disorienting sonic illusions. She can create complex auditory and visual scenarios that are not only deceptive but also physically disruptive, making her opponents susceptible to errors and miscalculations.
+- **공격력**: 10
+- **방어력**: 7
+- **체력**: 9
+- **마나 비용**: 10
+- **지속 시간**: 3 턴
+- **범위**: 6 타일
+- **강력한 상대**: 소리와 환영의 결합으로 다양한 형태의 마법을 구사할 수 있습니다.
+- **스토리**: '하모니 일루셔니스트'라고 불리는 이 소녀는 진동 마술과 환각 마술을 융합하여 매혹적이고 혼란스러운 음파 환영을 만들어냅니다. 그녀는 기만적일 뿐만 아니라 물리적으로 혼란스러운 복잡한 청각 및 시각 시나리오를 만들어 상대방이 오류와 오산에 빠지기 쉽도록 만들 수 있습니다.
 
-#### 3. Distorted Hallucination (Reality Distortion Magic + Hallucination Magic)
+#### 3. 왜곡된 환각 (현실 왜곡 마법 + 환각 마법)
 
-- **Attack Power**: 12
-- **Defense Power**: 9
-- **Health**: 10
-- **Mana Cost**: 11
-- **Duration**: 4 turns
-- **Range**: 5 tiles
-- **Strong Against**: Many types of magic due to the combination of altering reality and crafting hallucinations
-- **Story**: Known as the "Dreamshaper," this girl is the zenith of both Reality Distortion and Hallucination Magic. She creates surreal experiences that combine altered perception with genuine sensory illusions, making it nearly impossible to discern truth from deception. With this level of mastery, she turns the battlefield into a dreamscape where she reigns supreme.
+- **공격력**: 12
+- **방어력**: 9
+- **체력**: 10
+- **마나 비용**: 11
+- **지속 시간**: 4 턴
+- **범위**: 5 타일
+- **강력한 상대**: 현실을 바꾸고 환각을 만들어내는 다양한 종류의 마법을 사용할 수 있습니다.
+- **스토리**: '드림쉐이퍼'로 알려진 이 소녀는 현실 왜곡 마법과 환각 마법의 정점에 있는 마법사입니다. 그녀는 왜곡된 지각과 실제 감각적 환상을 결합한 초현실적인 경험을 만들어내어 진실과 거짓을 구분하는 것을 거의 불가능하게 만듭니다. 이 정도의 숙련도로 전장을 꿈속 같은 공간으로 바꿔버리고 자신이 최고로 군림합니다.
 
 ---
 
-The Level 3 Mystic Magic cards provide the most advanced and intricate magical abilities in the Mystic category. These witches have transcended their Level 2 limitations, mastering the art of manipulating multiple dimensions of reality simultaneously. With their unparalleled adaptability and unpredictability, they bring an added layer of complexity and strategy to any magical conflict.
+3레벨 미스틱 마법 카드는 미스틱 카테고리에서 가장 진보되고 복잡한 마법 능력을 제공합니다. 이 마녀들은 레벨 2의 한계를 뛰어넘어 현실의 여러 차원을 동시에 조작하는 기술을 마스터했습니다. 타의 추종을 불허하는 적응력과 예측 불가능한 능력으로 마법 분쟁에 복잡성과 전략을 더합니다.

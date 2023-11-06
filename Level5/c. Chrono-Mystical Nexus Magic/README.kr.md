@@ -1,18 +1,18 @@
-### Level 5 Composite Magic Cards
+### 레벨 5 합성 마법 카드
 
 ---
 
-#### 3. Chrono-Mystical Nexus (Celestial Inferno + Quantum Consciousness + Primordial Tempest + Gaia's Symphony)
+#### 2. 에테리얼 제네시스 (가이아의 교향곡 + 테라 피르마 사이클론 + 태초의 폭풍 + 우주의 환영)
 
-- **Attack Power**: 45
-- **Defense Power**: 42
-- **Health**: 50
-- **Mana Cost**: 55
-- **Duration**: 10 turns
-- **Range**: 14 tiles
-- **Strong Against**: Virtually all forms of magic due to its unparalleled command over elements, time, thought, and nature
-- **Story**: Bearing the grandiose title of "Harbinger of Epochs," this girl weaves the intricate tapestry of Celestial Inferno, Quantum Consciousness, Primordial Tempest, and Gaia's Symphony into a singular, omnipotent magic. The Chrono-Mystical Nexus allows her to manipulate elemental forces, bend the rules of time, control minds on a cosmic scale, and even reshape the natural world at her whim. The battlefield transforms into a chaotic nexus where the lines between past, present, and future blur, and the very laws of nature seem to bow to her mastery. Enemies are not merely defeated; they are lost in a bewildering labyrinth of realities, each more terrifying than the last. Her control over this Chrono-Mystical Nexus makes her virtually omnipotent, rewriting the rules of magic and strategy.
+- **공격력**: 42
+- **방어력**: 40
+- **체력**: 45
+- **마나 비용**: 50
+- **지속 시간**: 8턴
+- **범위**: 12 타일
+- **강력한 상대**: 생명, 자연, 원소, 현실에 대한 초월적인 지배력으로 거의 모든 형태의 마법을 다룰 수 있습니다.
+- **스토리**: '제네시스 아키텍트'라는 경외심을 불러일으키는 칭호를 가진 이 소녀는 가이아의 교향곡, 테라 피르마 사이클론, 태초의 폭풍, 우주 일루전의 특별한 힘을 하나의 숨막히는 마법으로 통합합니다. 에테리얼 제네시스를 사용하면 원소뿐만 아니라 생명과 현실의 구조 자체를 조작할 수 있습니다. 이는 단순한 주문이 아니라 우주적 규모의 창조 행위입니다. 전장은 끊임없이 변화하는 풍경으로 변모하여 새로운 형태의 생명체가 자연스럽게 나타나고, 계절이 빨라지거나 반대로 바뀌며, 현실의 본질 자체도 유동적으로 변합니다. 적들은 단순히 패배하는 것이 아니라 근본적으로 변화하여 제네시스 아키텍트가 지배하는 미묘한 소용돌이 속으로 빨려 들어갑니다. 
 
 ---
 
-The Chrono-Mystical Nexus is a pinnacle of magical sophistication and power, uniting diverse domains of magic into an almost paradoxical display of might and wisdom. This card’s complex interplay of abilities offers endless strategic possibilities, making it a game-changer in any magical duel. It stands as a testament to what can be achieved when various forms of magic are harmoniously merged into one.
+에테리얼 제네시스는 게임에서 가장 다재다능하고 강력한 복합 마법 카드 중 하나입니다. 이 카드는 여러 마법 영역의 힘을 한데 모아 전략과 전술의 정점을 이루는 걸작입니다. 이 카드는 전장에 대한 독보적인 통제력을 제공하며, 지속 시간 이후에도 효과가 오래 지속되어 모든 마법 분쟁에서 변혁적인 힘을 발휘합니다.

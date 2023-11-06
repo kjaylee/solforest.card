@@ -1,44 +1,44 @@
-### Level 4 Elemental Composite Magic Cards
+### 레벨 4 원소 합성 마법 카드
 
 ---
 
-#### 1. Celestial Inferno (Volcanic Mist + Mystic Gale + Earth's Wrath)
+#### 1. 천상의 지옥 (화산 안개 + 신비한 강풍 + 대지의 분노)
 
-- **Attack Power**: 22
-- **Defense Power**: 18
-- **Health**: 191   
-- **Mana Cost**: 20
-- **Duration**: 2 turns
-- **Range**: 5 tiles
-- **Strong Against**: Pyromancy, Aeromancy, Geomancy, and Hydromancy
-- **Story**: Known as the "Celestial Blaze," this girl channels the chaotic energies of Volcanic Mist, Mystic Gale, and Earth's Wrath to create a heavenly inferno that engulfs the battlefield in fire and magic. This blaze has a divine quality, making it untouchable and catastrophic for her enemies. She embodies the pure, untamed forces of nature and commands them with a celestial authority.
-
----
-
-#### 2. Terra Firma Cyclone (Volcanic Mist + Mystic Gale + Sandfire Cyclone)
-
-- **Attack Power**: 21
-- **Defense Power**: 20
-- **Health**: 18
-- **Mana Cost**: 19
-- **Duration**: 3 turns
-- **Range**: 6 tiles
-- **Strong Against**: Aeromancy, Geomancy, Pyromancy, and Hydromancy
-- **Story**: Referred to as the "Terraformer," this girl fuses the powerful elements of Volcanic Mist, Mystic Gale, and Sandfire Cyclone to create a ground-based storm that is as destructive as it is awe-inspiring. The cyclone not only devastates but also alters the terrain, providing strategic advantages. Her character is a harmonious blend of elemental forces, embodying both destruction and creation.
+- **공격력**: 22
+- **방어력**: 18 18
+- **체력**: 191   
+- **마나 비용**: 20
+- **지속 시간**: 2턴
+- **범위**: 5 타일
+- **강력한 상대**: 파이로맨시, 에어로맨시, 지오맨시, 하이드로맨시
+- **스토리**: "천상의 불꽃"으로 알려진 이 소녀는 화산 안개, 신비한 강풍, 대지의 분노의 혼돈 에너지를 방출하여 전장을 불과 마법으로 뒤덮는 천상의 지옥을 만들어냅니다. 이 화염은 신성한 성질을 지니고 있어 적에게 손댈 수 없는 재앙을 불러일으킵니다. 그녀는 길들여지지 않은 순수한 자연의 힘을 구현하고 천상의 권위로 그들을 지휘합니다.
 
 ---
 
-#### 3. Primordial Tempest (Mystic Gale + Earth's Wrath + Sandfire Cyclone)
+#### 2. 테라 피르마 사이클론(화산 안개 + 신비한 강풍 + 모래 파이어 사이클론)
 
-- **Attack Power**: 23
-- **Defense Power**: 17
-- **Health**: 17
-- **Mana Cost**: 18
-- **Duration**: 2 turns
-- **Range**: 5 tiles
-- **Strong Against**: Aeromancy, Geomancy, Pyromancy, and Hydromancy
-- **Story**: Known as the "Eye of the Storm," she combines Mystic Gale, Earth's Wrath, and Sandfire Cyclone to create a primordial tempest. This ancient storm harkens back to the origins of the world, where elemental forces were untamed and boundless. She taps into these raw energies to unleash a storm that disrupts, confuses, and decimates her enemies. Her aura radiates the unfathomable might of the elements.
+- **공격력**: 21
+- **방어력**: 20
+- **체력**: 18
+- **마나 비용**: 19
+- **지속 시간**: 3 턴
+- **범위**: 6 타일
+- **강력한 상대**: 에어로맨시, 지마술, 파이로맨시, 하이드로맨시
+- **스토리**: "테라포머"라고 불리는 이 소녀는 화산 안개, 신비한 강풍, 모래폭풍 사이클론의 강력한 요소를 융합하여 경외감을 불러일으킬 만큼 파괴적인 지상의 폭풍을 만들어 냅니다. 사이클론은 지형을 파괴할 뿐만 아니라 지형을 변화시켜 전략적 이점을 제공합니다. 파괴와 창조를 모두 구현하는 원소의 힘이 조화롭게 어우러진 캐릭터입니다.
 
 ---
 
-The Level 4 Elemental Composite cards are the epitome of elemental prowess, showcasing the full potential of elemental synergy. With the ability to control multiple facets of elemental power, these cards are a force to be reckoned with, adding unparalleled depth and complexity to the magical ecosystem. The witches in this level have transcended the limitations of individual elements, merging them into new, unprecedented forms of magic.
+#### 3. 태초의 폭풍 (신비한 강풍 + 대지의 분노 + 모래 폭풍 사이클론)
+
+- **공격력**: 23
+- **방어력**: 17 17
+- **체력**: 17
+- **마나 비용**: 18
+- **지속 시간**: 2턴
+- **범위**: 5 타일
+- **강력한 상대**: 에어로맨시, 지마술, 파이로맨시, 하이드로맨시
+- **스토리**: "폭풍의 눈"으로 알려진 그녀는 신비한 강풍, 대지의 분노, 모래폭풍 사이클론을 결합하여 태초의 폭풍을 만들어냅니다. 이 고대 폭풍은 원소의 힘이 길들여지지 않고 무한했던 세계의 기원을 떠올리게 합니다. 그녀는 이 원초적인 에너지를 활용하여 폭풍을 일으켜 적을 혼란에 빠뜨리고 궤멸시킵니다. 그녀의 아우라는 헤아릴 수 없는 원소의 힘을 발산합니다.
+
+---
+
+레벨 4 원소 합성 카드는 원소 시너지의 모든 잠재력을 보여주는 원소 능력의 전형입니다. 여러 가지 원소 힘을 제어할 수 있는 이 카드는 마법 생태계에 비교할 수 없는 깊이와 복잡성을 더하는 강력한 카드입니다. 이 레벨의 마녀들은 개별 원소의 한계를 초월하여 전례 없는 새로운 형태의 마법으로 통합했습니다.

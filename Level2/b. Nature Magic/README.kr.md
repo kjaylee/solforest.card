@@ -1,52 +1,50 @@
-### Level 2 Nature Composite Magic Cards
+### 레벨 2 자연 복합 마법 카드
 
 ---
 
-#### 1. Ecosystem Magic (Phytomancy + Zoomancy)
+#### 1. 생태계 마법 (식물 마법 + 동물 마법)
 
   <img src="./Warden of Life.png" width="30%"></img>
 
-  ![WardenOfLife](Warden of Life.png){:height="36px" width="36px"}
-
-- **Attack Power**: 10
-- **Defense Power**: 9
-- **Health**: 11
-- **Mana Cost**: 7
-- **Duration**: 3 turns
-- **Range**: 3 tiles
-- **Strong Against**: Meteoromancy
-- **Story**: Dubbed the "Warden of Life," she can control both plants and animals, creating a balanced and harmonious battlefield. Her personality is a blend of calm wisdom and untamed spirit, making her as versatile as the ecosystem she controls.
+- **공격력**: 10
+- **방어력**: 9
+- **체력**: 11
+- **마나 비용**: 7
+- **지속 시간**: 3 턴
+- **범위**: 3 타일
+- **강력한 상대**: 기상 마법에
+- **스토리**: "생명의 수호자"라 불리는 그녀는 식물과 동물 모두를 조종할 수 있어, 균형 잡히고 조화로운 전장을 만들어냅니다. 그녀의 성격은 침착한 지혜와 길들여지지 않은 기운이 섞여 있어, 그녀가 통제하는 생태계만큼이나 다재다능합니다.
 
 ---
 
-#### 2. Climate Control Magic (Zoomancy + Meteoromancy)
+#### 2. 기후 조절 마법 (동물 마법 + 기상 마법)
 
   <img src="./Tempest Tamer.png" width="30%"></img>
 
-- **Attack Power**: 13
-- **Defense Power**: 7
-- **Health**: 9
-- **Mana Cost**: 9
-- **Duration**: 2 turns
-- **Range**: 4 tiles
-- **Strong Against**: Phytomancy
-- **Story**: Known as the "Tempest Tamer," she has the power to control both weather and animals. With this dual mastery, she can summon storms while coordinating with animal allies. Her personality is a mixture of adventurousness and cosmic enigma, making her unpredictable and awe-inspiring.
+- **공격력**: 13
+- **방어력**: 7
+- **체력**: 9
+- **마나 비용**: 9
+- **지속 시간**: 2 턴
+- **범위**: 4 타일
+- **강력한 상대**: 식물 마법에
+- **스토리**: "폭풍의 길잡이"로 알려진 그녀는 날씨와 동물을 모두 조종하는 능력을 가졌습니다. 이러한 이중 전문성을 통해 그녀는 폭풍을 불러일으키면서 동물 동맹과 협력할 수 있습니다. 그녀의 성격은 모험적인 기질과 우주적인 미스테리가 혼합되어 있어 예측할 수 없고 경외감을 불러일으킵니다.
 
 ---
 
-#### 3. Seasonal Magic (Meteoromancy + Phytomancy)
+#### 3. 계절 마법 (기상 마법 + 식물 마법)
 
   <img src="./Seasonal Sage.png" width="30%"></img>
 
-- **Attack Power**: 11
-- **Defense Power**: 8
-- **Health**: 10
-- **Mana Cost**: 8
-- **Duration**: 2 turns
-- **Range**: 3 tiles
-- **Strong Against**: Zoomancy
-- **Story**: Referred to as the "Seasonal Sage," she combines celestial power and plant control to alter the very seasons on the battlefield. Her temperament melds the mysterious aura of the cosmos with the grounded wisdom of the earth, making her a multi-faceted sorceress.
+- **공격력**: 11
+- **방어력**: 8
+- **체력**: 10
+- **마나 비용**: 8
+- **지속 시간**: 2 턴
+- **범위**: 3 타일
+- **강력한 상대**: 동물 마법에
+- **스토리**: "계절의 현자"라고 불리는 그녀는 천체의 힘과 식물 조종을 결합하여 전장의 계절을 바꿉니다. 그녀의 기질은 우주의 신비한 기운과 대지의 지혜가 합쳐져, 여러 면모를 지닌 마법사로 만듭니다.
 
 ---
 
-These Level 2 composite cards enhance the complexity and strategy of Nature Magic, creating new and dynamic opportunities for gameplay. With their unique strengths and weaknesses, they add another layer to the magical ecosystem, making each encounter a test of wits and skill.
+이 레벨 2 복합 카드들은 자연 마법의 복잡성과 전략을 강화하여, 게임 플레이에 새롭고 다이내믹한 기회를 만들어냅니다. 그들만의 특별한 강점과 약점으로 마법 생태계에 또 다른 차원을 추가하여, 각 대결을 지혜와 기술의 시험으로 만듭니다.

@@ -1,27 +1,27 @@
-### Death Magic Cards
+#### 죽음 마법 카드
 
-#### 1. Soul Summoning Card
+##### 1. 영혼 소환 카드
 
-- **Attack Power**: 6
-- **Defense Power**: 3
-- **Health**: 5
-- **Mana Cost**: 5
-- **Duration**: 3 turns
-- **Range**: 2 tiles
-- **Strong Against**: Necromancy
-- **Story**: Known as the "Soulmancer," this girl wields the forbidden power to summon and command souls. She can call forth spirits to aid her in battle or use them to debilitate her enemies. She is a mysterious figure, seeking to understand the nature of life and death.
+- **공격력**: 6
+- **방어력**: 3
+- **체력**: 5
+- **마나 비용**: 5
+- **지속 시간**: 3턴
+- **범위**: 2 타일
+- **강력한 상대**: 네크로맨시에
+- **스토리**: "영혼술사"로 알려진 이 소녀는 금지된 힘을 사용하여 영혼을 소환하고 명령한다. 그녀는 전투에서 그녀를 돕기 위해 영혼을 불러내거나 적을 약화시키는데 사용할 수 있다. 그녀는 생명과 죽음의 본성을 이해하려는 신비한 인물이다.
 
-#### 2. Necromancy Card
+##### 2. 네크로맨시 카드
 
-- **Attack Power**: 7
-- **Defense Power**: 2
-- **Health**: 4
-- **Mana Cost**: 6
-- **Duration**: 2 turns
-- **Range**: 3 tiles
-- **Strong Against**: Soul Summoning
-- **Story**: Called the "Necromaster," this girl can raise the dead and control them. Zombies, skeletons, and other unholy creatures bow to her command. She uses her minions to overwhelm her enemies, but this comes at a great moral and magical cost. 
+- **공격력**: 7
+- **방어력**: 2
+- **체력**: 4
+- **마나 비용**: 6
+- **지속 시간**: 2턴
+- **범위**: 3 타일
+- **강력한 상대**: 영혼 소환에
+- **스토리**: "네크로마스터"로 불리는 이 소녀는 죽은 자를 일으켜 그들을 조종할 수 있다. 좀비, 해골, 그리고 기타 불경한 생명체들이 그녀의 명령에 따른다. 그녀는 자신의 하수인을 이용하여 적을 압도하지만, 이것은 큰 도덕적 및 마법적 비용을 수반한다.
 
 ---
 
-Both Soul Summoning and Necromancy are equally matched in their affinities, creating a balanced and perilous set of choices within the domain of Death Magic.
+영혼 소환과 네크로맨시는 서로의 친화력에서 매치가 되어 죽음의 마법 분야 내에서 균형 있고 위험한 선택의 집합을 만든다.

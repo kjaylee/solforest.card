@@ -1,18 +1,18 @@
-### Level 5 Composite Magic Cards
+### 레벨 5 합성 마법 카드
 
 ---
 
-#### 4. Divine Apocalypse (Seraphic Covenant + Celestial Inferno + Quantum Consciousness + Gaia's Symphony)
+#### 4. 신성한 묵시록 (세라픽 언약 + 천상의 지옥 + 양자 의식 + 가이아의 교향곡)
 
-- **Attack Power**: 46
-- **Defense Power**: 44
-- **Health**: 55
-- **Mana Cost**: 60
-- **Duration**: 11 turns
-- **Range**: 15 tiles
-- **Strong Against**: Virtually all forms of magic due to its mastery over divine protection, elemental chaos, cosmic awareness, and the essence of nature.
-- **Story**: Bearing the awe-inspiring title of "Architect of Heaven and Earth," this girl transcends conventional magical bounds. Melding Seraphic Covenant, Celestial Inferno, Quantum Consciousness, and Gaia's Symphony into one miraculous force, the Divine Apocalypse takes form. She becomes the ultimate arbiter of destiny, unleashing untold devastation while protecting the very fabric of existence. This amalgamation of diverse magical arts creates an apocalyptic force that can rewrite reality, bend time, and hold dominion over the elemental and spiritual realms. The battlefield is transformed into a cosmic stage, upon which plays out the final act of a celestial drama. Here, every decision and action reverberate with the weight of divine judgment, offering both destruction and redemption. Virtually no magic can withstand the staggering breadth of her abilities, making her the closest thing to a deity in the magical realm.
+- **공격력**: 46
+- **방어력**: 44
+- **체력**: 55
+- **마나 비용**: 60
+- **지속 시간**: 11 턴
+- **범위**: 15 타일
+- **강력한 상대**: 신의 보호, 원소의 혼돈, 우주의 인식, 자연의 정수에 대한 숙달로 인해 거의 모든 형태의 마법을 다룰 수 있습니다.
+- **스토리**: '천지의 설계자'라는 경외심을 불러일으키는 칭호를 가진 이 소녀는 기존의 마법 한계를 뛰어넘습니다. 세라픽 언약, 셀레스티얼 인페르노, 양자 의식, 가이아의 교향곡을 하나의 기적적인 힘으로 융합하여 신성한 묵시록을 완성합니다. 그녀는 운명의 궁극적인 중재자가 되어 존재의 근간을 보호하는 동시에 전대미문의 파괴를 불러일으킵니다. 다양한 마법이 합쳐져 현실을 다시 쓰고, 시간을 구부리고, 원소 및 영적 영역을 지배할 수 있는 종말론적 힘이 탄생합니다. 전장은 천상의 드라마의 마지막 막이 펼쳐지는 우주 무대로 변모합니다. 이곳에서는 모든 결정과 행동이 신성한 심판의 무게로 울려 퍼지며 파괴와 구원을 동시에 선사합니다. 사실상 어떤 마법도 그녀의 엄청난 능력을 견딜 수 없으므로, 그녀는 마법 세계에서 신에 가장 가까운 존재입니다.
 
 ---
 
-The Divine Apocalypse card unifies some of the most powerful aspects of diverse magical traditions into an omnipotent force. With an unparalleled command over a broad spectrum of abilities, it introduces an apocalyptic power balanced with a deep respect for the sanctity of life. It's the ultimate game-changer in any magical duel, essentially defining a new standard for magical prowess.
+신성한 종말 카드는 다양한 마법 전통의 가장 강력한 측면을 전능한 힘으로 통합합니다. 이 카드는 광범위한 능력에 대한 타의 추종을 불허하는 명령으로, 생명의 신성함에 대한 깊은 존중과 균형을 이룬 종말론적 힘을 선보입니다. 모든 마법 결투의 판도를 뒤바꾸는 궁극의 존재로, 마법 능력의 새로운 기준을 제시합니다.**

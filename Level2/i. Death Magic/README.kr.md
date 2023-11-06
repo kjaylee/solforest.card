@@ -1,18 +1,18 @@
-### Level 2 Death Composite Magic Cards
+### 레벨 2 죽음 합성 마법 카드
 
 ---
 
-#### 1. Soul Resurrection Magic (Soul Summoning + Necromancy)
+#### 1. 영혼 부활 마법 (영혼 소환 + 강령술)
 
-- **Attack Power**: 8
-- **Defense Power**: 4
-- **Health**: 6
-- **Mana Cost**: 8
-- **Duration**: 3 turns
-- **Range**: 3 tiles
-- **Strong Against**: Both Soul Summoning and Necromancy
-- **Story**: Known as the "Revenant Queen," this girl masters both the art of Soul Summoning and Necromancy. She can not only summon souls but also give them corporeal forms, essentially resurrecting them to serve in her legion. Her mastery over life and death makes her one of the most feared figures on the battlefield. Using her dark magic, she strikes a balance between spiritual and physical manifestations of death, making her an unparalleled force. She is both enigmatic and unsettling, a practitioner of the darkest magics.
+- **공격력**: 8
+- **방어력**: 4
+- **체력**: 6
+- **마나 비용**: 8
+- **지속 시간**: 3 턴
+- **범위**: 타일 3개
+- **강력한 상대**: 영혼 소환과 강령술 모두
+- **스토리**: "망령의 여왕"으로 알려진 이 소녀는 영혼 소환과 강령술을 모두 마스터했습니다. 영혼을 소환할 수 있을 뿐만 아니라 육체를 부여하여 군단에서 봉사할 수 있도록 부활시킬 수도 있습니다. 삶과 죽음에 통달한 그녀는 전장에서 가장 두려운 존재 중 하나입니다. 어둠의 마법을 사용하여 영적인 죽음과 육체적인 죽음의 발현 사이에서 균형을 유지하며 타의 추종을 불허하는 힘을 발휘합니다. 그녀는 수수께끼 같으면서도 불안한 존재이며, 가장 어두운 마법을 사용하는 수련자입니다.
 
 ---
 
-The Death Magic cards bring an air of finality and existential questioning to the magical ecosystem. The "Revenant Queen" embodies the ultimate taboo in magical society but wields it with a power that can't be ignored.
+죽음의 마법 카드는 마법 생태계에 최종성과 실존적 의문을 불러일으키는 분위기를 선사합니다. "망령의 여왕"은 마법 사회의 궁극적인 금기를 구현하지만 무시할 수 없는 힘으로 그것을 휘두릅니다.
