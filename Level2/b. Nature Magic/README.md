@@ -6,8 +6,6 @@
 
   <img src="./Warden of Life.png" width="30%"></img>
 
-  ![WardenOfLife](Warden of Life.png){:height="36px" width="36px"}
-
 - **Attack Power**: 10
 - **Defense Power**: 9
 - **Health**: 11
