@@ -1,6 +1,8 @@
 ### Elemental Magic Cards
 
 #### 1. Pyromancy Card
+  
+  <img src="./Flame Wielder.png" width="30%"></img>
 
 - **Attack Power**: 8
 - **Defense Power**: 2
@@ -12,6 +14,8 @@
 - **Story**: Known as the "Flame Wielder," this girl has mastery over fire. She can cast fireballs, create walls of flame, and even cloak herself in fire. She's hot-headed and passionate, always looking to turn up the heat in battle.
 
 #### 2. Hydromancy Card
+  
+  <img src="./Water Sage.png" width="30%"></img>
 
 - **Attack Power**: 3
 - **Defense Power**: 7
@@ -23,6 +27,8 @@
 - **Story**: Referred to as the "Water Sage," this girl can control water in all its forms. She can summon rain, create tidal waves, and even manipulate ice. She's calm and fluid, adapting easily to changing battle conditions.
 
 #### 3. Aeromancy Card
+  
+  <img src="./Wind Whisperer.png" width="30%"></img>
 
 - **Attack Power**: 5
 - **Defense Power**: 5
@@ -34,6 +40,8 @@
 - **Story**: Often called the "Wind Whisperer," this girl has the power to control air currents and winds. She can generate powerful gusts, create wind barriers, and even summon storms. She's light on her feet and quick to react, making her a dynamic force on the battlefield.
 
 #### 4. Geomancy Card
+  
+  <img src="./Earthshaker.png" width="30%"></img>
 
 - **Attack Power**: 6
 - **Defense Power**: 6
