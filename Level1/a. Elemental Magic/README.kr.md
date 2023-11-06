@@ -2,7 +2,7 @@
 
 #### 1. 파이로매직 카드
   
-  <img src="./Warden of Life.png" width="30%"></img>
+  <img src="./Flame Wielder.png" width="30%"></img>
 
 - **공격력**: 8
 - **방어력**: 2
