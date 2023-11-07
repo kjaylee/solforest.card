@@ -1,6 +1,7 @@
 ### Nature Magic Cards
 
 #### 1. Phytomancy Card (Plant Magic)
+  <img src="./Guardian of the Forest.png" width="30%"></img>
 
 - **Attack Power**: 4
 - **Defense Power**: 5
@@ -12,6 +13,7 @@
 - **Story**: Known as the "Guardian of the Forest," this girl has the power to control plants. She uses vines and leaves to entrap and defeat her enemies. Her calm demeanor and wisdom make her a formidable protector of nature.
 
 #### 2. Zoomancy Card (Animal Magic)
+  <img src="./Beast Whisperer.png" width="30%"></img>
 
 - **Attack Power**: 6
 - **Defense Power**: 4
@@ -23,6 +25,7 @@
 - **Story**: Called the "Beast Whisperer," this girl can control animals and use them to her advantage in battle. She is adventurous and untamed, finding kinship in the animal kingdom which she represents.
 
 #### 3. Meteoromancy Card (Meteor Magic)
+  <img src="./Star Sorceress.png" width="30%"></img>
 
 - **Attack Power**: 7
 - **Defense Power**: 3
