@@ -1,6 +1,7 @@
 ### Luminomancy Magic Cards
 
 #### 1. Electromancy Card (Electric Magic)
+  <img src="./Thunder Mage.png" width="30%"></img>
 
 - **Attack Power**: 8
 - **Defense Power**: 2
@@ -12,6 +13,7 @@
 - **Story**: Known as the "Thunder Mage," this girl wields the raw power of electricity. She can send shockwaves of electrical energy through her foes, making her an excellent disruptor on the battlefield. Quick-witted and electrifying, she lights up any fight she's in.
 
 #### 2. Photomancy Card (Light Magic)
+  <img src="./Lightbringer.png" width="30%"></img>
 
 - **Attack Power**: 3
 - **Defense Power**: 7
