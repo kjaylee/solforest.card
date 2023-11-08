@@ -1,6 +1,7 @@
 ### Psionics Magic Cards
 
 #### 1. Telepathy Card
+  <img src="./Mind Whisperer.png" width="30%"></img>
 
 - **Attack Power**: 2
 - **Defense Power**: 5
@@ -12,6 +13,7 @@
 - **Story**: Known as the "Mind Whisperer," this girl has the ability to read minds and predict enemy moves. Though she lacks in physical attack, her strategic advantage on the battlefield is second to none. She's perceptive and empathetic, often knowing what others are thinking before they do.
 
 #### 2. Divination Card
+  <img src="./Oracle.png" width="30%"></img>
 
 - **Attack Power**: 6
 - **Defense Power**: 4
@@ -23,6 +25,7 @@
 - **Story**: Dubbed the "Oracle," this girl can foresee future events and manipulate probabilities. Her foresight allows her and her allies to dodge attacks or land critical hits, making her a dangerous foe. She is wise beyond her years and deeply spiritual.
 
 #### 3. Mind Control Card
+  <img src="./Puppeteer.png" width="30%"></img>
 
 - **Attack Power**: 5
 - **Defense Power**: 2

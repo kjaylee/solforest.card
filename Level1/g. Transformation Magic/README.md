@@ -1,6 +1,7 @@
 ### Transformation Magic Cards
 
 #### 1. Shape-shifting Card
+  <img src="./Changeling.png" width="30%"></img>
 
 - **Attack Power**: 6
 - **Defense Power**: 4
@@ -12,6 +13,7 @@
 - **Story**: Known as the "Changeling," this girl has the ability to shape-shift into various forms. Whether becoming a ferocious animal or mimicking an enemy, her versatility makes her unpredictable on the battlefield. She's resourceful and adaptive, making the most out of any situation.
 
 #### 2. Transmutation Card
+  <img src="./Alchemist.png" width="30%"></img>
 
 - **Attack Power**: 5
 - **Defense Power**: 5
