@@ -1,6 +1,7 @@
 ### Shadow Magic Cards
 
 #### 1. Umbramancy Card
+  <img src="./Shadowmaster.png" width="30%"></img>
 
 - **Attack Power**: 7
 - **Defense Power**: 3
@@ -12,6 +13,7 @@
 - **Story**: Known as the "Shadowmaster," this girl commands the darkness itself. She can obscure vision, create illusions, or even solidify shadows into physical attacks. Her mysterious and elusive nature makes her a tricky opponent to deal with. She's secretive and cunning, adept at turning the tide of battle in her favor.
 
 #### 2. Shadow Conjuring Card
+  <img src="./Shadowcrafter.png" width="30%"></img>
 
 - **Attack Power**: 5
 - **Defense Power**: 5
