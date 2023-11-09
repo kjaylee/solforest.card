@@ -1,6 +1,7 @@
 ### Death Magic Cards
 
 #### 1. Soul Summoning Card
+  <img src="./Soulmancer.png" width="30%"></img>
 
 - **Attack Power**: 6
 - **Defense Power**: 3
@@ -12,6 +13,7 @@
 - **Story**: Known as the "Soulmancer," this girl wields the forbidden power to summon and command souls. She can call forth spirits to aid her in battle or use them to debilitate her enemies. She is a mysterious figure, seeking to understand the nature of life and death.
 
 #### 2. Necromancy Card
+  <img src="./Necromaster.png" width="30%"></img>
 
 - **Attack Power**: 7
 - **Defense Power**: 2

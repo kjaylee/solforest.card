@@ -1,6 +1,7 @@
 ### Mystic Magic Cards
 
 #### 1. Illusion Card
+  <img src="./Illusionist.png" width="30%"></img>
 
 - **Attack Power**: 5
 - **Defense Power**: 4
@@ -12,6 +13,7 @@
 - **Story**: Known as the "Illusionist," this girl can manipulate what others perceive, creating false realities or making herself invisible. She uses her skills to deceive enemies and create opportunities for her allies. Her nature is as elusive as her magic.
 
 #### 2. Gravimancy Card
+  <img src="./Gravimancer.png" width="30%"></img>
 
 - **Attack Power**: 3
 - **Defense Power**: 6
@@ -23,6 +25,7 @@
 - **Story**: The "Gravimancer" witch girl manipulates gravitational forces, making it difficult for enemies to move or attack. She can also lighten the force around her allies, aiding their mobility. She is a ponderous thinker, always contemplating the weight of her actions.
 
 #### 3. Sonimancy Card
+  <img src="./Sonimancer.png" width="30%"></img>
 
 - **Attack Power**: 6
 - **Defense Power**: 3
