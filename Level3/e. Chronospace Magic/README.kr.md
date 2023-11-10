@@ -3,6 +3,7 @@
 ---
 
 #### 1. 이터널 워프 (시공간 워프 마법 + 시공간 워프 마법)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **공격력**: 18
 - **방어력**: 16

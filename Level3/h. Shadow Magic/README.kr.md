@@ -3,6 +3,7 @@
 ---
 
 #### 1. Abyssal Shadows (Dark Creation Magic + Dark Creation Magic)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 14
 - **Defense Power**: 12

@@ -3,6 +3,7 @@
 ---
 
 #### 1. 생물 기후 (생태계 마법 + 기후 제어 마법)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **공격력**: 15
 - **방어력**: 12
@@ -16,6 +17,7 @@
 ---
 
 #### 2. 자연의 계절 (생태계 마법 + 계절 마법)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **공격력**: 13
 - **방어력**: 13
@@ -29,6 +31,7 @@
 ---
 
 #### 3. 기후 계절 (기후 제어 마법 + 계절 마법)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **공격력**: 16
 - **방어력**: 10

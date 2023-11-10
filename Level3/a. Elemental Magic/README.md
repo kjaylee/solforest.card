@@ -3,6 +3,7 @@
 ---
 
 #### 1. Thermal Mist (Steam Magic + Fog Magic)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 13
 - **Defense Power**: 15
@@ -16,6 +17,7 @@
 ---
 
 #### 2. Lava Surge (Steam Magic + Volcanic Magic)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 16
 - **Defense Power**: 11
@@ -29,6 +31,7 @@
 ---
 
 #### 3. Desert Wind (Fog Magic + Sandstorm Magic)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 12
 - **Defense Power**: 16
@@ -42,6 +45,7 @@
 ---
 
 #### 4. Mountain Fire (Sandstorm Magic + Volcanic Magic)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 17
 - **Defense Power**: 13

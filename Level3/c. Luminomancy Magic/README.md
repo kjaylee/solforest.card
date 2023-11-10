@@ -3,6 +3,7 @@
 ---
 
 #### 1. Hyper Laser (Laser Magic + Laser Magic)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 18
 - **Defense Power**: 15

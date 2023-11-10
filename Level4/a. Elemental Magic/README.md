@@ -3,6 +3,7 @@
 ---
 
 #### 1. Celestial Inferno (Volcanic Mist + Mystic Gale + Earth's Wrath)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 22
 - **Defense Power**: 18
@@ -16,6 +17,7 @@
 ---
 
 #### 2. Terra Firma Cyclone (Volcanic Mist + Mystic Gale + Sandfire Cyclone)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 21
 - **Defense Power**: 20
@@ -29,6 +31,7 @@
 ---
 
 #### 3. Primordial Tempest (Mystic Gale + Earth's Wrath + Sandfire Cyclone)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 23
 - **Defense Power**: 17

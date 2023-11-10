@@ -3,6 +3,7 @@
 ---
 
 #### Quantum Consciousness (Omniscient Control + Galactic Manipulation + Cosmic Awareness)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 26
 - **Defense Power**: 22

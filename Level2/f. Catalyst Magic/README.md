@@ -3,6 +3,7 @@
 ---
 
 #### 1. Resurrection Magic (Cursing + Healing)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 4
 - **Defense Power**: 4
@@ -14,6 +15,7 @@
 - **Story**: Known as the "Soul Warden," this girl combines the power of curses and healing to manipulate life forces directly. She can not only heal her allies but also revive them with a cursed condition, making them even more potent for a short period. She's a blend of darkness and light, straddling the line between life and death.
 
 #### 2. Complete Protection Magic (Healing + Warding)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 2
 - **Defense Power**: 9
@@ -25,6 +27,7 @@
 - **Story**: Referred to as the "Sanctuary Sentinel," this girl is the epitome of defense, merging healing and warding spells to create an almost impregnable protective zone around her allies. Her compassionate and steadfast nature make her the ultimate guardian, capable of both preventing and undoing harm.
 
 #### 3. Sealing Magic (Warding + Cursing)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 6
 - **Defense Power**: 6

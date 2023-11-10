@@ -3,6 +3,7 @@
 ---
 
 #### 1. 시공간 왜곡 마법 (시간 마법 + 순간 이동)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **공격력**: 11
 - **방어력**: 10

@@ -1,5 +1,6 @@
 ### Level 6 Magic Card
 #### 1. Cosmic Nexus of Omnipotence (Celestial Singularity + Ethereal Genesis + Chrono-Mystical Nexus + Divine Apocalypse + Omnipotent Convergence)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 100
 - **Defense Power**: 100

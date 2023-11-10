@@ -3,6 +3,7 @@
 ---
 
 #### 1. 영혼 부활 마법 (영혼 소환 + 강령술)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **공격력**: 8
 - **방어력**: 4

@@ -3,6 +3,7 @@
 ---
 
 #### 1. Spacetime Warp Magic (Chronomancy + Teleportation)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 11
 - **Defense Power**: 10

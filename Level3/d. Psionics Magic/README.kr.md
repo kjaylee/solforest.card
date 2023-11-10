@@ -3,6 +3,7 @@
 ---
 
 #### 1. 미래 조작 (미래 예측 마법 + 조작 마법)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **공격력**: 16
 - **방어력**: 13
@@ -16,6 +17,7 @@
 ---
 
 #### 2. 집단 예측 (미래 예측 마법 + 집단 제어 마법)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **공격력**: 12
 - **방어력**: 14
@@ -29,6 +31,7 @@
 ---
 
 #### 3. 매스 매니퓰레이션 (매니퓰레이션 마법 + 그룹 제어 마법)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **공격력**: 14
 - **방어력**: 10

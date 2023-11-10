@@ -3,6 +3,7 @@
 ---
 
 #### 1. Bio-Climate (Ecosystem Magic + Climate Control Magic)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 15
 - **Defense Power**: 12
@@ -16,6 +17,7 @@
 ---
 
 #### 2. Nature's Seasons (Ecosystem Magic + Seasonal Magic)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 13
 - **Defense Power**: 13
@@ -29,6 +31,7 @@
 ---
 
 #### 3. Climate Seasons (Climate Control Magic + Seasonal Magic)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 16
 - **Defense Power**: 10

@@ -3,6 +3,7 @@
 ---
 
 #### 1. Futuristic Manipulation (Future Prediction Magic + Manipulation Magic)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 16
 - **Defense Power**: 13
@@ -16,6 +17,7 @@
 ---
 
 #### 2. Collective Forecast (Future Prediction Magic + Group Control Magic)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 12
 - **Defense Power**: 14
@@ -29,6 +31,7 @@
 ---
 
 #### 3. Mass Manipulation (Manipulation Magic + Group Control Magic)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 14
 - **Defense Power**: 10

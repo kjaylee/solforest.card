@@ -3,6 +3,7 @@
 ---
 
 #### 1. 미래 예지 마법 (텔레파시 + 점술)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **공격력**: 8
 - **방어력**: 9
@@ -16,6 +17,7 @@
 ---
 
 #### 2. 조종 마법 (점술 + 마음 제어)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **공격력**: 11
 - **방어력**: 6
@@ -29,6 +31,7 @@
 ---
 
 #### 3. 집단 제어 마법 (마음 제어 + 텔레파시)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **공격력**: 7
 - **방어력**: 7

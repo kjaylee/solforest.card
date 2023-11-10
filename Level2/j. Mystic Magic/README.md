@@ -3,6 +3,7 @@
 ---
 
 #### 1. Reality Distortion Magic (Illusion + Gravimancy)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 6
 - **Defense Power**: 6
@@ -14,6 +15,7 @@
 - **Story**: Known as the "Reality Bender," this girl is a master of both Illusion and Gravimancy. She can simultaneously manipulate perception and gravity, making her enemies question both what they see and feel. It's nearly impossible to gain a tactical advantage over her, as she can quickly alter the rules of engagement. Calculative and strategic, she is an expert at control.
 
 #### 2. Vibration Magic (Gravimancy + Sonimancy)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 5
 - **Defense Power**: 5
@@ -25,6 +27,7 @@
 - **Story**: Referred to as the "Vibromancer," this girl can manipulate both gravitational and sound waves to create powerful vibrations. Whether it's shaking the earth beneath enemies or emitting a resonating frequency that disorients them, she can control the battlefield in various ways. Energetic and intellectual, she understands the pulse of any situation.
 
 #### 3. Hallucination Magic (Sonimancy + Illusion)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 7
 - **Defense Power**: 4

@@ -3,6 +3,7 @@
 ---
 
 #### 1. Soul Resurrection Magic (Soul Summoning + Necromancy)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 8
 - **Defense Power**: 4

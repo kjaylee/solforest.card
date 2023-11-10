@@ -3,6 +3,7 @@
 ---
 
 #### 1. Eternal Warp (Spacetime Warp Magic + Spacetime Warp Magic)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 18
 - **Defense Power**: 16

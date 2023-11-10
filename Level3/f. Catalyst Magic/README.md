@@ -3,6 +3,7 @@
 ---
 
 #### 1. Sacred Resurrection (Resurrection Magic + Complete Protection Magic)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 5
 - **Defense Power**: 12
@@ -16,6 +17,7 @@
 ---
 
 #### 2. Resurrection Seal (Resurrection Magic + Sealing Magic)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 8
 - **Defense Power**: 8
@@ -29,6 +31,7 @@
 ---
 
 #### 3. Protective Seal (Complete Protection Magic + Sealing Magic)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 4
 - **Defense Power**: 12

@@ -3,6 +3,7 @@
 ---
 
 #### 1. Steam Magic (Pyromancy + Hydromancy)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 11
 - **Defense Power**: 9
@@ -16,6 +17,7 @@
 ---
 
 #### 2. Fog Magic (Hydromancy + Aeromancy)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 8
 - **Defense Power**: 12
@@ -29,6 +31,7 @@
 ---
 
 #### 3. Sandstorm Magic (Aeromancy + Geomancy)
+  <img src="./Desert Tempest.png" width="30%"></img>
 
 - **Attack Power**: 11
 - **Defense Power**: 11
@@ -42,6 +45,7 @@
 ---
 
 #### 4. Volcanic Magic (Geomancy + Pyromancy)
+  <img src="./Lava Queen.png" width="30%"></img>
 
 - **Attack Power**: 14
 - **Defense Power**: 8

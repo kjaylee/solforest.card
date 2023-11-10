@@ -3,6 +3,7 @@
 ---
 
 #### 1. Celestial Singularity (Celestial Inferno + Quantum Consciousness + Seraphic Covenant + Cosmic Illusion)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 40
 - **Defense Power**: 40

@@ -3,6 +3,7 @@
 ---
 
 #### 1. 신성한 부활 (부활 마법 + 완전한 보호 마법)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **공격력**: 5
 - **방어력**: 12
@@ -16,6 +17,7 @@
 ---
 
 #### 2. 부활 봉인 (부활 마법 + 봉인 마법)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **공격력**: 8
 - **방어력**: 8
@@ -29,6 +31,7 @@
 ---
 
 #### 3. 보호 봉인 (완전 보호 마법 + 봉인 마법)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **공격력**: 4
 - **방어력**: 12

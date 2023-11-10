@@ -3,6 +3,7 @@
 ---
 
 #### 5. Omnipotent Convergence (Cosmic Illusion + Quantum Consciousness + Seraphic Covenant + Terra Firma Cyclone)
+  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
 
 - **Attack Power**: 50
 - **Defense Power**: 48
