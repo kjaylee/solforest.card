@@ -2,27 +2,30 @@
 
 [![english](https://img.shields.io/badge/lang-english-red.svg)](https://github.com/kjaylee/solforest.card/blob/master/Demons/README.md)
 [![korean](https://img.shields.io/badge/lang-korean-blue.svg)](https://github.com/kjaylee/solforest.card/blob/master/Demons/README.kr.md)
-
-1. **Bael**: An expert in shapeshifting magic, with the ability to take on various forms to disorient opponents.
-  <img src="./Bael.png" width="30%"></img>
-2. **Agares**: Mage of communication and language, able to understand and communicate in a variety of languages to aid allies.
-  <img src="./Agares.png" width="30%"></img>
-3. **Vassago**: A mage of foresight, he uses his magic to gain information and gain a strategic advantage in battle.
-  <img src="./Vassago.png" width="30%"></img>
-4. **Samigina**: A sorceress who summons creatures from stories, bringing powerful creatures to battle.
-  <img src="./Samigina.png" width="30%"></img>
-5. **Marbas**: A mage of healing and restoration, with the ability to heal and restore allies.
-  <img src="./Marbas.png" width="30%"></img>
-6. **Valefor**: A mage skilled in intelligence gathering and hacking magic, able to identify and disrupt enemy strategies.
-  <img src="./Valefor.png" width="30%"></img>
+(|1|2|3|
+|:---:|:---:|:---:|
+|4|5|6|)
+(|1. **Bael**: An expert in shapeshifting magic, with the ability to take on various forms to disorient opponents.
+  <div><img src="./Bael.png" width="30%"></img></div>
+|2. **Agares**: Mage of communication and language, able to understand and communicate in a variety of languages to aid allies.
+  <div><img src="./Agares.png" width="30%"></img></div>
+|3. **Vassago**: A mage of foresight, he uses his magic to gain information and gain a strategic advantage in battle.
+  <div><img src="./Vassago.png" width="30%"></img></div>|
+  |:---:|:---:|:---:|
+|4. **Samigina**: A sorceress who summons creatures from stories, bringing powerful creatures to battle.
+  <div><img src="./Samigina.png" width="30%"></img></div>
+|5. **Marbas**: A mage of healing and restoration, with the ability to heal and restore allies.
+  <div><img src="./Marbas.png" width="30%"></img></div>
+|6. **Valefor**: A mage skilled in intelligence gathering and hacking magic, able to identify and disrupt enemy strategies.
+ <div><img src="./Valefor.png" width="30%"></img></div>|)
 7. **Amon**: Utilizes chemical transmutation magic to attack enemies and alter battlefield conditions.
-  <img src="./Amon.png" width="30%"></img>
+  <div><img src="./Amon.png" width="30%"></img></div>
 8. **Barbatos**: A mage who borrows from the forces of nature to attack enemies and protect allies.
-  <img src="./Barbatos.png" width="30%"></img>
+  <div><img src="./Barbatos.png" width="30%"></img></div>
 9. **Paimon**: Combines art and magic to create beautiful illusions and confuse opponents.
-  <img src="./Paimon.png" width="30%"></img>
+  <div><img src="./Paimon.png" width="30%"></img></div>
 10. **Buer**: Uses philosophical insights to gain strategic advantage and guide allies.
-  <img src="./Buer.png" width="30%"></img>
+  <div><img src="./Buer.png" width="30%"></img></div>
 11. **Gusion**: A goal-oriented mage who inspires and strengthens his allies with enterprising magic.
 12. **Sitri**: A goal-oriented mage who uses the magic of enchantment and seduction to lure and manipulate enemies.
 13. **Beleth**: Moves allies and mesmerizes enemies through a blend of music and magic.
