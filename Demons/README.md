@@ -4,25 +4,25 @@
 [![korean](https://img.shields.io/badge/lang-korean-blue.svg)](https://github.com/kjaylee/solforest.card/blob/master/Demons/README.kr.md)
 
 1. **Bael**: An expert in shapeshifting magic, with the ability to take on various forms to disorient opponents.
-  <img src="./Bael.png" width="30%"></img>
+  []<img src="./Bael.png" width="30%"></img>
 2. **Agares**: Mage of communication and language, able to understand and communicate in a variety of languages to aid allies.
-  <img src="./Agares.png" width="30%"></img>
+  []<img src="./Agares.png" width="30%"></img>
 3. **Vassago**: A mage of foresight, he uses his magic to gain information and gain a strategic advantage in battle.
-  <img src="./Vassago.png" width="30%"></img>
+  []<img src="./Vassago.png" width="30%"></img>
 4. **Samigina**: A sorceress who summons creatures from stories, bringing powerful creatures to battle.
-  <img src="./Samigina.png" width="30%"></img>
+  []<img src="./Samigina.png" width="30%"></img>
 5. **Marbas**: A mage of healing and restoration, with the ability to heal and restore allies.
-  <img src="./Marbas.png" width="30%"></img>
+  []<img src="./Marbas.png" width="30%"></img>
 6. **Valefor**: A mage skilled in intelligence gathering and hacking magic, able to identify and disrupt enemy strategies.
-  <img src="./Valefor.png" width="30%"></img>
+  []<img src="./Valefor.png" width="30%"></img>
 7. **Amon**: Utilizes chemical transmutation magic to attack enemies and alter battlefield conditions.
-  <img src="./Amon.png" width="30%"></img>
+  []<img src="./Amon.png" width="30%"></img>
 8. **Barbatos**: A mage who borrows from the forces of nature to attack enemies and protect allies.
-  <img src="./Barbatos.png" width="30%"></img>
+  []<img src="./Barbatos.png" width="30%"></img>
 9. **Paimon**: Combines art and magic to create beautiful illusions and confuse opponents.
-  <img src="./Paimon.png" width="30%"></img>
+  []<img src="./Paimon.png" width="30%"></img>
 10. **Buer**: Uses philosophical insights to gain strategic advantage and guide allies.
-  <img src="./Buer.png" width="30%"></img>
+  []<img src="./Buer.png" width="30%"></img>
 11. **Gusion**: A goal-oriented mage who inspires and strengthens his allies with enterprising magic.
 12. **Sitri**: A goal-oriented mage who uses the magic of enchantment and seduction to lure and manipulate enemies.
 13. **Beleth**: Moves allies and mesmerizes enemies through a blend of music and magic.
