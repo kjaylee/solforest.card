@@ -24,7 +24,9 @@
 10. **Buer**: Uses philosophical insights to gain strategic advantage and guide allies.
   <div><img src="./Buer.png" width="30%"></img></div>
 11. **Gusion**: A goal-oriented mage who inspires and strengthens his allies with enterprising magic.
+  <div><img src="./Gusion.png" width="30%"></img></div>
 12. **Sitri**: A goal-oriented mage who uses the magic of enchantment and seduction to lure and manipulate enemies.
+  <div><img src="./Sitri.png" width="30%"></img></div>
 13. **Beleth**: Moves allies and mesmerizes enemies through a blend of music and magic.
 14. **Leraje**: A mage of battle, wielding powerful offensive magic and tactical skills.
 15. **Eligos**: Mage of strategy and planning, coordinating and directing the actions of allies in battle.
