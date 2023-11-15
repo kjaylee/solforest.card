@@ -2,22 +2,19 @@
 
 [![english](https://img.shields.io/badge/lang-english-red.svg)](https://github.com/kjaylee/solforest.card/blob/master/Demons/README.md)
 [![korean](https://img.shields.io/badge/lang-korean-blue.svg)](https://github.com/kjaylee/solforest.card/blob/master/Demons/README.kr.md)
-(|1|2|3|
-|:---:|:---:|:---:|
-|4|5|6|)
-(|1. **Bael**: An expert in shapeshifting magic, with the ability to take on various forms to disorient opponents.
+
+1. **Bael**: An expert in shapeshifting magic, with the ability to take on various forms to disorient opponents.
   <div><img src="./Bael.png" width="30%"></img></div>
-|2. **Agares**: Mage of communication and language, able to understand and communicate in a variety of languages to aid allies.
+2. **Agares**: Mage of communication and language, able to understand and communicate in a variety of languages to aid allies.
   <div><img src="./Agares.png" width="30%"></img></div>
-|3. **Vassago**: A mage of foresight, he uses his magic to gain information and gain a strategic advantage in battle.
-  <div><img src="./Vassago.png" width="30%"></img></div>|
-  |:---:|:---:|:---:|
-|4. **Samigina**: A sorceress who summons creatures from stories, bringing powerful creatures to battle.
+3. **Vassago**: A mage of foresight, he uses his magic to gain information and gain a strategic advantage in battle.
+  <div><img src="./Vassago.png" width="30%"></img></div>
+4. **Samigina**: A sorceress who summons creatures from stories, bringing powerful creatures to battle.
   <div><img src="./Samigina.png" width="30%"></img></div>
-|5. **Marbas**: A mage of healing and restoration, with the ability to heal and restore allies.
+5. **Marbas**: A mage of healing and restoration, with the ability to heal and restore allies.
   <div><img src="./Marbas.png" width="30%"></img></div>
-|6. **Valefor**: A mage skilled in intelligence gathering and hacking magic, able to identify and disrupt enemy strategies.
- <div><img src="./Valefor.png" width="30%"></img></div>|)
+6. **Valefor**: A mage skilled in intelligence gathering and hacking magic, able to identify and disrupt enemy strategies.
+ <div><img src="./Valefor.png" width="30%"></img></div>
 7. **Amon**: Utilizes chemical transmutation magic to attack enemies and alter battlefield conditions.
   <div><img src="./Amon.png" width="30%"></img></div>
 8. **Barbatos**: A mage who borrows from the forces of nature to attack enemies and protect allies.
