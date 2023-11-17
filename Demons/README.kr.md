@@ -4,15 +4,25 @@
 [![korean](https://img.shields.io/badge/lang-korean-blue.svg)](https://github.com/kjaylee/solforest.card/blob/master/Demons/README.kr.md)
 
 1. **바알 (Bael)**: 변신 마법의 전문가로, 다양한 형태로 변신하여 상대를 교란시키는 능력을 가짐.
+
   <div><img src="./Bael.png" width="30%"></img></div>
+  
 2. **아가레스 (Agares)**: 소통과 언어의 마법사로, 다양한 언어를 이해하고 소통하여 아군을 지원함.
+
   <div><img src="./Agares.png" width="30%"></img></div>
+  
 3. **바실 (Vassago)**: 미래 예지 마법을 사용하여 전투에서 유리한 정보를 얻고 전략적 우위를 확보함.
+
   <div><img src="./Vassago.png" width="30%"></img></div>
+  
 4. **사마이나 (Samigina)**: 이야기 속 생물들을 소환하는 마법사로, 강력한 생명체들을 전투에 소환함.
+
  <div><img src="./Samigina.png" width="30%"></img></div>
+ 
 5. **마르바스 (Marbas)**: 치유와 회복의 마법사로, 아군을 치유하고 회복시키는 능력을 지님.
+
   <div><img src="./Marbas.png" width="30%"></img></div>
+  
 6. **발레포르 (Valefor)**: 정보 수집과 해킹 마법에 능숙하여, 적의 전략을 파악하고 방해함.
   <div><img src="./Valefor.png" width="30%"></img></div>
 7. **아몬 (Amon)**: 화학 변형 마법을 사용하여 적을 공격하고 전장의 상황을 변화시킴.
