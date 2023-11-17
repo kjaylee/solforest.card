@@ -42,14 +42,23 @@
 19. **살로스 (Sallos)** : 사교와 외교의 마법사로, 협상과 대화를 통해 적과의 갈등을 해결함.
   <div><img src="./Sallos.png" width="30%"></img></div>
 20. **푸르손 (Purson)**: 신비한 지식과 역사를 이해하는 마법사로, 과거의 지혜를 현재의 전투에 활용함.
+  <div><img src="./Purson.png" width="30%"></img></div>
 21. **마린 (Marax)**: 천문학과 마법을 결합하여 우주의 힘을 이용하고 별의 위치를 통해 전략을 세움.
+  <div><img src="./Marax.png" width="30%"></img></div>
 22. **이포스 (Ipos)**: 모험과 발견의 마법사로, 새로운 마법과 전략을 탐색하고 개발함.
+  <div><img src="./Ipos.png" width="30%"></img></div>
 23. **아임 (Aim)**: 불과 열기의 마법사로, 강력한 화염 마법으로 적을 공격하고 방어함.
+  <div><img src="./Aim.png" width="30%"></img></div>
 24. **느바 (Naberius)**: 변장과 환영의 마법사로, 자신의 모습을 바꾸거나 적을 혼란에 빠뜨림.
+  <div><img src="./Naberius.png" width="30%"></img></div>
 25. **글라시아라바스 (Glasya-Labolas)**: 심리와 마음을 조작하는 마법사로, 적의 생각을 읽고 조종함.
+  <div><img src="./Glasya-Labolas.png" width="30%"></img></div>
 26. **분데스 (Bune)**: 과거의 영혼과 대화하는 마법사로, 고대의 지혜를 현대 전투에 활용함.
+  <div><img src="./Bune.png" width="30%"></img></div>
 27. **로노베 (Ronove)**: 언어와 마법의 전문가로, 말의 힘으로 아군을 강화하고 적을 약화시킴.
+  <div><img src="./Ronove.png" width="30%"></img></div>
 28. **베리스 (Berith)**: 정치와 조종의 마법사로, 전투 중 적의 동맹을 무너뜨리고 전략을 조율함.
+  <div><img src="./Berith.png" width="30%"></img></div>
 29. **아스타로트 (Astaroth)**: 고대의 비밀과 마법을 탐구하는 마법사로, 잊혀진 마법을 전투에 활용함.
 30. **포르네우스 (Forneus)**: 말과 설득의 마법사로, 상대를 설득하고 아군의 의사소통을 강화함.
 31. **포르카스 (Foras)**: 지혜와 논리의 마법사로, 철학적 통찰력으로 전략적 우위를 확보함.
