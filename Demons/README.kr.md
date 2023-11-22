@@ -104,10 +104,15 @@
 45. **비네 (Vine)**: 자연과 벽을 지배하는 마법사로, 장애물을 생성하고 적의 이동을 방해함.
   <div><img src="./Vine.png" width="30%"></img></div>
 46. **비프론스 (Bifrons)**: 죽은 자들을 소환하는 마법사로, 고대의 영혼을 전투에 활용함.
+  <div><img src="./Bifrons.png" width="30%"></img></div>
 47. **우발 (Uvall)**: 감정과 우정의 마법사로, 아군의 결속력을 강화하고 적의 의지를 약화시킴.
+  <div><img src="./Uvall.png" width="30%"></img></div>
 48. **하아젠트 (Haagenti)**: 변신과 변화의 마법사로, 형태를 바꾸어 전투를 유리하게 이끔.
+  <div><img src="./Haagenti.png" width="30%"></img></div>
 49. **크로셀 (Crocell)**: 물과 온도를 조종하는 마법사로, 환경을 변화시켜 적을 방해함.
+  <div><img src="./Crocell.png" width="30%"></img></div>
 50. **후랑스 (Furcas)**: 지식과 지혜의 마법사로, 정보를 제공하고 전략적 조언을 함.
+  <div><img src="./CrFurcasocell.png" width="30%"></img></div>
 51. **발락 (Balam)**: 예언과 통찰의 마법사로, 미래를 예측하고 전략적 가이드를 제공함.
 52. **알록 (Alloces)**: 불과 전투의 마법사로, 강력한 화염 마법을 사용하여 적을 공격함.
 53. **카임 (Caim)**: 동물과의 소통 마법사로, 동물들을 소환하고 전투에 활용함.
