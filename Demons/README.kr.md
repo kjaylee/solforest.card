@@ -112,13 +112,19 @@
 49. **크로셀 (Crocell)**: 물과 온도를 조종하는 마법사로, 환경을 변화시켜 적을 방해함.
   <div><img src="./Crocell.png" width="30%"></img></div>
 50. **후랑스 (Furcas)**: 지식과 지혜의 마법사로, 정보를 제공하고 전략적 조언을 함.
-  <div><img src="./CrFurcasocell.png" width="30%"></img></div>
+  <div><img src="./Furcas.png" width="30%"></img></div>
 51. **발락 (Balam)**: 예언과 통찰의 마법사로, 미래를 예측하고 전략적 가이드를 제공함.
+  <div><img src="./Balam.png" width="30%"></img></div>
 52. **알록 (Alloces)**: 불과 전투의 마법사로, 강력한 화염 마법을 사용하여 적을 공격함.
+  <div><img src="./Alloces.png" width="30%"></img></div>
 53. **카임 (Caim)**: 동물과의 소통 마법사로, 동물들을 소환하고 전투에 활용함.
+  <div><img src="./Caim.png" width="30%"></img></div>
 54. **뮈르뮈르 (Murmur)**: 영혼과 죽음의 마법사로, 죽음의 마법을 사용하여 적을 제압함.
+  <div><img src="./Murmur.png" width="30%"></img></div>
 55. **오로바스 (Orobas)**: 진실과 보호의 마법사로, 아군을 보호하고 적의 거짓을 폭로함.
+  <div><img src="./Orobas.png" width="30%"></img></div>
 56. **그레모리 (Gremory)**: 보물 탐색과 발견의 마법사로, 귀중한 자원을 발견하고 확보함.
+  <div><img src="./Gremory.png" width="30%"></img></div>
 57. **오세 (Ose)**: 마음과 환상의 마법사로, 환상을 생성하여 적을 혼란에 빠뜨림.
 58. **아미 (Amy)**: 천문과 점성술의 마법사로, 별의 위치를 이용해 전략을 세움.
 59. **오리아스 (Orias)**: 변신과 운명의 마법사로, 운명을 조종하고 형태를 변화시킴.
