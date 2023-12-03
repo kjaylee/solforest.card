@@ -132,15 +132,25 @@
 59. **오리아스 (Orias)**: 변신과 운명의 마법사로, 운명을 조종하고 형태를 변화시킴.
   <div><img src="./Orias.png" width="30%"></img></div>
 60. **바페 (Vapula)**: 지식과 기술의 마법사로, 혁신적인 마법 기술로 아군을 지원함.
+  <div><img src="./Vapula.png" width="30%"></img></div>
 61. **자갈 (Zagan)**: 변환과 창조의 마법사로, 아이템과 자원을 변환하고 새롭게 창조함.
+  <div><img src="./Zagan.png" width="30%"></img></div>
 62. **볼락 (Valac)**: 뱀과 비밀의 마법사로, 뱀을 소환하고 적의 비밀을 밝힘.
+  <div><img src="./Valac.png" width="30%"></img></div>
 63. **안드라스 (Andras)**: 분쟁과 전투의 마법사로, 적을 도발하고 전투를 유도함.
+  <div><img src="./Andras.png" width="30%"></img></div>
 64. **하우레스 (Haures)**: 진실과 파괴의 마법사로, 진실을 밝히고 적의 방어를 파괴함.
+  <div><img src="./Haures.png" width="30%"></img></div>
 65. **안드레알퍼스 (Andrealphus)**: 지식과 변형의 마법사로, 현실을 변형하고 새로운 지식을 창출함.
+  <div><img src="./Andrealphus.png" width="30%"></img></div>
 66. **쿠네 (Cimejes)**: 강력한 전사 마법사로, 무적의 전사를 소환하고 전투를 이끔.
+  <div><img src="./Cimejes.png" width="30%"></img></div>
 67. **아메드 (Amdusias)**: 음악과 폭풍의 마법사로, 음악으로 자연을 조종하고 적을 공격함.
+  <div><img src="./Amdusias.png" width="30%"></img></div>
 68. **벨리알 (Belial)**: 법과 권력의 마법사로, 법적 마법을 사용하여 적을 제압하고 권력을 행사함.
+  <div><img src="./Belial.png" width="30%"></img></div>
 69. **드카르압 (Decarabia)**: 조류와 환영의 마법사로, 새들을 소환하고 환영을 생성함.
+  <div><img src="./Decarabia.png" width="30%"></img></div>
 70. **세에르 (Seere)**: 속도와 이동의 마법사로, 빠른 이동과 적의 움직임을 방해함.
 71. **두카인 (Dantalion)**: 마음과 생각의 마법사로, 적의 생각을 읽고 조종함.
 72. **안드로말리우스 (Andromalius)**: 추적과 정의의 마법사로, 적을 추적하고 범죄를 폭로함.
