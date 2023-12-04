@@ -3,7 +3,7 @@
 ---
 
 #### 4. 신성한 묵시록 (세라픽 언약 + 천상의 지옥 + 양자 의식 + 가이아의 교향곡)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **공격력**: 46
 - **방어력**: 44

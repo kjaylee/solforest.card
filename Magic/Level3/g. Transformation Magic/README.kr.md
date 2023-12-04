@@ -3,7 +3,7 @@
 ---
 
 #### 1. Absolute Morphing (Complete Transformation Magic + Complete Transformation Magic)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **Attack Power**: 13
 - **Defense Power**: 12

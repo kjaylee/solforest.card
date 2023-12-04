@@ -3,7 +3,7 @@
 ---
 
 #### 1. 부활 마법 (저주 + 치유)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **공격력**: 4
 - **방어력**: 4
@@ -15,7 +15,7 @@
 - **스토리**: "영혼의 감시자"로 알려진 이 소녀는 저주와 치유의 힘을 결합하여 생명력을 직접 조작합니다. 동맹을 치유할 뿐만 아니라 저주받은 상태로 부활시켜 짧은 기간 동안 더욱 강력하게 만듭니다. 그녀는 어둠과 빛의 혼합체로, 생명과 죽음 사이의 경계를 걷습니다.
 
 #### 2. 완전 보호 마법 (치유 + 보호)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **공격력**: 2
 - **방어력**: 9
@@ -27,7 +27,7 @@
 - **스토리**: "성역의 파수꾼"이라 불리는 이 소녀는 방어의 극치를 나타내며, 치유와 보호 마법을 결합하여 동맹 주변에 거의 뚫을 수 없는 보호 구역을 만듭니다. 그녀의 연민과 굳건함은 해를 예방하고 되돌릴 수 있는 최고의 수호자로 만듭니다.
 
 #### 3. 봉인 마법 (보호 + 저주)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **공격력**: 6
 - **방어력**: 6

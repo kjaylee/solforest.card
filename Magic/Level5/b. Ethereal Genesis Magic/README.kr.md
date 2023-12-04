@@ -3,7 +3,7 @@
 ---
 
 #### 2. 에테리얼 제네시스 (가이아의 교향곡 + 테라 피르마 사이클론 + 태초의 폭풍 + 우주의 환영)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **공격력**: 42
 - **방어력**: 40

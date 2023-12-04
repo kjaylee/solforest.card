@@ -3,7 +3,7 @@
 ---
 
 #### Gaia's Symphony (Universal Seasons + Cosmic Climate + Planetary Life Cycle)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **Attack Power**: 24
 - **Defense Power**: 21

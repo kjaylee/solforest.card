@@ -3,7 +3,7 @@
 ---
 
 #### 1. 천상의 지옥 (화산 안개 + 신비한 강풍 + 대지의 분노)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **공격력**: 22
 - **방어력**: 18 18
@@ -17,7 +17,7 @@
 ---
 
 #### 2. 테라 피르마 사이클론(화산 안개 + 신비한 강풍 + 모래 파이어 사이클론)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **공격력**: 21
 - **방어력**: 20
@@ -31,7 +31,7 @@
 ---
 
 #### 3. 태초의 폭풍 (신비한 강풍 + 대지의 분노 + 모래 폭풍 사이클론)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **공격력**: 23
 - **방어력**: 17 17

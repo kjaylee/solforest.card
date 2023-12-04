@@ -2,7 +2,7 @@
 
 #### 1. Pyromancy Card
   
-  <img src="./Flame Wielder.png" width="30%"></img>
+ ![Flame Wielder](./Flame Wielder.png)
 
 - **Attack Power**: 8
 - **Defense Power**: 2
@@ -15,7 +15,7 @@
 
 #### 2. Hydromancy Card
   
-  <img src="./Water Sage.png" width="30%"></img>
+ ![Water Sage](./Water Sage.png)
 
 - **Attack Power**: 3
 - **Defense Power**: 7
@@ -28,7 +28,7 @@
 
 #### 3. Aeromancy Card
   
-  <img src="./Wind Whisperer.png" width="30%"></img>
+ ![Wind Whisperer](./Wind Whisperer.png)
 
 - **Attack Power**: 5
 - **Defense Power**: 5
@@ -41,7 +41,7 @@
 
 #### 4. Geomancy Card
   
-  <img src="./Earthshaker.png" width="30%"></img>
+ ![Earthshaker](./Earthshaker.png)
 
 - **Attack Power**: 6
 - **Defense Power**: 6

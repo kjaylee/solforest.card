@@ -3,7 +3,7 @@
 ---
 
 #### 1. 레이저 마법 (전기마법 + 광학마법)
-  <img src="./Pulse Enchantress.png" width="30%"></img>
+ ![Pulse Enchantress](./Pulse Enchantress.png)
 
 - **공격력**: 11
 - **방어력**: 9

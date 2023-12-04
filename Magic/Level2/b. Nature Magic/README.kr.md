@@ -4,7 +4,7 @@
 
 #### 1. 생태계 마법 (식물 마법 + 동물 마법)
 
-  <img src="./Warden of Life.png" width="30%"></img>
+ ![Warden of Life](./Warden of Life.png)
 
 - **공격력**: 10
 - **방어력**: 9
@@ -19,7 +19,7 @@
 
 #### 2. 기후 조절 마법 (동물 마법 + 기상 마법)
 
-  <img src="./Tempest Tamer.png" width="30%"></img>
+ ![Tempest Tamer](./Tempest Tamer.png)
 
 - **공격력**: 13
 - **방어력**: 7
@@ -34,7 +34,7 @@
 
 #### 3. 계절 마법 (기상 마법 + 식물 마법)
 
-  <img src="./Seasonal Sage.png" width="30%"></img>
+ ![Seasonal Sage](./Seasonal Sage.png)
 
 - **공격력**: 11
 - **방어력**: 8

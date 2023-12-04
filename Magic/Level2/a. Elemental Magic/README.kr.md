@@ -3,7 +3,7 @@
 ---
 
 #### 1. 스팀 마법 (화염 마법 + 수계 마법)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **공격력**: 11
 - **방어력**: 9
@@ -17,7 +17,7 @@
 ---
 
 #### 2. 안개 마법 (수계 마법 + 풍마법)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **공격력**: 8
 - **방어력**: 12
@@ -31,7 +31,7 @@
 ---
 
 #### 3. 모래폭풍 마법 (풍마법 + 지마법)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **공격력**: 11
 - **방어력**: 11
@@ -45,7 +45,7 @@
 ---
 
 #### 4. 화산 마법 (지마법 + 화염 마법)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **공격력**: 14
 - **방어력**: 8

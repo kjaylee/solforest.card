@@ -2,7 +2,7 @@
 
 #### 1. 파이로매직 카드
   
-  <img src="./Flame Wielder.png" width="30%"></img>
+ ![Flame Wielder](./Flame Wielder.png)
 
 - **공격력**: 8
 - **방어력**: 2
@@ -15,7 +15,7 @@
 
 #### 2. 하이드로맨시 카드
   
-  <img src="./Water Sage.png" width="30%"></img>
+ ![Water Sage](./Water Sage.png)
 
 - **공격력**: 3
 - **방어력**: 7
@@ -28,7 +28,7 @@
 
 #### 3. 에어로맨시 카드
   
-  <img src="./Wind Whisperer.png" width="30%"></img>
+ ![Wind Whisperer](./Wind Whisperer.png)
 
 - **공격력**: 5
 - **방어력**: 5
@@ -41,7 +41,7 @@
 
 #### 4. 지오맨시 카드
   
-  <img src="./Earthshaker.png" width="30%"></img>
+ ![Earthshaker](./Earthshaker.png)
 
 - **공격력**: 6
 - **방어력**: 6

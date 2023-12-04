@@ -3,7 +3,7 @@
 ---
 
 #### 1. Distorted Vibration (Reality Distortion Magic + Vibration Magic)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **Attack Power**: 11
 - **Defense Power**: 11
@@ -15,7 +15,7 @@
 - **Story**: Known as the "Master of Dissonance," this girl has achieved the pinnacle of Reality Distortion and Vibration Magic. She can manipulate both perception and gravitational and sound waves simultaneously, leading to disorienting, chaotic battlefields where enemies can't trust their senses or even the ground beneath their feet. She is the epitome of control and confusion.
 
 #### 2. Sonic Illusion (Vibration Magic + Hallucination Magic)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **Attack Power**: 10
 - **Defense Power**: 7
@@ -27,7 +27,7 @@
 - **Story**: Referred to as the "Harmony Illusionist," this girl fuses the arts of Vibration and Hallucination Magic to produce mesmerizing and disorienting sonic illusions. She can create complex auditory and visual scenarios that are not only deceptive but also physically disruptive, making her opponents susceptible to errors and miscalculations.
 
 #### 3. Distorted Hallucination (Reality Distortion Magic + Hallucination Magic)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **Attack Power**: 12
 - **Defense Power**: 9

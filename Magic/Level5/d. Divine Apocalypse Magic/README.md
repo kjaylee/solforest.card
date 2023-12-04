@@ -3,7 +3,7 @@
 ---
 
 #### 4. Divine Apocalypse (Seraphic Covenant + Celestial Inferno + Quantum Consciousness + Gaia's Symphony)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **Attack Power**: 46
 - **Defense Power**: 44

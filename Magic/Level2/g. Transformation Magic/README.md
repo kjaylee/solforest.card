@@ -3,7 +3,7 @@
 ---
 
 #### 1. Complete Transformation Magic (Shape-shifting + Transmutation)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **Attack Power**: 7
 - **Defense Power**: 6

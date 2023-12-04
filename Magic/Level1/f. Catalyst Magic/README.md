@@ -1,7 +1,7 @@
 ### Catalyst Magic Cards
 
 #### 1. Cursing Card
-  <img src="./Hexweaver.png" width="30%"></img>
+ ![Hexweaver](./Hexweaver.png)
 
 - **Attack Power**: 7
 - **Defense Power**: 3
@@ -13,7 +13,7 @@
 - **Story**: Known as the "Hexweaver," this girl specializes in casting curses that weaken enemies or inflict continuous damage. Her abilities can turn the tide in a tight situation, but she must be careful as her defense is low. She's cunning and thrives on the despair of her enemies.
 
 #### 2. Healing Card
-  <img src="./Lifesaver.png" width="30%"></img>
+ ![Lifesaver](./Lifesaver.png)
 
 - **Attack Power**: 2
 - **Defense Power**: 5
@@ -25,7 +25,7 @@
 - **Story**: Often referred to as the "Lifesaver," this girl is adept at healing spells that restore health to her allies and can even revive those who have fallen. She is a cornerstone in any team's defense, always there to lend a helping hand. She's compassionate and nurturing, the heart of her team.
 
 #### 3. Warding Card
-  <img src="./Guardian.png" width="30%"></img>
+ ![Guardian](./Guardian.png)
 
 - **Attack Power**: 3
 - **Defense Power**: 8

@@ -3,7 +3,7 @@
 ---
 
 #### 가이아의 교향곡 (우주의 계절 + 우주 기후 + 행성의 수명 주기)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **공격력**: 24
 - 방어력 **: 21

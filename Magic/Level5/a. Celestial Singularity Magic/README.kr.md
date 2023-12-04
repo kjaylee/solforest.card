@@ -3,7 +3,7 @@
 ---
 
 #### 1. 천상의 특이점 (천상의 지옥 + 양자 의식 + 세라픽 언약 + 우주 환영)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **공격력**: 40
 - **방어력**: 40

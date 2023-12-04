@@ -3,7 +3,7 @@
 ---
 
 #### 1. Laser Magic (Electromancy + Photomancy)
-  <img src="./Pulse Enchantress.png" width="30%"></img>
+ ![Pulse Enchantress](./Pulse Enchantress.png)
 
 - **Attack Power**: 11
 - **Defense Power**: 9

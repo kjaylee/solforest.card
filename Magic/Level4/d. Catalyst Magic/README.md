@@ -3,7 +3,7 @@
 ---
 
 #### Seraphic Covenant (Divine Rebirth + Unbreakable Seal + Guardian of Souls)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **Attack Power**: 10
 - **Defense Power**: 20

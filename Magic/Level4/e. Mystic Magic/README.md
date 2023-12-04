@@ -3,7 +3,7 @@
 ---
 
 #### Cosmic Illusion (Quantum Reality + Sensory Void + Phantasmal Quake)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **Attack Power**: 18
 - **Defense Power**: 17

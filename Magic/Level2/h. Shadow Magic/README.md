@@ -3,7 +3,7 @@
 ---
 
 #### 1. Dark Creation Magic (Umbramancy + Shadow Conjuring)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **Attack Power**: 8
 - **Defense Power**: 6

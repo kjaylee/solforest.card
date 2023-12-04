@@ -1,7 +1,7 @@
 ### Chronospace Magic Cards
 
 #### 1. Chronomancy Card
-  <img src="./Timekeeper.png" width="30%"></img>
+ ![Timekeeper](./Timekeeper.png)
 
 - **Attack Power**: 4
 - **Defense Power**: 7
@@ -13,7 +13,7 @@
 - **Story**: Known as the "Timekeeper," this girl has the ability to manipulate time. She can slow down or speed up events, giving her team more time to act or causing enemies to act slower. She's highly analytical and thinks multiple steps ahead, ensuring that she's prepared for any situation.
 
 #### 2. Teleportation Card
-  <img src="./Spacebender.png" width="30%"></img>
+ ![Spacebender](./Spacebender.png)
 
 - **Attack Power**: 7
 - **Defense Power**: 3

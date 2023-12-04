@@ -3,7 +3,7 @@
 ---
 
 #### 1. 어둠 창조 마법 (엄브래머시 + 그림자 마법)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **공격력**: 8
 - **방어력**: 6 6

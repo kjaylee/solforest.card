@@ -3,7 +3,7 @@
 ---
 
 #### 우주 환영 (양자 현실 + 감각 공허 + 환상의 지진)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **공격력**: 18
 - **방어력**: 17 17

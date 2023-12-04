@@ -3,7 +3,7 @@
 ---
 
 #### 3. 크로노-미스티컬 넥서스 (셀레스티얼 인페르노 + 퀀텀 컨셔스니스 + 프라이모디얼 템페스트 + 가이아스 심포니)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **공격력**: 45
 - **방어력**: 42

@@ -4,7 +4,7 @@
 
 #### 1. Ecosystem Magic (Phytomancy + Zoomancy)
 
-  <img src="./Warden of Life.png" width="30%"></img>
+ ![Warden of Life](./Warden of Life.png)
 
 - **Attack Power**: 10
 - **Defense Power**: 9
@@ -19,7 +19,7 @@
 
 #### 2. Climate Control Magic (Zoomancy + Meteoromancy)
 
-  <img src="./Tempest Tamer.png" width="30%"></img>
+ ![Tempest Tamer](./Tempest Tamer.png)
 
 - **Attack Power**: 13
 - **Defense Power**: 7
@@ -34,7 +34,7 @@
 
 #### 3. Seasonal Magic (Meteoromancy + Phytomancy)
 
-  <img src="./Seasonal Sage.png" width="30%"></img>
+ ![Seasonal Sage](./Seasonal Sage.png)
 
 - **Attack Power**: 11
 - **Defense Power**: 8

@@ -3,7 +3,7 @@
 ---
 
 #### 1. 완전한 변신 마법 (형태 변환 + 변신)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **공격력**: 7
 - **방어력**: 6

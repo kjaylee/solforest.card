@@ -3,7 +3,7 @@
 ---
 
 #### 양자 의식 (전지적 통제 + 은하계 조작 + 우주 인식)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **공격력**: 26
 - 방어력 **: 22

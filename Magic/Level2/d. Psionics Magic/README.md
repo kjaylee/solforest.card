@@ -3,7 +3,7 @@
 ---
 
 #### 1. Future Prediction Magic (Telepathy + Divination)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **Attack Power**: 8
 - **Defense Power**: 9
@@ -17,7 +17,7 @@
 ---
 
 #### 2. Manipulation Magic (Divination + Mind Control)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **Attack Power**: 11
 - **Defense Power**: 6
@@ -31,7 +31,7 @@
 ---
 
 #### 3. Group Control Magic (Mind Control + Telepathy)
-  <img src="./Harbinger of the Cosmos.png" width="30%"></img>
+ ![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
 
 - **Attack Power**: 7
 - **Defense Power**: 7
