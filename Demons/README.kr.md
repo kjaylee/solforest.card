@@ -152,5 +152,8 @@
 69. **드카르압 (Decarabia)**: 조류와 환영의 마법사로, 새들을 소환하고 환영을 생성함.
   <div><img src="./Decarabia.png" width="30%"></img></div>
 70. **세에르 (Seere)**: 속도와 이동의 마법사로, 빠른 이동과 적의 움직임을 방해함.
+  <div><img src="./Seere.png" width="30%"></img></div>
 71. **두카인 (Dantalion)**: 마음과 생각의 마법사로, 적의 생각을 읽고 조종함.
+  <div><img src="./Dantalion.png" width="30%"></img></div>
 72. **안드로말리우스 (Andromalius)**: 추적과 정의의 마법사로, 적을 추적하고 범죄를 폭로함.
+  <div><img src="./Andromalius.png" width="30%"></img></div>
