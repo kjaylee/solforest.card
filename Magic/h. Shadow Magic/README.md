@@ -32,7 +32,7 @@
 
 #### 1. Dark Creation Magic (Umbramancy + Shadow Conjuring)
 
-![Dark Creation](./Dark Creation.png)
+![Dark Creator](./DarkCreator.png)
 
 - **Attack Power**: 8
 - **Defense Power**: 6
@@ -51,7 +51,7 @@
 
 #### 1. Abyssal Shadows (Dark Creation Magic + Dark Creation Magic)
 
-![Abyssal Shadows](./Abyssal Shadows.png)
+![Abyssal Architect](./AbyssalArchitect.png)
 
 - **Attack Power**: 14
 - **Defense Power**: 12

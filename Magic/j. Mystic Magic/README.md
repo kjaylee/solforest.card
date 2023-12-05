@@ -44,7 +44,7 @@
 
 #### 1. Reality Distortion Magic (Illusion + Gravimancy)
 
-![Reality Distortion](./Reality Distortion.png)
+![Reality Bender](./RealityBender.png)
 
 - **Attack Power**: 6
 - **Defense Power**: 6
@@ -57,7 +57,7 @@
 
 #### 2. Vibration Magic (Gravimancy + Sonimancy)
 
-![Vibration](./Vibration.png)
+![Vibromancer](./Vibromancer.png)
 
 - **Attack Power**: 5
 - **Defense Power**: 5
@@ -70,7 +70,7 @@
 
 #### 3. Hallucination Magic (Sonimancy + Illusion)
 
-![Hallucination](./Hallucination.png)
+![Dreamweaver](./Dreamweaver.png)
 
 - **Attack Power**: 7
 - **Defense Power**: 4
@@ -89,7 +89,7 @@
 
 #### 1. Distorted Vibration (Reality Distortion Magic + Vibration Magic)
 
-![Master of Dissonance](./Master of Dissonance.png)
+![Master of Dissonance](./MasterofDissonance.png)
 
 - **Attack Power**: 11
 - **Defense Power**: 11
@@ -102,7 +102,7 @@
 
 #### 2. Sonic Illusion (Vibration Magic + Hallucination Magic)
 
-![Harmony Illusionist](./Harmony Illusionist.png)
+![Harmony Illusionist](./HarmonyIllusionist.png)
 
 - **Attack Power**: 10
 - **Defense Power**: 7
@@ -134,7 +134,7 @@
 
 #### Cosmic Illusion (Quantum Reality + Sensory Void + Phantasmal Quake)
 
-![Cosmic Enchantress](./Cosmic Enchantress.png)
+![Cosmic Enchantress](./CosmicEnchantress.png)
 
 - **Attack Power**: 18
 - **Defense Power**: 17

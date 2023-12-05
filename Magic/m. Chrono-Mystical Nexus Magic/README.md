@@ -4,7 +4,7 @@
 
 #### 3. Chrono-Mystical Nexus (Celestial Inferno + Quantum Consciousness + Primordial Tempest + Gaia's Symphony)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Harbinger of Epochs](./HarbingerofEpochs.png)
 
 - **Attack Power**: 45
 - **Defense Power**: 42

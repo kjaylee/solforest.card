@@ -32,7 +32,7 @@
 
 #### 1. Spacetime Warp Magic (Chronomancy + Teleportation)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Dimensional Maestro](./DimensionalMaestro.png)
 
 - **Attack Power**: 11
 - **Defense Power**: 10
@@ -51,7 +51,7 @@
 
 #### 1. Eternal Warp (Spacetime Warp Magic + Spacetime Warp Magic)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Architect of Eternity](./ArchitectofEternity.png)
 
 - **Attack Power**: 18
 - **Defense Power**: 16

@@ -2,7 +2,7 @@
 
 #### 1. Phytomancy Card (Plant Magic)
 
-![Guardian of the Forest](./Guardian of the Forest.png)
+![Guardian of the Forest](./GuardianoftheForest.png)
 
 - **Attack Power**: 4
 - **Defense Power**: 5
@@ -15,7 +15,7 @@
 
 #### 2. Zoomancy Card (Animal Magic)
 
-![Beast Whisperer](./Beast Whisperer.png)
+![Beast Whisperer](./BeastWhisperer.png)
 
 - **Attack Power**: 6
 - **Defense Power**: 4
@@ -28,7 +28,7 @@
 
 #### 3. Meteoromancy Card (Meteor Magic)
 
-![Star Sorceress](./Star Sorceress.png)
+![Star Sorceress](./StarSorceress.png)
 
 - **Attack Power**: 7
 - **Defense Power**: 3
@@ -47,7 +47,7 @@
 
 #### 1. Ecosystem Magic (Phytomancy + Zoomancy)
 
-![Warden of Life](./Warden of Life.png)
+![Warden of Life](./WardenofLife.png)
 
 - **Attack Power**: 10
 - **Defense Power**: 9
@@ -62,7 +62,7 @@
 
 #### 2. Climate Control Magic (Zoomancy + Meteoromancy)
 
-![Tempest Tamer](./Tempest Tamer.png)
+![Tempest Tamer](./TempestTamer.png)
 
 - **Attack Power**: 13
 - **Defense Power**: 7
@@ -77,7 +77,7 @@
 
 #### 3. Seasonal Magic (Meteoromancy + Phytomancy)
 
-![Seasonal Sage](./Seasonal Sage.png)
+![Seasonal Sage](./SeasonalSage.png)
 
 - **Attack Power**: 11
 - **Defense Power**: 8
@@ -96,7 +96,7 @@
 
 #### 1. Bio-Climate (Ecosystem Magic + Climate Control Magic)
 
-![Guardian of Balance](./Guardian of Balance.png)
+![Guardian of Balance](./GuardianofBalance.png)
 
 - **Attack Power**: 15
 - **Defense Power**: 12
@@ -111,7 +111,7 @@
 
 #### 2. Nature's Seasons (Ecosystem Magic + Seasonal Magic)
 
-![Seer of Seasons](./Seer of Seasons.png)
+![Seer of Seasons](./SeerofSeasons.png)
 
 - **Attack Power**: 13
 - **Defense Power**: 13
@@ -126,7 +126,7 @@
 
 #### 3. Climate Seasons (Climate Control Magic + Seasonal Magic)
 
-![Tempest of Time](./Tempest of Time.png)
+![Tempest of Time](./TempestofTime.png)
 
 - **Attack Power**: 16
 - **Defense Power**: 10
@@ -143,7 +143,7 @@
 
 #### Gaia's Symphony (Universal Seasons + Cosmic Climate + Planetary Life Cycle)
 
-![Maestra of the Cosmos](./Maestra of the Cosmos.png)
+![Maestra of the Cosmos](./Maestraofthe Cosmos.png)
 
 - **Attack Power**: 24
 - **Defense Power**: 21

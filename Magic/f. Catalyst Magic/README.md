@@ -44,7 +44,7 @@
 
 #### 1. Resurrection Magic (Cursing + Healing)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Soul Warden](./SoulWarden.png)
 
 - **Attack Power**: 4
 - **Defense Power**: 4
@@ -57,7 +57,7 @@
 
 #### 2. Complete Protection Magic (Healing + Warding)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Sanctuary Sentinel](./SanctuarySentinel.png)
 
 - **Attack Power**: 2
 - **Defense Power**: 9
@@ -70,7 +70,7 @@
 
 #### 3. Sealing Magic (Warding + Cursing)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Sealbreaker](./Sealbreaker.png)
 
 - **Attack Power**: 6
 - **Defense Power**: 6
@@ -89,7 +89,7 @@
 
 #### 1. Sacred Resurrection (Resurrection Magic + Complete Protection Magic)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Eternal Guardian](./EternalGuardian.png)
 
 - **Attack Power**: 5
 - **Defense Power**: 12
@@ -104,7 +104,7 @@
 
 #### 2. Resurrection Seal (Resurrection Magic + Sealing Magic)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Soul Gatekeeper](./SoulGatekeeper.png)
 
 - **Attack Power**: 8
 - **Defense Power**: 8
@@ -119,7 +119,7 @@
 
 #### 3. Protective Seal (Complete Protection Magic + Sealing Magic)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Bastion Alchemist](./BastionAlchemist.png)
 
 - **Attack Power**: 4
 - **Defense Power**: 12
@@ -138,7 +138,7 @@
 
 #### Seraphic Covenant (Divine Rebirth + Unbreakable Seal + Guardian of Souls)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Celestial Warden](./CelestialWarden.png)
 
 - **Attack Power**: 10
 - **Defense Power**: 20

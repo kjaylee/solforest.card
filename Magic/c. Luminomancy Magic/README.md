@@ -2,7 +2,7 @@
 
 #### 1. Electromancy Card (Electric Magic)
 
-![Thunder Mage](./Thunder Mage.png)
+![Thunder Mage](./ThunderMage.png)
 
 - **Attack Power**: 8
 - **Defense Power**: 2
@@ -34,7 +34,7 @@
 
 #### 1. Laser Magic (Electromancy + Photomancy)
 
-![Pulse Enchantress](./Pulse Enchantress.png)
+![Pulse Enchantress](./PulseEnchantress.png)
 
 - **Attack Power**: 11
 - **Defense Power**: 9
@@ -53,7 +53,7 @@
 
 #### 1. Hyper Laser (Laser Magic + Laser Magic)
 
-![Master of Luminal Energy](./Master of Luminal Energy.png)
+![Master of Luminal Energy](./MasterofLuminalEnergy.png)
 
 - **Attack Power**: 18
 - **Defense Power**: 15

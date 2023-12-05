@@ -32,7 +32,7 @@
 
 #### 1. Complete Transformation Magic (Shape-shifting + Transmutation)
 
-![Complete Transformation](./Complete Transformation.png)
+![Master of Forms](./MasterofForms.png)
 
 - **Attack Power**: 7
 - **Defense Power**: 6
@@ -51,7 +51,7 @@
 
 #### 1. Absolute Morphing (Complete Transformation Magic + Complete Transformation Magic)
 
-![Absolute Morphing](./Absolute Morphing.png)
+![Eclipsing Shapeshifter](./EclipsingShapeshifter.png)
 
 - **Attack Power**: 13
 - **Defense Power**: 12

@@ -1,7 +1,7 @@
 ### Psionics Magic Cards
 
 #### 1. Telepathy Card
-![Mind Whisperer](./Mind Whisperer.png)
+![Mind Whisperer](./MindWhisperer.png)
 
 - **Attack Power**: 2
 - **Defense Power**: 5
@@ -42,7 +42,7 @@
 
 #### 1. Future Prediction Magic (Telepathy + Divination)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Seer of All](./SeerofAlls.png)
 
 - **Attack Power**: 8
 - **Defense Power**: 9
@@ -57,7 +57,7 @@
 
 #### 2. Manipulation Magic (Divination + Mind Control)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Mastermind](./Mastermind.png)
 
 - **Attack Power**: 11
 - **Defense Power**: 6
@@ -72,7 +72,7 @@
 
 #### 3. Group Control Magic (Mind Control + Telepathy)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Conductor of Will](./ConductorofWill.png)
 
 - **Attack Power**: 7
 - **Defense Power**: 7
@@ -89,7 +89,7 @@
 
 #### 1. Futuristic Manipulation (Future Prediction Magic + Manipulation Magic)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+!["Oracle of Schemes](./"OracleofSchemes.png)
 
 - **Attack Power**: 16
 - **Defense Power**: 13
@@ -104,7 +104,7 @@
 
 #### 2. Collective Forecast (Future Prediction Magic + Group Control Magic)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Catalyst of Fate](./CatalystofFate.png)
 
 - **Attack Power**: 12
 - **Defense Power**: 14
@@ -119,7 +119,7 @@
 
 #### 3. Mass Manipulation (Manipulation Magic + Group Control Magic)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Sovereign of Strings](./SovereignofStrings.png)
 
 - **Attack Power**: 14
 - **Defense Power**: 10
@@ -138,7 +138,7 @@
 
 #### Quantum Consciousness (Omniscient Control + Galactic Manipulation + Cosmic Awareness)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Mind of the Multiverse](./MindoftheMultiverse.png)
 
 - **Attack Power**: 26
 - **Defense Power**: 22

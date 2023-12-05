@@ -32,7 +32,7 @@
 
 #### 1. Soul Resurrection Magic (Soul Summoning + Necromancy)
 
-![Soul Resurrection](./Soul Resurrection.png)
+![Revenant Queen](./RevenantQueen.png)
 
 - **Attack Power**: 8
 - **Defense Power**: 4
@@ -51,7 +51,7 @@
 
 #### 1. Soul Dominion (Soul Resurrection Magic + Soul Resurrection Magic)
 
-![Soul Dominion](./Soul Dominion.png)
+![Sovereign of Souls](./SovereignofSouls.png)
 
 - **Attack Power**: 14
 - **Defense Power**: 8
