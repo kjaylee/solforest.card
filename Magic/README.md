@@ -1,4 +1,4 @@
-# Magic
+#
 
 ## Pyromancy
   
@@ -403,3 +403,67 @@
 - **Story**: Revered as the "Maestra of the Cosmos," she channels the profound elements of Bio-Climate, Nature's Seasons and Climate Seasons to create an orchestrated masterpiece on the battlefield. Her magic resonates with the very core of the planet, altering not just the climate and seasons but also accelerating or reversing life cycles. She epitomizes the interconnectedness of all things in nature and commands it with unparalleled mastery.
 
 ---
+
+## Electromancy
+
+![Thunder Mage](./ThunderMage.png)
+
+- **Level**: 1
+- **Type**: Luminomancy
+- **Composit**: null
+- **Attack Power**: 8
+- **Defense Power**: 2
+- **Health**: 4
+- **Mana Cost**: 5
+- **Duration**: 1 turn
+- **Range**: 3 tiles
+- **Strong Against**: Photomancy
+- **Story**: Known as the "Thunder Mage," this girl wields the raw power of electricity. She can send shockwaves of electrical energy through her foes, making her an excellent disruptor on the battlefield. Quick-witted and electrifying, she lights up any fight she's in.
+
+## Photomancy
+
+![Lightbringer](./Lightbringer.png)
+
+- **Level**: 1
+- **Type**: Luminomancy
+- **Composit**: null
+- **Attack Power**: 3
+- **Defense Power**: 7
+- **Health**: 5
+- **Mana Cost**: 3
+- **Duration**: 2 turns
+- **Range**: 4 tiles
+- **Strong Against**: Electromancy
+- **Story**: Referred to as the "Lightbringer," this girl has the power to control light itself. She can create illusions, blind enemies, or even focus light into a laser-like beam. With a graceful and radiant presence, she brings hope and clarity to her allies.
+
+## Laser (Electromancy + Photomancy)
+
+![Pulse Enchantress](./PulseEnchantress.png)
+
+- **Level**: 2
+- **Type**: Luminomancy
+- **Composit**: Electromancy, Photomancy
+- **Attack Power**: 11
+- **Defense Power**: 9
+- **Health**: 9
+- **Mana Cost**: 8
+- **Duration**: 2 turns
+- **Range**: 4 tiles
+- **Strong Against**: Both Electromancy and Photomancy
+- **Story**: Known as the "Pulse Enchantress," this girl fuses the raw energy of electricity with the precision of light to create powerful laser beams. These lasers can either disrupt enemies or focus into a high-energy beam that can cut through nearly anything. She carries both the electrifying speed of a thunderstorm and the clear focus of pure light, making her a formidable force on the battlefield.
+
+## Hyper Laser (Laser + Laser)
+
+![Master of Luminal Energy](./MasterofLuminalEnergy.png)
+
+- **Level**: 3
+- **Type**: Luminomancy
+- **Composit**: Laser
+- **Attack Power**: 18
+- **Defense Power**: 15
+- **Health**: 16
+- **Mana Cost**: 14
+- **Duration**: 1 turn
+- **Range**: 5 tiles
+- **Strong Against**: Most other forms of magic due to its intense focus and power
+- **Story**: Known as the "Master of Luminal Energy," this girl channels her mastery over Laser to create Hyper Laser beams of unparalleled strength and precision. Capable of slicing through almost any obstacle or enemy, her Hyper Lasers are the epitome of concentrated magical energy. Her personality fuses the unyielding intensity and pinpoint focus of dual laser magic, making her almost unbeatable in the domain of Luminomancy.
