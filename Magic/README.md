@@ -989,3 +989,331 @@
 - **Range**: 6 tiles
 - **Strong Against**: Most magic types due to intense shadow mastery
 - **Story**: Known as the "Abyssal Architect," this girl is the ultimate confluence of Umbramancy and Shadow Conjuring. She doesn't just manipulate or create shadows; she breathes life and purpose into them, forging an abyssal realm on the battlefield itself. Her shadows are not just illusions or creatures; they are extensions of her will, complex and layered, capable of both offense and defense. She epitomizes the dark arts, creating a zone of impenetrable shadow that few dare to challenge.
+  
+---
+
+## Soul Summoning
+
+![Soulmancer](./Soulmancer.png)
+
+- **Level**: 1
+- **Type**: Death
+- **Composit**: null
+- **Attack Power**: 6
+- **Defense Power**: 3
+- **Health**: 5
+- **Mana Cost**: 5
+- **Duration**: 3 turns
+- **Range**: 2 tiles
+- **Strong Against**: Necromancy
+- **Story**: Known as the "Soulmancer," this girl wields the forbidden power to summon and command souls. She can call forth spirits to aid her in battle or use them to debilitate her enemies. She is a mysterious figure, seeking to understand the nature of life and death.
+
+## Necromancy
+
+![Necromaster](./Necromaster.png)
+
+- **Level**: 1
+- **Type**: Death
+- **Composit**: null
+- **Attack Power**: 7
+- **Defense Power**: 2
+- **Health**: 4
+- **Mana Cost**: 6
+- **Duration**: 2 turns
+- **Range**: 3 tiles
+- **Strong Against**: Soul Summoning
+- **Story**: Called the "Necromaster," this girl can raise the dead and control them. Zombies, skeletons, and other unholy creatures bow to her command. She uses her minions to overwhelm her enemies, but this comes at a great moral and magical cost.
+
+## Soul Resurrection (Soul Summoning + Necromancy)
+
+![Revenant Queen](./RevenantQueen.png)
+
+- **Level**: 2
+- **Type**: Death
+- **Composit**: Soul Summoning, Necromancy
+- **Attack Power**: 8
+- **Defense Power**: 4
+- **Health**: 6
+- **Mana Cost**: 8
+- **Duration**: 3 turns
+- **Range**: 3 tiles
+- **Strong Against**: Both Soul Summoning and Necromancy
+- **Story**: Known as the "Revenant Queen," this girl masters both the art of Soul Summoning and Necromancy. She can not only summon souls but also give them corporeal forms, essentially resurrecting them to serve in her legion. Her mastery over life and death makes her one of the most feared figures on the battlefield. Using her dark magic, she strikes a balance between spiritual and physical manifestations of death, making her an unparalleled force. She is both enigmatic and unsettling, a practitioner of the darkest magics.
+
+## Soul Dominion (Soul Resurrection + Soul Resurrection)
+
+![Sovereign of Souls](./SovereignofSouls.png)
+
+- **Level**: 3
+- **Type**: Death
+- **Composit**: Soul Resurrection, Soul Resurrection
+- **Attack Power**: 14
+- **Defense Power**: 8
+- **Health**: 10
+- **Mana Cost**: 14
+- **Duration**: 5 turns
+- **Range**: 5 tiles
+- **Strong Against**: Most magic types due to mastery over death and soul magic
+- **Story**: Known as the "Sovereign of Souls," this girl is the apex of both Soul Summoning and Necromancy. She has transcended the limitations of both magic types to achieve something terrifyingly new. Her Soul Dominion allows her to manipulate souls on a grand scale, weaving them into the very fabric of the battlefield. These souls can take on numerous forms, both corporeal and ethereal, and can perform complex tasks and strategies as directed by their sovereign. She has become a near-deity of death, capable of altering the very essence of life and afterlife.
+
+---
+
+## Illusion
+
+![Illusionist](./Illusionist.png)
+
+- **Level**: 1
+- **Type**: Mystic
+- **Composit**: null
+- **Attack Power**: 5
+- **Defense Power**: 4
+- **Health**: 6
+- **Mana Cost**: 4
+- **Duration**: 3 turns
+- **Range**: 3 tiles
+- **Strong Against**: Gravimancy
+- **Story**: Known as the "Illusionist," this girl can manipulate what others perceive, creating false realities or making herself invisible. She uses her skills to deceive enemies and create opportunities for her allies. Her nature is as elusive as her magic.
+
+## Gravimancy
+
+![Gravimancer](./Gravimancer.png)
+
+- **Level**: 1
+- **Type**: Mystic
+- **Composit**: null
+- **Attack Power**: 3
+- **Defense Power**: 6
+- **Health**: 5
+- **Mana Cost**: 5
+- **Duration**: 2 turns
+- **Range**: 4 tiles
+- **Strong Against**: Sonimancy
+- **Story**: The "Gravimancer" witch girl manipulates gravitational forces, making it difficult for enemies to move or attack. She can also lighten the force around her allies, aiding their mobility. She is a ponderous thinker, always contemplating the weight of her actions.
+
+## Sonimancy
+
+![Sonimancer](./Sonimancer.png)
+
+- **Level**: 1
+- **Type**: Mystic
+- **Composit**: null
+- **Attack Power**: 6
+- **Defense Power**: 3
+- **Health**: 4
+- **Mana Cost**: 3
+- **Duration**: 1 turn
+- **Range**: 5 tiles
+- **Strong Against**: Illusion
+- **Story**: The "Sonimancer" witch girl can manipulate sound waves, disorienting enemies and shattering obstacles. Her magic is as versatile as it is disarming, capable of both healing and harm. She is a vivacious and energetic individual, never missing a beat in battle or life.
+
+## Reality Distortion (Illusion + Gravimancy)
+
+![Reality Bender](./RealityBender.png)
+
+- **Level**: 2
+- **Type**: Mystic
+- **Composit**: Illusion, Gravimancy
+- **Attack Power**: 6
+- **Defense Power**: 6
+- **Health**: 7
+- **Mana Cost**: 7
+- **Duration**: 3 turns
+- **Range**: 4 tiles
+- **Strong Against**: Both Illusion and Gravimancy
+- **Story**: Known as the "Reality Bender," this girl is a master of both Illusion and Gravimancy. She can simultaneously manipulate perception and gravity, making her enemies question both what they see and feel. It's nearly impossible to gain a tactical advantage over her, as she can quickly alter the rules of engagement. Calculative and strategic, she is an expert at control.
+
+## Vibration (Gravimancy + Sonimancy)
+
+![Vibromancer](./Vibromancer.png)
+
+- **Level**: 2
+- **Type**: Mystic
+- **Composit**: Gravimancy, Sonimancy
+- **Attack Power**: 5
+- **Defense Power**: 5
+- **Health**: 6
+- **Mana Cost**: 6
+- **Duration**: 2 turns
+- **Range**: 5 tiles
+- **Strong Against**: Both Gravimancy and Sonimancy
+- **Story**: Referred to as the "Vibromancer," this girl can manipulate both gravitational and sound waves to create powerful vibrations. Whether it's shaking the earth beneath enemies or emitting a resonating frequency that disorients them, she can control the battlefield in various ways. Energetic and intellectual, she understands the pulse of any situation.
+
+## Hallucination (Sonimancy + Illusion)
+
+![Dreamweaver](./Dreamweaver.png)
+
+- **Level**: 2
+- **Type**: Mystic
+- **Composit**: Sonimancy, Illusion
+- **Attack Power**: 7
+- **Defense Power**: 4
+- **Health**: 5
+- **Mana Cost**: 5
+- **Duration**: 2 turns
+- **Range**: 4 tiles
+- **Strong Against**: Both Sonimancy and Illusion
+- **Story**: Known as the "Dreamweaver," this girl excels in both Sonimancy and Illusion. She can create complex auditory and visual hallucinations that are almost indistinguishable from reality. Her opponents often find themselves ensnared in a web of deception before they even realize what's happening. Mysterious and imaginative, she's a natural-born storyteller, albeit one that can turn stories into nightmares.
+
+## Distorted Vibration (Reality Distortion + Vibration)
+
+![Master of Dissonance](./MasterofDissonance.png)
+
+- **Level**: 3
+- **Type**: Mystic
+- **Composit**: Reality Distortion, Vibration
+- **Attack Power**: 11
+- **Defense Power**: 11
+- **Health**: 12
+- **Mana Cost**: 12
+- **Duration**: 4 turns
+- **Range**: 6 tiles
+- **Strong Against**: Multiple magic types due to mastering the manipulation of gravity, perception, and sound
+- **Story**: Known as the "Master of Dissonance," this girl has achieved the pinnacle of Reality Distortion and Vibration. She can manipulate both perception and gravitational and sound waves simultaneously, leading to disorienting, chaotic battlefields where enemies can't trust their senses or even the ground beneath their feet. She is the epitome of control and confusion.
+
+## Sonic Illusion (Vibration + Hallucination)
+
+![Harmony Illusionist](./HarmonyIllusionist.png)
+
+- **Level**: 3
+- **Type**: Mystic
+- **Composit**: Vibration, Hallucination
+- **Attack Power**: 10
+- **Defense Power**: 7
+- **Health**: 9
+- **Mana Cost**: 10
+- **Duration**: 3 turns
+- **Range**: 6 tiles
+- **Strong Against**: Various forms of magic due to the combined mastery of sound and illusion
+- **Story**: Referred to as the "Harmony Illusionist," this girl fuses the arts of Vibration and Hallucination to produce mesmerizing and disorienting sonic illusions. She can create complex auditory and visual scenarios that are not only deceptive but also physically disruptive, making her opponents susceptible to errors and miscalculations.
+
+## Distorted Hallucination (Reality Distortion + Hallucination)
+
+![Dreamshaper](./Dreamshaper.png)
+
+- **Level**: 3
+- **Type**: Mystic
+- **Composit**: Reality Distortion, Hallucination
+- **Attack Power**: 12
+- **Defense Power**: 9
+- **Health**: 10
+- **Mana Cost**: 11
+- **Duration**: 4 turns
+- **Range**: 5 tiles
+- **Strong Against**: Many types of magic due to the combination of altering reality and crafting hallucinations
+- **Story**: Known as the "Dreamshaper," this girl is the zenith of both Reality Distortion and Hallucination. She creates surreal experiences that combine altered perception with genuine sensory illusions, making it nearly impossible to discern truth from deception. With this level of mastery, she turns the battlefield into a dreamscape where she reigns supreme.
+
+### Level 4 Mystic Composites
+
+#### Cosmic Illusion (Distorted Vibration + Sonic Illusion + Distorted Hallucination)
+
+![Cosmic Enchantress](./CosmicEnchantress.png)
+
+- **Level**: 4
+- **Type**: Mystic
+- **Composit**: Distorted Vibration, Sonic Illusion, Distorted Hallucination
+- **Attack Power**: 18
+- **Defense Power**: 17
+- **Health**: 20
+- **Mana Cost**: 35
+- **Duration**: 6 turns
+- **Range**: 8 tiles
+- **Strong Against**: Virtually all forms of magic due to its mastery over Distorted Vibration, Sonic Illusion and Distorted Hallucination
+- **Story**: Given the title of "Cosmic Enchantress," this girl is the ultimate form of Mystic. She can manipulate quantum reality, erase sensory experiences, and induce cataclysmic vibrations, all at once. This combination makes her not just a master of illusions but a weaver of reality itself. Enemies facing her don't just question their senses; they question the very fabric of their existence. She is the apex of mystical power, rendering almost all strategies and magics ineffective against her.
+
+---
+
+## Celestial Singularity (Celestial Inferno + Quantum Consciousness + Seraphic Covenant + Cosmic Illusion)
+
+![The Universal Nexus](./TheUniversalNexus.png)
+
+- **Level**: 5
+- **Type**: Composite
+- **Composit**: Celestial Inferno, Quantum Consciousness, Seraphic Covenant, Cosmic Illusion
+- **Attack Power**: 40
+- **Defense Power**: 40
+- **Health**: 50
+- **Mana Cost**: 50
+- **Duration**: 7 turns
+- **Range**: 10 tiles
+- **Strong Against**: Virtually all forms of magic due to its unparalleled synthesis of elemental, mental, divine, and mystic energies
+- **Story**: Bearing the esteemed title of "The Universal Nexus," this girl is a confluence of all conceivable forms of magic and reality. By merging the powers of Celestial Inferno, Quantum Consciousness, Seraphic Covenant, and Cosmic Illusion, she has created a singularity of unmatched capability. This reality-bending magic turns the battlefield into a vortex where elemental forces, mental projections, divine will, and cosmic illusion swirl into one indescribable point of power. Opponents facing her are not just defeated; they are subsumed into a new layer of reality where she holds omnipotent control. Her presence on the battlefield is not just a game-changer; it is a reality-changer.
+
+## Ethereal Genesis (Gaia's Symphony + Terra Firma Cyclone + Primordial Tempest + Cosmic Illusion)
+
+![Genesis Architect](./GenesisArchitect.png)
+
+- **Level**: 5
+- **Type**: Composite
+- **Composit**: Gaia's Symphony, Terra Firma Cyclone, Primordial Tempest, Cosmic Illusion
+- **Attack Power**: 42
+- **Defense Power**: 40
+- **Health**: 45
+- **Mana Cost**: 50
+- **Duration**: 8 turns
+- **Range**: 12 tiles
+- **Strong Against**: Virtually all forms of magic due to its transcendent mastery over life, nature, elements, and reality
+- **Story**: With the awe-inspiring title of "Genesis Architect," this girl unifies the extraordinary powers of Gaia's Symphony, Terra Firma Cyclone, Primordial Tempest, and Cosmic Illusion into a single breathtaking magic. The Ethereal Genesis allows her to manipulate not just the elements but also the very fabric of life and reality. This is not merely a spell but an act of creation on a cosmological scale. The battlefield transforms into an ever-shifting landscape, where new forms of life spontaneously appear, seasons accelerate or reverse, and even the nature of reality itself is in flux. Enemies are not only defeated; they are fundamentally altered, pulled into an ethereal vortex where the Genesis Architect reigns supreme.
+
+## Chrono-Mystical Nexus (Celestial Inferno + Quantum Consciousness + Primordial Tempest + Gaia's Symphony)
+
+![Harbinger of Epochs](./HarbingerofEpochs.png)
+
+- **Level**: 5
+- **Type**: Composite
+- **Composit**: Celestial Inferno, Quantum Consciousness, Primordial Tempest, Gaia's Symphony
+- **Attack Power**: 45
+- **Defense Power**: 42
+- **Health**: 50
+- **Mana Cost**: 55
+- **Duration**: 10 turns
+- **Range**: 14 tiles
+- **Strong Against**: Virtually all forms of magic due to its unparalleled command over elements, time, thought, and nature
+- **Story**: Bearing the grandiose title of "Harbinger of Epochs," this girl weaves the intricate tapestry of Celestial Inferno, Quantum Consciousness, Primordial Tempest, and Gaia's Symphony into a singular, omnipotent magic. The Chrono-Mystical Nexus allows her to manipulate elemental forces, bend the rules of time, control minds on a cosmic scale, and even reshape the natural world at her whim. The battlefield transforms into a chaotic nexus where the lines between past, present, and future blur, and the very laws of nature seem to bow to her mastery. Enemies are not merely defeated; they are lost in a bewildering labyrinth of realities, each more terrifying than the last. Her control over this Chrono-Mystical Nexus makes her virtually omnipotent, rewriting the rules of magic and strategy.
+  
+## Divine Apocalypse (Seraphic Covenant + Celestial Inferno + Quantum Consciousness + Gaia's Symphony)
+
+![Architect of Heaven and Earth](./ArchitectofHeavenandEarth.png)
+
+- **Level**: 5
+- **Type**: Composite
+- **Composit**: Seraphic Covenant, Celestial Inferno, Quantum Consciousness, Gaia's Symphony
+- **Attack Power**: 46
+- **Defense Power**: 44
+- **Health**: 55
+- **Mana Cost**: 60
+- **Duration**: 11 turns
+- **Range**: 15 tiles
+- **Strong Against**: Virtually all forms of magic due to its mastery over divine protection, elemental chaos, cosmic awareness, and the essence of nature.
+- **Story**: Bearing the awe-inspiring title of "Architect of Heaven and Earth," this girl transcends conventional magical bounds. Melding Seraphic Covenant, Celestial Inferno, Quantum Consciousness, and Gaia's Symphony into one miraculous force, the Divine Apocalypse takes form. She becomes the ultimate arbiter of destiny, unleashing untold devastation while protecting the very fabric of existence. This amalgamation of diverse magical arts creates an apocalyptic force that can rewrite reality, bend time, and hold dominion over the elemental and spiritual realms. The battlefield is transformed into a cosmic stage, upon which plays out the final act of a celestial drama. Here, every decision and action reverberate with the weight of divine judgment, offering both destruction and redemption. Virtually no magic can withstand the staggering breadth of her abilities, making her the closest thing to a deity in the magical realm.
+
+## Omnipotent Convergence (Cosmic Illusion + Quantum Consciousness + Seraphic Covenant + Terra Firma Cyclone)
+
+![Master of All Realms](./MasterofAllRealms.png)
+
+- **Level**: 5
+- **Type**: Composite
+- **Composit**: Cosmic Illusion, Quantum Consciousness, Seraphic Covenant, Terra Firma Cyclone
+- **Attack Power**: 50
+- **Defense Power**: 48
+- **Health**: 57
+- **Mana Cost**: 65
+- **Duration**: 12 turns
+- **Range**: 18 tiles
+- **Strong Against**: Virtually all forms of magic due to its unparalleled mastery over illusion, mind control, divine protection, and elemental forces.
+- **Story**: Known as the "Master of All Realms," this girl defies categorization. Her magic converges the illusionary realms of Cosmic Illusion, the psionic power of Quantum Consciousness, the divine protection of Seraphic Covenant, and the elemental ferocity of Terra Firma Cyclone into a singular, unfathomable entity. She wields the power to deceive reality, dominate minds, protect souls, and reshape the earth, all while maintaining an intricate balance among these diverse powers. The Omnipotent Convergence is the pinnacle of magical arts, an all-encompassing force that can simultaneously destroy and create, deceive and reveal, dominate and protect. It's a paradoxical magic that brings together the quintessence of each magical discipline into a unified whole. This card not only challenges the boundaries of what is considered possible in magic but also redefines the very concept of omnipotence in the magical realm. Each move in her presence becomes a cosmic choice between reality and illusion, life and death, freedom and control.
+
+## Cosmic Nexus of Omnipotence (Celestial Singularity + Ethereal Genesis + Chrono-Mystical Nexus + Divine Apocalypse + Omnipotent Convergence)
+
+![Harbinger of the Cosmos](./HarbingeroftheCosmos.png)
+
+- **Level**: 6
+- **Type**: Composite
+- **Composit**: Celestial Singularity, Ethereal Genesis, Chrono-Mystical Nexus, Divine Apocalypse, Omnipotent Convergence
+- **Attack Power**: 100
+- **Defense Power**: 100
+- **Health**: 100
+- **Mana Cost**: 100
+- **Duration**: 15 turns
+- **Range**: 20 tiles
+- **Strong Against**: Absolutely all forms of magic due to its unparalleled mastery over every magical domain
+- **Story**: Known as the "Harbinger of the Cosmos," this girl is the embodiment of magical omniscience and omnipotence. With Cosmic Nexus of Omnipotence, she fuses every potent form of magic: elemental chaos, cosmic awareness, divine intervention, time manipulation, and reality alteration. This card is not merely a representation of magic; it is the essence of all magic and reality coalesced into one singular, transcendent entity. The battlefield morphs into a cosmic theater where the very fabric of existence can be woven, torn, and restructured at her will. Enemies don't merely lose; they are absorbed into the ever-expanding tapestry of her dominion, forever a part of a new, reshaped reality. Her presence doesn't change the game.
