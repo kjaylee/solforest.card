@@ -1202,8 +1202,6 @@
 - **Strong Against**: Many types of magic due to the combination of altering reality and crafting hallucinations
 - **Story**: Known as the "Dreamshaper," this girl is the zenith of both Reality Distortion and Hallucination. She creates surreal experiences that combine altered perception with genuine sensory illusions, making it nearly impossible to discern truth from deception. With this level of mastery, she turns the battlefield into a dreamscape where she reigns supreme.
 
-### Level 4 Mystic Composites
-
 #### Cosmic Illusion (Distorted Vibration + Sonic Illusion + Distorted Hallucination)
 
 ![Cosmic Enchantress](./CosmicEnchantress.png)
