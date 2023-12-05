@@ -925,3 +925,67 @@
 - **Story**: Known as the "Eclipsing Shapeshifter," this girl is the ultimate embodiment of transformation magic. She can not only change her form but also transmute the environment, even being able to simultaneously adopt multiple transformations. Her adaptability makes her nearly impossible to counter, as she can adjust her abilities on the fly to suit any situation. She embodies the pinnacle of magical versatility, making her a formidable opponent who transcends the boundaries of conventional magic.
 
 ---
+
+## Umbramancy
+
+![Shadowmaster](./Shadowmaster.png)
+
+- **Level**: 1
+- **Type**: Shadow
+- **Composit**: null
+- **Attack Power**: 7
+- **Defense Power**: 3
+- **Health**: 5
+- **Mana Cost**: 4
+- **Duration**: 2 turns
+- **Range**: 3 tiles
+- **Strong Against**: Shadow Conjuring
+- **Story**: Known as the "Shadowmaster," this girl commands the darkness itself. She can obscure vision, create illusions, or even solidify shadows into physical attacks. Her mysterious and elusive nature makes her a tricky opponent to deal with. She's secretive and cunning, adept at turning the tide of battle in her favor.
+
+## Shadow Conjuring
+
+![Shadowcrafter](./Shadowcrafter.png)
+
+- **Level**: 1
+- **Type**: Shadow
+- **Composit**: null
+- **Attack Power**: 5
+- **Defense Power**: 5
+- **Health**: 6
+- **Mana Cost**: 3
+- **Duration**: 3 turns
+- **Range**: 4 tiles
+- **Strong Against**: Umbramancy
+- **Story**: Often called the "Shadowcrafter," this girl specializes in summoning shadowy creatures and objects. Whether it's a shadow wolf to aid her in battle or shadow chains to bind her enemies, her conjurations are versatile and adaptive. She's imaginative and resourceful, able to think on her feet in any situation.
+  
+## Dark Creation (Umbramancy + Shadow Conjuring)
+
+![Dark Creator](./DarkCreator.png)
+
+- **Level**: 2
+- **Type**: Shadow
+- **Composit**: Umbramancy, Shadow Conjuring
+- **Attack Power**: 8
+- **Defense Power**: 6
+- **Health**: 7
+- **Mana Cost**: 6
+- **Duration**: 3 turns
+- **Range**: 4 tiles
+- **Strong Against**: Both Umbramancy and Shadow Conjuring
+- **Story**: Known as the "Dark Creator," this girl wields the powers of both Umbramancy and Shadow Conjuring. She can not only manipulate shadows but also give them form and substance, making her an exceptional force on the battlefield. She can create complex illusions while summoning shadow creatures, making her both a master of deception and a formidable summoner. She is elusive and creative, embodying the ultimate expression of shadow magic.
+
+## Abyssal Shadows (Dark Creation + Dark Creation)
+
+![Abyssal Architect](./AbyssalArchitect.png)
+
+- **Level**: 3
+- **Type**: Shadow
+- **Composit**: Dark Creation
+- **Attack Power**: 14
+- **Defense Power**: 12
+- **Health**: 13
+- **Mana Cost**: 11
+- **Duration**: 5 turns
+- **Range**: 6 tiles
+- **Strong Against**: Most magic types due to intense shadow mastery
+- **Story**: Known as the "Abyssal Architect," this girl is the ultimate confluence of Umbramancy and Shadow Conjuring. She doesn't just manipulate or create shadows; she breathes life and purpose into them, forging an abyssal realm on the battlefield itself. Her shadows are not just illusions or creatures; they are extensions of her will, complex and layered, capable of both offense and defense. She epitomizes the dark arts, creating a zone of impenetrable shadow that few dare to challenge.
