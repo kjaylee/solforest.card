@@ -1,5 +1,6 @@
+# Magic
 
-# Pyromancy
+## Pyromancy
   
 ![Flame Wielder](./FlameWielder.png)
 
@@ -15,8 +16,8 @@
 - **Strong Against**: Hydromancy
 - **Story**: Known as the "Flame Wielder," this girl has mastery over fire. She can cast fireballs, create walls of flame, and even cloak herself in fire. She's hot-headed and passionate, always looking to turn up the heat in battle.
 
-# Hydromancy
-  
+## Hydromancy
+
 ![Water Sage](./WaterSage.png)
 
 - **Level**: 1
@@ -31,7 +32,7 @@
 - **Strong Against**: Aeromancy
 - **Story**: Referred to as the "Water Sage," this girl can control water in all its forms. She can summon rain, create tidal waves, and even manipulate ice. She's calm and fluid, adapting easily to changing battle conditions.
 
-# Aeromancy Card
+## Aeromancy
   
 ![Wind Whisperer](./WindWhisperer.png)
 
@@ -47,7 +48,7 @@
 - **Strong Against**: Geomancy
 - **Story**: Often called the "Wind Whisperer," this girl has the power to control air currents and winds. She can generate powerful gusts, create wind barriers, and even summon storms. She's light on her feet and quick to react, making her a dynamic force on the battlefield.
 
-# Geomancy Card
+## Geomancy
   
 ![Earthshaker](./Earthshaker.png)
 
@@ -63,8 +64,7 @@
 - **Strong Against**: Pyromancy
 - **Story**: Known as the "Earthshaker," this girl can manipulate the earth and stone. She can create rock walls, summon earthquakes, and even cause landslides. She's steady and unmovable, a rock-solid ally or foe.
 
-
-# Steam Magic (Pyromancy + Hydromancy)
+## Steam (Pyromancy + Hydromancy)
 
 ![Mistress of Mist](./MistressofMist.png)
 
@@ -80,7 +80,7 @@
 - **Strong Against**: Aeromancy
 - **Story**: Known as the "Mistress of Mist," she combines the fire and water elements to unleash scalding steam on her enemies. The steam not only burns but also provides a defensive mist, disorienting the enemy. Her personality is a mix of fiery passion and fluid adaptability, making her a formidable and unpredictable opponent.
 
-# Fog Magic (Hydromancy + Aeromancy)
+## Fog (Hydromancy + Aeromancy)
 
 ![Veilweaver](./Veilweaver.png)
 
@@ -96,7 +96,7 @@
 - **Strong Against**: Geomancy
 - **Story**: Dubbed the "Veilweaver," she combines water and air to create dense fog on the battlefield. The fog obscures vision and dampens sound, providing tactical advantages. Her demeanor is calm like water but can be as swiftly changing as the wind, making her a slippery foe.
 
-# Sandstorm Magic (Aeromancy + Geomancy)
+## Sandstorm (Aeromancy + Geomancy)
 
 ![Desert Tempest](./DesertTempest.png)
 
@@ -112,7 +112,7 @@
 - **Strong Against**: Pyromancy
 - **Story**: Known as the "Desert Tempest," she fuses air and earth to summon fierce sandstorms that not only damage but also disrupt the movements of her enemies. She embodies the swiftness of the wind and the resilience of the earth, making her both a relentless and enduring force.
 
-# Volcanic Magic (Geomancy + Pyromancy)
+## Volcanic (Geomancy + Pyromancy)
 
 ![Lava Queen](./LavaQueen.png)
 
@@ -128,13 +128,13 @@
 - **Strong Against**: Hydromancy
 - **Story**: Also known as the "Lava Queen," she blends fire and earth to call forth volcanic eruptions, spewing lava and ash. Her temperament is as volatile as a volcano yet as steadfast as a mountain. Her spells can create both offensive and defensive barriers, making her a well-rounded adversary.
 
-# Thermal Mist (Steam Magic + Fog Magic)
+## Thermal Mist (Steam + Fog)
 
 ![Mistress of Mirage](./MistressofMirage.png)
 
 - **Level**: 3
 - **Type**: Elemental
-- **Composit**: Steam Magic, Fog Magic
+- **Composit**: Steam, Fog
 - **Attack Power**: 13
 - **Defense Power**: 15
 - **Health**: 13
@@ -144,13 +144,13 @@
 - **Strong Against**: Aeromancy and Geomancy
 - **Story**: Known as the "Mistress of Mirage," she merges steam and fog to produce a thermal mist that's both damaging and obscuring. This fog not only burns but also conceals, making it a nightmare for any opponent. Her personality combines both the volatility of steam and the calmness of fog, making her an unpredictable yet thoughtful strategist.
 
-# Lava Surge (Steam Magic + Volcanic Magic)
+## Lava Surge (Steam + Volcanic)
 
 ![Sultana of Surge](./SultanaofSurge.png)
 
 - **Level**: 3
 - **Type**: Elemental
-- **Composit**: Steam Magic, Volcanic Magic
+- **Composit**: Steam, Volcanic
 - **Attack Power**: 16
 - **Defense Power**: 11
 - **Health**: 12
@@ -160,13 +160,13 @@
 - **Strong Against**: Hydromancy and Aeromancy
 - **Story**: Dubbed the "Sultana of Surge," she combines steam and lava to produce superheated bursts that can incinerate almost anything in its path. This powerful fusion of elements makes her an explosive force on the battlefield. She's a fierce combatant, embodying the unrestrained qualities of both fire and water.
 
-# Desert Wind (Fog Magic + Sandstorm Magic)
+## Desert Wind (Fog + Sandstorm)
 
 ![Desert Wind Whisperer](./DesertWindWhisperer.png)
 
 - **Level**: 3
 - **Type**: Elemental
-- **Composit**: Fog Magic, Sandstorm Magic
+- **Composit**: Fog, Sandstorm
 - **Attack Power**: 12
 - **Defense Power**: 16
 - **Health**: 15
@@ -176,13 +176,13 @@
 - **Strong Against**: Pyromancy and Geomancy
 - **Story**: Known as the "Desert Wind Whisperer," she fuses fog and sandstorm to create a blinding, disorienting wind filled with micro-abrasive particles. Her magic is as elusive as it is relentless, capable of both hiding her team and wearing down the enemy. Her character is as fluid as water and as constant as a desert wind.
 
-# Mountain Fire (Sandstorm Magic + Volcanic Magic)
+## Mountain Fire (Sandstorm + Volcanic)
 
 ![Mountain's Fury](./MountainsFury.png)
 
 - **Level**: 3
 - **Type**: Elemental
-- **Composit**: Sandstorm Magic, Volcanic Magic
+- **Composit**: Sandstorm, Volcanic
 - **Attack Power**: 17
 - **Defense Power**: 13
 - **Health**: 11
@@ -192,29 +192,29 @@
 - **Strong Against**: Aeromancy and Hydromancy
 - **Story**: Also known as the "Mountain's Fury," she marries the elements of sandstorm and volcanic magic to summon cataclysmic eruptions accompanied by gritty, wind-driven sands. Her persona is as enduring as a mountain but as ferocious as wildfire, making her a formidable opponent capable of both offense and defense.
 
-# Celestial Inferno (Volcanic Mist + Mystic Gale + Earth's Wrath)
+## Celestial Inferno (Thermal Mist + Lava Surge + Mountain Fire)
 
 ![Celestial Blaze](./CelestialBlaze.png)
 
 - **Level**: 4
 - **Type**: Elemental
-- **Composit**: Volcanic Mist, Mystic Gale + Earth's Wrath
+- **Composit**: Thermal Mist, Lava Surge, Mountain Fire
 - **Attack Power**: 22
 - **Defense Power**: 18
-- **Health**: 191   
+- **Health**: 19
 - **Mana Cost**: 20
 - **Duration**: 2 turns
 - **Range**: 5 tiles
 - **Strong Against**: Pyromancy, Aeromancy, Geomancy, and Hydromancy
-- **Story**: Known as the "Celestial Blaze," this girl channels the chaotic energies of Volcanic Mist, Mystic Gale, and Earth's Wrath to create a heavenly inferno that engulfs the battlefield in fire and magic. This blaze has a divine quality, making it untouchable and catastrophic for her enemies. She embodies the pure, untamed forces of nature and commands them with a celestial authority.
+- **Story**: Known as the "Celestial Blaze," this girl channels the chaotic energies of Thermal Mist, Lava Surge and Mountain Fire to create a heavenly inferno that engulfs the battlefield in fire and magic. This blaze has a divine quality, making it untouchable and catastrophic for her enemies. She embodies the pure, untamed forces of nature and commands them with a celestial authority.
 
-# Terra Firma Cyclone (Volcanic Mist + Mystic Gale + Sandfire Cyclone)
+## Terra Firma Cyclone (Thermal Mist + Lava Surge + Desert Wind)
 
 ![Terraformer](./Terraformer.png)
 
 - **Level**: 4
 - **Type**: Elemental
-- **Composit**: Volcanic Mist, Mystic Gale, Sandfire Cyclone
+- **Composit**: Thermal Mist, Lava Surge, Desert Wind
 - **Attack Power**: 21
 - **Defense Power**: 20
 - **Health**: 18
@@ -222,15 +222,15 @@
 - **Duration**: 3 turns
 - **Range**: 6 tiles
 - **Strong Against**: Aeromancy, Geomancy, Pyromancy, and Hydromancy
-- **Story**: Referred to as the "Terraformer," this girl fuses the powerful elements of Volcanic Mist, Mystic Gale, and Sandfire Cyclone to create a ground-based storm that is as destructive as it is awe-inspiring. The cyclone not only devastates but also alters the terrain, providing strategic advantages. Her character is a harmonious blend of elemental forces, embodying both destruction and creation.
+- **Story**: Referred to as the "Terraformer," this girl fuses the powerful elements of Thermal Mist, Lava Surge and Desert Wind to create a ground-based storm that is as destructive as it is awe-inspiring. The cyclone not only devastates but also alters the terrain, providing strategic advantages. Her character is a harmonious blend of elemental forces, embodying both destruction and creation.
 
-# Primordial Tempest (Mystic Gale + Earth's Wrath + Sandfire Cyclone)
+## Primordial Tempest (Lava Surge + Mountain Fire + Desert Wind)
 
 ![Eye of the Storm](./EyeoftheStorm.png)
 
 - **Level**: 4
 - **Type**: Elemental
-- **Composit**: Mystic Gale, Earth's Wrath, Sandfire Cyclone
+- **Composit**: Lava Surge, Mountain Fire, Desert Wind
 - **Attack Power**: 23
 - **Defense Power**: 17
 - **Health**: 17
@@ -238,4 +238,168 @@
 - **Duration**: 2 turns
 - **Range**: 5 tiles
 - **Strong Against**: Aeromancy, Geomancy, Pyromancy, and Hydromancy
-- **Story**: Known as the "Eye of the Storm," she combines Mystic Gale, Earth's Wrath, and Sandfire Cyclone to create a primordial tempest. This ancient storm harkens back to the origins of the world, where elemental forces were untamed and boundless. She taps into these raw energies to unleash a storm that disrupts, confuses, and decimates her enemies. Her aura radiates the unfathomable might of the elements.
+- **Story**: Known as the "Eye of the Storm," she combines Lava Surge, Mountain Fire and Desert Wind to create a primordial tempest. This ancient storm harkens back to the origins of the world, where elemental forces were untamed and boundless. She taps into these raw energies to unleash a storm that disrupts, confuses, and decimates her enemies. Her aura radiates the unfathomable might of the elements.
+
+---
+
+## Phytomancy
+
+![Guardian of the Forest](./GuardianoftheForest.png)
+
+- **Level**: 1
+- **Type**: Nature
+- **Composit**: null
+- **Attack Power**: 4
+- **Defense Power**: 5
+- **Health**: 6
+- **Mana Cost**: 3
+- **Duration**: 2 turns
+- **Range**: 2 tiles
+- **Strong Against**: Zoomancy
+- **Story**: Known as the "Guardian of the Forest," this girl has the power to control plants. She uses vines and leaves to entrap and defeat her enemies. Her calm demeanor and wisdom make her a formidable protector of nature.
+
+## Zoomancy
+
+![Beast Whisperer](./BeastWhisperer.png)
+
+- **Level**: 1
+- **Type**: Nature
+- **Composit**: null
+- **Attack Power**: 6
+- **Defense Power**: 4
+- **Health**: 5
+- **Mana Cost**: 4
+- **Duration**: 3 turns
+- **Range**: 3 tiles
+- **Strong Against**: Meteoromancy
+- **Story**: Called the "Beast Whisperer," this girl can control animals and use them to her advantage in battle. She is adventurous and untamed, finding kinship in the animal kingdom which she represents.
+
+## Meteoromancy
+
+![Star Sorceress](./StarSorceress.png)
+
+- **Level**: 1
+- **Type**: Nature
+- **Composit**: null
+- **Attack Power**: 7
+- **Defense Power**: 3
+- **Health**: 4
+- **Mana Cost**: 5
+- **Duration**: 1 turn
+- **Range**: 4 tiles
+- **Strong Against**: Phytomancy
+- **Story**: Known as the "Star Sorceress," this girl draws power from celestial bodies to unleash devastating attacks. With a mysterious aura, she embodies the infinite potential and volatility of the cosmos.
+
+## Ecosystem (Phytomancy + Zoomancy)
+
+![Warden of Life](./WardenofLife.png)
+
+- **Level**: 2
+- **Type**: Nature
+- **Composit**: Phytomancy, Zoomancy
+- **Attack Power**: 10
+- **Defense Power**: 9
+- **Health**: 11
+- **Mana Cost**: 7
+- **Duration**: 3 turns
+- **Range**: 3 tiles
+- **Strong Against**: Meteoromancy
+- **Story**: Dubbed the "Warden of Life," she can control both plants and animals, creating a balanced and harmonious battlefield. Her personality is a blend of calm wisdom and untamed spirit, making her as versatile as the ecosystem she controls.
+
+## Climate Control (Zoomancy + Meteoromancy)
+
+![Tempest Tamer](./TempestTamer.png)
+
+- **Level**: 2
+- **Type**: Nature
+- **Composit**: Zoomancy, Meteoromancy
+- **Attack Power**: 13
+- **Defense Power**: 7
+- **Health**: 9
+- **Mana Cost**: 9
+- **Duration**: 2 turns
+- **Range**: 4 tiles
+- **Strong Against**: Phytomancy
+- **Story**: Known as the "Tempest Tamer," she has the power to control both weather and animals. With this dual mastery, she can summon storms while coordinating with animal allies. Her personality is a mixture of adventurousness and cosmic enigma, making her unpredictable and awe-inspiring.
+
+## Seasonal (Meteoromancy + Phytomancy)
+
+![Seasonal Sage](./SeasonalSage.png)
+
+- **Level**: 2
+- **Type**: Nature
+- **Composit**: Meteoromancy, Phytomancy
+- **Attack Power**: 11
+- **Defense Power**: 8
+- **Health**: 10
+- **Mana Cost**: 8
+- **Duration**: 2 turns
+- **Range**: 3 tiles
+- **Strong Against**: Zoomancy
+- **Story**: Referred to as the "Seasonal Sage," she combines celestial power and plant control to alter the very seasons on the battlefield. Her temperament melds the mysterious aura of the cosmos with the grounded wisdom of the earth, making her a multi-faceted sorceress.
+
+## Bio-Climate (Ecosystem + Climate Control)
+
+![Guardian of Balance](./GuardianofBalance.png)
+
+- **Level**: 3
+- **Type**: Nature
+- **Composit**: Ecosystem, Climate Control
+- **Attack Power**: 15
+- **Defense Power**: 12
+- **Health**: 14
+- **Mana Cost**: 12
+- **Duration**: 2 turns
+- **Range**: 4 tiles
+- **Strong Against**: Phytomancy and Meteoromancy
+- **Story**: Known as the "Guardian of Balance," she masterfully integrates ecosystems and climate to create a dynamic, adaptive battlefield. Her ability to manipulate both flora, fauna, and weather make her an adaptable and strategic force. Her personality fuses the wisdom of an ancient forest with the unpredictability of a storm, making her a complex and challenging adversary.
+
+## Nature's Seasons (Ecosystem + Seasonal)
+
+![Seer of Seasons](./SeerofSeasons.png)
+
+- **Level**: 3
+- **Type**: Nature
+- **Composit**: Ecosystem, Seasonal
+- **Attack Power**: 13
+- **Defense Power**: 13
+- **Health**: 16
+- **Mana Cost**: 11
+- **Duration**: 3 turns
+- **Range**: 3 tiles
+- **Strong Against**: Zoomancy and Meteoromancy
+- **Story**: Dubbed the "Seer of Seasons," she combines the powers of ecosystems and celestial phenomena to create a harmonious yet ever-changing battlefield. Her character combines the nurturing aspects of an ecosystem with the cyclical wisdom of the seasons, making her a guardian of both time and life.
+
+## Climate Seasons (Climate Control + Seasonal)
+
+![Tempest of Time](./TempestofTime.png)
+
+- **Level**: 3
+- **Type**: Nature
+- **Composit**: Climate Control, Seasonal
+- **Attack Power**: 16
+- **Defense Power**: 10
+- **Health**: 12
+- **Mana Cost**: 10
+- **Duration**: 2 turns
+- **Range**: 4 tiles
+- **Strong Against**: Phytomancy and Zoomancy
+- **Story**: Known as the "Tempest of Time," she fuses the control of weather and the changing seasons to manipulate the battlefield in both immediate and long-term ways. Her temperament is a balance between the fickle shifts of weather and the steady change of seasons, making her a mercurial yet reliable ally or foe.
+
+## Gaia's Symphony (Bio-Climate + Nature's Seasons + Climate Seasons)
+
+![Maestra of the Cosmos](./MaestraoftheCosmos.png)
+
+- **Level**: 4
+- **Type**: Nature
+- **Composit**: Bio-Climate, Nature's Seasons, Climate Seasons
+- **Attack Power**: 24
+- **Defense Power**: 21
+- **Health**: 20
+- **Mana Cost**: 22
+- **Duration**: 4 turns
+- **Range**: 6 tiles
+- **Strong Against**: Phytomancy, Zoomancy, and Meteoromancy
+- **Story**: Revered as the "Maestra of the Cosmos," she channels the profound elements of Bio-Climate, Nature's Seasons and Climate Seasons to create an orchestrated masterpiece on the battlefield. Her magic resonates with the very core of the planet, altering not just the climate and seasons but also accelerating or reversing life cycles. She epitomizes the interconnectedness of all things in nature and commands it with unparalleled mastery.
+
+---
