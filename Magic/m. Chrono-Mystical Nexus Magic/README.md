@@ -1,11 +1,12 @@
-### Level 5 Composite Magic Cards
+### Level 5 Composites
 
----
-
-#### 3. Chrono-Mystical Nexus (Celestial Inferno + Quantum Consciousness + Primordial Tempest + Gaia's Symphony)
+## Chrono-Mystical Nexus (Celestial Inferno + Quantum Consciousness + Primordial Tempest + Gaia's Symphony)
 
 ![Harbinger of Epochs](./HarbingerofEpochs.png)
 
+- **Level**: 5
+- **Type**: Composite
+- **Composit**: null
 - **Attack Power**: 45
 - **Defense Power**: 42
 - **Health**: 50

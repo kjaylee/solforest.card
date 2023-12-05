@@ -1,11 +1,12 @@
-### Level 5 Composite Magic Cards
+### Level 5 Composites
 
----
-
-#### 5. Omnipotent Convergence (Cosmic Illusion + Quantum Consciousness + Seraphic Covenant + Terra Firma Cyclone)
+## Omnipotent Convergence (Cosmic Illusion + Quantum Consciousness + Seraphic Covenant + Terra Firma Cyclone)
 
 ![Master of All Realms](./MasterofAllRealms.png)
 
+- **Level**: 5
+- **Type**: Composite
+- **Composit**: null
 - **Attack Power**: 50
 - **Defense Power**: 48
 - **Health**: 57

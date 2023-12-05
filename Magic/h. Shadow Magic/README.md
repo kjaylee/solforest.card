@@ -1,8 +1,11 @@
-### Level 1 Shadow Magic Cards
+### Level 1 Shadows
 
-#### 1. Umbramancy Card
+## Umbramancy
 ![Shadowmaster](./Shadowmaster.png)
 
+- **Level**: 1
+- **Type**: Shadow
+- **Composit**: null
 - **Attack Power**: 7
 - **Defense Power**: 3
 - **Health**: 5
@@ -12,9 +15,12 @@
 - **Strong Against**: Shadow Conjuring
 - **Story**: Known as the "Shadowmaster," this girl commands the darkness itself. She can obscure vision, create illusions, or even solidify shadows into physical attacks. Her mysterious and elusive nature makes her a tricky opponent to deal with. She's secretive and cunning, adept at turning the tide of battle in her favor.
 
-#### 2. Shadow Conjuring Card
+## Shadow Conjuring
 ![Shadowcrafter](./Shadowcrafter.png)
 
+- **Level**: 1
+- **Type**: Shadow
+- **Composit**: null
 - **Attack Power**: 5
 - **Defense Power**: 5
 - **Health**: 6
@@ -24,16 +30,15 @@
 - **Strong Against**: Umbramancy
 - **Story**: Often called the "Shadowcrafter," this girl specializes in summoning shadowy creatures and objects. Whether it's a shadow wolf to aid her in battle or shadow chains to bind her enemies, her conjurations are versatile and adaptive. She's imaginative and resourceful, able to think on her feet in any situation.
 
----
+### Level 2 Shadow Composites
 
-### Level 2 Shadow Composite Magic Cards
-
----
-
-#### 1. Dark Creation Magic (Umbramancy + Shadow Conjuring)
+## Dark Creation (Umbramancy + Shadow Conjuring)
 
 ![Dark Creator](./DarkCreator.png)
 
+- **Level**: 2
+- **Type**: Shadow
+- **Composit**: null
 - **Attack Power**: 8
 - **Defense Power**: 6
 - **Health**: 7
@@ -43,16 +48,15 @@
 - **Strong Against**: Both Umbramancy and Shadow Conjuring
 - **Story**: Known as the "Dark Creator," this girl wields the powers of both Umbramancy and Shadow Conjuring. She can not only manipulate shadows but also give them form and substance, making her an exceptional force on the battlefield. She can create complex illusions while summoning shadow creatures, making her both a master of deception and a formidable summoner. She is elusive and creative, embodying the ultimate expression of shadow magic.
 
----
+### Level 3 Shadow Composites
 
-### Level 3 Shadow Composite Magic Cards
-
----
-
-#### 1. Abyssal Shadows (Dark Creation Magic + Dark Creation Magic)
+## Abyssal Shadows (Dark Creation + Dark Creation)
 
 ![Abyssal Architect](./AbyssalArchitect.png)
 
+- **Level**: 3
+- **Type**: Shadow
+- **Composit**: null
 - **Attack Power**: 14
 - **Defense Power**: 12
 - **Health**: 13

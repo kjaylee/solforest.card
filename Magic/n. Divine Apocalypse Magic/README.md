@@ -1,11 +1,12 @@
-### Level 5 Composite Magic Cards
+### Level 5 Composites
 
----
-
-#### 4. Divine Apocalypse (Seraphic Covenant + Celestial Inferno + Quantum Consciousness + Gaia's Symphony)
+## Divine Apocalypse (Seraphic Covenant + Celestial Inferno + Quantum Consciousness + Gaia's Symphony)
 
 ![Architect of Heaven and Earth](./ArchitectofHeavenandEarth.png)
 
+- **Level**: 5
+- **Type**: Composite
+- **Composit**: null
 - **Attack Power**: 46
 - **Defense Power**: 44
 - **Health**: 55

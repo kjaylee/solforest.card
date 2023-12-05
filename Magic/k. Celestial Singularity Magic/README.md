@@ -1,11 +1,12 @@
-### Level 5 Composite Magic Cards
+### Level 5 Composites
 
----
-
-#### 1. Celestial Singularity (Celestial Inferno + Quantum Consciousness + Seraphic Covenant + Cosmic Illusion)
+## Celestial Singularity (Celestial Inferno + Quantum Consciousness + Seraphic Covenant + Cosmic Illusion)
 
 ![The Universal Nexus](./TheUniversalNexus.png)
 
+- **Level**: 5
+- **Type**: Composite
+- **Composit**: null
 - **Attack Power**: 40
 - **Defense Power**: 40
 - **Health**: 50

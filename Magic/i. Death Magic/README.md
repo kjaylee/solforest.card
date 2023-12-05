@@ -1,8 +1,11 @@
-### Level 1 Death Magic Cards
+### Level 1 Deaths
 
-#### 1. Soul Summoning Card
+## Soul Summoning
 ![Soulmancer](./Soulmancer.png)
 
+- **Level**: 1
+- **Type**: Death
+- **Composit**: null
 - **Attack Power**: 6
 - **Defense Power**: 3
 - **Health**: 5
@@ -12,9 +15,12 @@
 - **Strong Against**: Necromancy
 - **Story**: Known as the "Soulmancer," this girl wields the forbidden power to summon and command souls. She can call forth spirits to aid her in battle or use them to debilitate her enemies. She is a mysterious figure, seeking to understand the nature of life and death.
 
-#### 2. Necromancy Card
+## Necromancy
 ![Necromaster](./Necromaster.png)
 
+- **Level**: 1
+- **Type**: Death
+- **Composit**: null
 - **Attack Power**: 7
 - **Defense Power**: 2
 - **Health**: 4
@@ -24,16 +30,15 @@
 - **Strong Against**: Soul Summoning
 - **Story**: Called the "Necromaster," this girl can raise the dead and control them. Zombies, skeletons, and other unholy creatures bow to her command. She uses her minions to overwhelm her enemies, but this comes at a great moral and magical cost. 
 
----
+### Level 2 Death Composites
 
-### Level 2 Death Composite Magic Cards
-
----
-
-#### 1. Soul Resurrection Magic (Soul Summoning + Necromancy)
+## Soul Resurrection (Soul Summoning + Necromancy)
 
 ![Revenant Queen](./RevenantQueen.png)
 
+- **Level**: 2
+- **Type**: Death
+- **Composit**: null
 - **Attack Power**: 8
 - **Defense Power**: 4
 - **Health**: 6
@@ -43,16 +48,15 @@
 - **Strong Against**: Both Soul Summoning and Necromancy
 - **Story**: Known as the "Revenant Queen," this girl masters both the art of Soul Summoning and Necromancy. She can not only summon souls but also give them corporeal forms, essentially resurrecting them to serve in her legion. Her mastery over life and death makes her one of the most feared figures on the battlefield. Using her dark magic, she strikes a balance between spiritual and physical manifestations of death, making her an unparalleled force. She is both enigmatic and unsettling, a practitioner of the darkest magics.
 
----
+### Level 3 Death Composites
 
-### Level 3 Death Composite Magic Cards
-
----
-
-#### 1. Soul Dominion (Soul Resurrection Magic + Soul Resurrection Magic)
+## Soul Dominion (Soul Resurrection + Soul Resurrection)
 
 ![Sovereign of Souls](./SovereignofSouls.png)
 
+- **Level**: 3
+- **Type**: Death
+- **Composit**: null
 - **Attack Power**: 14
 - **Defense Power**: 8
 - **Health**: 10

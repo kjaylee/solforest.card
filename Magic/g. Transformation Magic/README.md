@@ -1,8 +1,11 @@
-### Transformation Magic Cards
+### Transformations
 
-#### 1. Shape-shifting Card
+## Shape-shifting
 ![Changeling](./Changeling.png)
 
+- **Level**: 1
+- **Type**: Transformation
+- **Composit**: null
 - **Attack Power**: 6
 - **Defense Power**: 4
 - **Health**: 5
@@ -12,9 +15,12 @@
 - **Strong Against**: Transmutation
 - **Story**: Known as the "Changeling," this girl has the ability to shape-shift into various forms. Whether becoming a ferocious animal or mimicking an enemy, her versatility makes her unpredictable on the battlefield. She's resourceful and adaptive, making the most out of any situation.
 
-#### 2. Transmutation Card
+## Transmutation
 ![Alchemist](./Alchemist.png)
 
+- **Level**: 1
+- **Type**: Transformation
+- **Composit**: null
 - **Attack Power**: 5
 - **Defense Power**: 5
 - **Health**: 6
@@ -24,16 +30,15 @@
 - **Strong Against**: Shape-shifting
 - **Story**: Referred to as the "Alchemist," this girl can transmute objects and even the environment to suit her needs. She can turn a stone into a weapon or transmute the air into a poisonous gas. Her creative use of her environment makes her a formidable foe. She's inventive and quick-thinking, always up for a challenge.
 
----
+### Level 2 Transformation Composites
 
-### Level 2 Transformation Composite Magic Cards
-
----
-
-#### 1. Complete Transformation Magic (Shape-shifting + Transmutation)
+## Complete Transformation (Shape-shifting + Transmutation)
 
 ![Master of Forms](./MasterofForms.png)
 
+- **Level**: 2
+- **Type**: Transformation
+- **Composit**: null
 - **Attack Power**: 7
 - **Defense Power**: 6
 - **Health**: 7
@@ -43,16 +48,15 @@
 - **Strong Against**: Both Shape-shifting and Transmutation
 - **Story**: Known as the "Master of Forms," this girl combines the power of shape-shifting and transmutation, allowing her to change both herself and her surroundings at will. This makes her an exceptionally versatile magician who can adapt to nearly any circumstance. Whether transforming into a powerful creature or altering the battlefield itself, her potential is limitless. She's ingenious and versatile, a true wildcard in any magical conflict.
 
----
+### Level 3 Transformation Composites
 
-### Level 3 Transformation Composite Magic Cards
-
----
-
-#### 1. Absolute Morphing (Complete Transformation Magic + Complete Transformation Magic)
+## Absolute Morphing (Complete Transformation + Complete Transformation)
 
 ![Eclipsing Shapeshifter](./EclipsingShapeshifter.png)
 
+- **Level**: 3
+- **Type**: Transformation
+- **Composit**: null
 - **Attack Power**: 13
 - **Defense Power**: 12
 - **Health**: 13
