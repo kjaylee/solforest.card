@@ -2,7 +2,7 @@
 
 #### 1. Pyromancy Card
   
-![Flame Wielder](./Flame Wielder.png)
+![Flame Wielder](./FlameWielder.png)
 
 - **Attack Power**: 8
 - **Defense Power**: 2
@@ -15,7 +15,7 @@
 
 #### 2. Hydromancy Card
   
-![Water Sage](./Water Sage.png)
+![Water Sage](./WaterSage.png)
 
 - **Attack Power**: 3
 - **Defense Power**: 7
@@ -28,7 +28,7 @@
 
 #### 3. Aeromancy Card
   
-![Wind Whisperer](./Wind Whisperer.png)
+![Wind Whisperer](./WindWhisperer.png)
 
 - **Attack Power**: 5
 - **Defense Power**: 5
@@ -58,7 +58,7 @@
 
 #### 1. Steam Magic (Pyromancy + Hydromancy)
 
-![Mistress of Mist](./Mistress of Mist.png)
+![Mistress of Mist](./MistressofMist.png)
 
 - **Attack Power**: 11
 - **Defense Power**: 9
@@ -88,7 +88,7 @@
 
 #### 3. Sandstorm Magic (Aeromancy + Geomancy)
 
-![Desert Tempest](./Desert Tempest.png)
+![Desert Tempest](./DesertTempest.png)
 
 - **Attack Power**: 11
 - **Defense Power**: 11
@@ -103,7 +103,7 @@
 
 #### 4. Volcanic Magic (Geomancy + Pyromancy)
 
-![Lava Queen](./Lava Queen.png)
+![Lava Queen](./LavaQueen.png)
 
 - **Attack Power**: 14
 - **Defense Power**: 8
@@ -120,7 +120,7 @@
 
 #### 1. Thermal Mist (Steam Magic + Fog Magic)
 
-![Mistress of Mirage](./Mistress of Mirage.png)
+![Mistress of Mirage](./MistressofMirage.png)
 
 - **Attack Power**: 13
 - **Defense Power**: 15
@@ -135,7 +135,7 @@
 
 #### 2. Lava Surge (Steam Magic + Volcanic Magic)
 
-![Sultana of Surge](./Sultana of Surge.png)
+![Sultana of Surge](./SultanaofSurge.png)
 
 - **Attack Power**: 16
 - **Defense Power**: 11
@@ -150,7 +150,7 @@
 
 #### 3. Desert Wind (Fog Magic + Sandstorm Magic)
 
-![Desert Wind Whisperer](./Desert Wind Whisperer.png)
+![Desert Wind Whisperer](./DesertWindWhisperer.png)
 
 - **Attack Power**: 12
 - **Defense Power**: 16
@@ -165,7 +165,7 @@
 
 #### 4. Mountain Fire (Sandstorm Magic + Volcanic Magic)
 
-![Mountain's Fury](./Mountain's Fury.png)
+![Mountain's Fury](./MountainsFury.png)
 
 - **Attack Power**: 17
 - **Defense Power**: 13
@@ -182,7 +182,7 @@
 
 #### 1. Celestial Inferno (Volcanic Mist + Mystic Gale + Earth's Wrath)
 
-![Celestial Blaze](./Celestial Blaze.png)
+![Celestial Blaze](./CelestialBlaze.png)
 
 - **Attack Power**: 22
 - **Defense Power**: 18
@@ -212,7 +212,7 @@
 
 #### 3. Primordial Tempest (Mystic Gale + Earth's Wrath + Sandfire Cyclone)
 
-![Eye of the Storm](./Eye of the Storm.png)
+![Eye of the Storm](./EyeoftheStorm.png)
 
 - **Attack Power**: 23
 - **Defense Power**: 17
