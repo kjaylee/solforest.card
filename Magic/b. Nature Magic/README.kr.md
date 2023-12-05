@@ -2,7 +2,7 @@
 
 #### 1. 식물 마법 카드 (식물 마법)
 
-![Guardian of the Forest](./Guardian of the Forest.png)
+![Guardian of the Forest](./GuardianoftheForest.png)
 
 - **공격력**: 4
 - **방어력**: 5 5
@@ -15,7 +15,7 @@
 
 #### 2. 줌맨시 카드 (동물 마법)
 
-![Beast Whisperer](./Beast Whisperer.png)
+![Beast Whisperer](./BeastWhisperer.png)
 
 - **공격력**: 6
 - **방어력**: 4 4
@@ -28,7 +28,7 @@
 
 #### 3. 유성 마법 카드 (유성 마법)
 
-![Star Sorceress](./Star Sorceress.png)
+![Star Sorceress](./StarSorceress.png)
 
 - **공격력**: 7
 - **방어력**: 3
@@ -47,7 +47,7 @@
 
 #### 1. 생태계 마법 (식물 마법 + 동물 마법)
 
-![Warden of Life](./Warden of Life.png)
+![Warden of Life](./WardenofLife.png)
 
 - **공격력**: 10
 - **방어력**: 9
@@ -62,7 +62,7 @@
 
 #### 2. 기후 조절 마법 (동물 마법 + 기상 마법)
 
-![Tempest Tamer](./Tempest Tamer.png)
+![Tempest Tamer](./TempestTamer.png)
 
 - **공격력**: 13
 - **방어력**: 7
@@ -77,7 +77,7 @@
 
 #### 3. 계절 마법 (기상 마법 + 식물 마법)
 
-![Seasonal Sage](./Seasonal Sage.png)
+![Seasonal Sage](./SeasonalSage.png)
 
 - **공격력**: 11
 - **방어력**: 8
@@ -96,7 +96,7 @@
 
 #### 1. 생물 기후 (생태계 마법 + 기후 제어 마법)
 
-![Guardian of Balance](./Guardian of Balance.png)
+![Guardian of Balance](./GuardianofBalance.png)
 
 - **공격력**: 15
 - **방어력**: 12
@@ -111,7 +111,7 @@
 
 #### 2. 자연의 계절 (생태계 마법 + 계절 마법)
 
-![Seer of Seasons](./Seer of Seasons.png)
+![Seer of Seasons](./SeerofSeasons.png)
 
 - **공격력**: 13
 - **방어력**: 13
@@ -126,7 +126,7 @@
 
 #### 3. 기후 계절 (기후 제어 마법 + 계절 마법)
 
-![Tempest of Time](./Tempest of Time.png)
+![Tempest of Time](./TempestofTime.png)
 
 - **공격력**: 16
 - **방어력**: 10
@@ -137,6 +137,7 @@
 - **강력한 상대**: 식물 마법과 줌맨시
 - **스토리**: "시간의 폭풍"으로 알려진 그녀는 날씨와 계절의 변화를 통제하여 즉각적이고 장기적인 방식으로 전장을 조종합니다. 변덕스러운 날씨 변화와 꾸준한 계절 변화 사이에서 균형을 잡는 기질로, 변덕스럽지만 믿을 수 있는 아군 또는 적군이 될 수 있습니다.
 
+---
 
 ### 레벨 4 자연 합성 마법 카드
 
@@ -144,7 +145,7 @@
 
 #### 가이아의 교향곡 (우주의 계절 + 우주 기후 + 행성의 수명 주기)
 
-![Maestra of the Cosmos](./Maestra of the Cosmos.png)
+![Maestra of the Cosmos](./MaestraoftheCosmos.png)
 
 - **공격력**: 24
 - 방어력 **: 21

@@ -32,7 +32,7 @@
 
 #### 1. 영혼 부활 마법 (영혼 소환 + 강령술)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Revenant Queen](./RevenantQueen.png)
 
 - **공격력**: 8
 - **방어력**: 4
@@ -51,7 +51,7 @@
 
 #### 1. 소울 도미니언 (영혼 부활 마법 + 영혼 부활 마법)
 
-![Soul Dominion](./Soul Dominion.png)
+![Sovereign of Souls](./SovereignofSouls.png)
 
 - **공격력**: 14
 - **방어력**: 8

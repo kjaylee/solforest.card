@@ -137,13 +137,15 @@
 - **Strong Against**: Phytomancy and Zoomancy
 - **Story**: Known as the "Tempest of Time," she fuses the control of weather and the changing seasons to manipulate the battlefield in both immediate and long-term ways. Her temperament is a balance between the fickle shifts of weather and the steady change of seasons, making her a mercurial yet reliable ally or foe.
 
+---
+
 ### Level 4 Nature Composite Magic Cards
 
 ---
 
 #### Gaia's Symphony (Universal Seasons + Cosmic Climate + Planetary Life Cycle)
 
-![Maestra of the Cosmos](./Maestraofthe Cosmos.png)
+![Maestra of the Cosmos](./MaestraoftheCosmos.png)
 
 - **Attack Power**: 24
 - **Defense Power**: 21

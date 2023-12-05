@@ -32,7 +32,7 @@
 
 #### 1. 완전한 변신 마법 (형태 변환 + 변신)
 
-![Complete Transformation](./Complete Transformation.png)
+![Master of Forms](./MasterofForms.png)
 
 - **공격력**: 7
 - **방어력**: 6
@@ -51,7 +51,7 @@
 
 #### 1. 절대 변신 (완전한 변신 마법 + 완전한 변신 마법)
 
-![Absolute Morphing](./Absolute Morphing.png)
+![Eclipsing Shapeshifter](./EclipsingShapeshifter.png)
 
 - **공격력**: 13
 - **방어력**: 12

@@ -32,7 +32,7 @@
 
 #### 1. 어둠 창조 마법 (엄브래머시 + 그림자 마법)
 
-![Dark Creation](./Dark Creation.png)
+![Dark Creator](./DarkCreator.png)
 
 - **공격력**: 8
 - **방어력**: 6 6
@@ -51,7 +51,7 @@
 
 #### 1. 심연의 그림자 (어둠의 창조 마법 + 어둠의 창조 마법)
 
-![Abyssal Shadows](./Abyssal Shadows.png)
+![Abyssal Architect](./AbyssalArchitect.png)
 
 - **공격력**: 14
 - **방어력**: 12

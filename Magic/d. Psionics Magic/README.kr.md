@@ -1,7 +1,7 @@
 ### 레벨 1 초능력 마법 카드
 
 #### 1. 텔레파시 카드
-![Mind Whisperer](./Mind Whisperer.png)
+![Mind Whisperer](./MindWhisperer.png)
 
 - **공격력**: 2
 - **방어력**: 2 5
@@ -44,7 +44,7 @@
 
 #### 1. 미래 예지 마법 (텔레파시 + 점술)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Seer of All](./SeerofAlls.png)
 
 - **공격력**: 8
 - **방어력**: 9
@@ -59,7 +59,7 @@
 
 #### 2. 조종 마법 (점술 + 마음 제어)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Mastermind](./Mastermind.png)
 
 - **공격력**: 11
 - **방어력**: 6
@@ -74,7 +74,7 @@
 
 #### 3. 집단 제어 마법 (마음 제어 + 텔레파시)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Conductor of Will](./ConductorofWill.png)
 
 - **공격력**: 7
 - **방어력**: 7
@@ -91,7 +91,7 @@
 
 #### 1. 미래 조작 (미래 예측 마법 + 조작 마법)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+!["Oracle of Schemes](./"OracleofSchemes.png)
 
 - **공격력**: 16
 - **방어력**: 13
@@ -106,7 +106,7 @@
 
 #### 2. 집단 예측 (미래 예측 마법 + 집단 제어 마법)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Catalyst of Fate](./CatalystofFate.png)
 
 - **공격력**: 12
 - **방어력**: 14
@@ -121,7 +121,7 @@
 
 #### 3. 매스 매니퓰레이션 (매니퓰레이션 마법 + 그룹 제어 마법)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Sovereign of Strings](./SovereignofStrings.png)
 
 - **공격력**: 14
 - **방어력**: 10
@@ -140,11 +140,11 @@
 
 #### 양자 의식 (전지적 통제 + 은하계 조작 + 우주 인식)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Mind of the Multiverse](./MindoftheMultiverse.png)
 
 - **공격력**: 26
-- 방어력 **: 22
-- 건강**: 25
+- **방어력**: 22
+- **건강**: 25
 - **마나 비용**: 27
 - **지속 시간**: 4 턴
 - **범위**: 7 타일

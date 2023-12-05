@@ -44,7 +44,7 @@
 
 #### 1. 부활 마법 (저주 + 치유)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Soul Warden](./SoulWarden.png)
 
 - **공격력**: 4
 - **방어력**: 4
@@ -57,7 +57,7 @@
 
 #### 2. 완전 보호 마법 (치유 + 보호)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Sanctuary Sentinel](./SanctuarySentinel.png)
 
 - **공격력**: 2
 - **방어력**: 9
@@ -70,7 +70,7 @@
 
 #### 3. 봉인 마법 (보호 + 저주)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Sealbreaker](./Sealbreaker.png)
 
 - **공격력**: 6
 - **방어력**: 6
@@ -89,7 +89,7 @@
 
 #### 1. 신성한 부활 (부활 마법 + 완전한 보호 마법)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Eternal Guardian](./EternalGuardian.png)
 
 - **공격력**: 5
 - **방어력**: 12
@@ -104,7 +104,7 @@
 
 #### 2. 부활 봉인 (부활 마법 + 봉인 마법)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Soul Gatekeeper](./SoulGatekeeper.png)
 
 - **공격력**: 8
 - **방어력**: 8
@@ -119,7 +119,7 @@
 
 #### 3. 보호 봉인 (완전 보호 마법 + 봉인 마법)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Bastion Alchemist](./BastionAlchemist.png)
 
 - **공격력**: 4
 - **방어력**: 12
@@ -138,7 +138,7 @@
 
 #### 세라픽 커버넌트 (디바인 리버스 + 언브레이커블 실 + 가디언 오브 소울즈)
 
-![Harbinger of the Cosmos](./Harbinger of the Cosmos.png)
+![Celestial Warden](./CelestialWarden.png)
 
 - **공격력**: 10
 - **방어력**: 20

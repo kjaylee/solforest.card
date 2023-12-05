@@ -2,7 +2,7 @@
 
 #### 1. 일렉트로맨시 카드 (전기 마법)
 
-![Thunder Mage](./Thunder Mage.png)
+![Thunder Mage](./ThunderMage.png)
 
 - **공격력**: 8
 - **방어력**: 8 2
@@ -53,7 +53,7 @@
 
 #### 1. 하이퍼 레이저 (레이저 마법 + 레이저 마법)
 
-![Master of Luminal Energy](./Master of Luminal Energy.png)
+![Master of Luminal Energy](./MasterofLuminalEnergy.png)
 
 - **공격력**: 18
 - **방어력**: 15
