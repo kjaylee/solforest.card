@@ -3,7 +3,7 @@
 ---
 
 #### 1. 파이로매직 카드
-![Flame Wielder](./Flame Wielder.png)
+![Flame Wielder](./FlameWielder.png)
 
 - **공격력**: 8
 - **방어력**: 2
@@ -15,7 +15,7 @@
 - **스토리**: "불꽃의 용접공"으로 알려진 이 소녀는 불을 다루는 데 능숙합니다. 불덩이를 던지고, 화염의 벽을 만들고, 심지어 불로 몸을 감쌀 수도 있습니다. 화끈하고 열정적인 그녀는 항상 전투에서 열기를 더하기 위해 노력합니다.
 
 #### 2. 하이드로맨시 카드
-![Water Sage](./Water Sage.png)
+![Water Sage](./WaterSage.png)
 
 - **공격력**: 3
 - **방어력**: 7
@@ -27,7 +27,7 @@
 - **스토리**: "물의 현자"라고 불리는 이 소녀는 모든 형태의 물을 조종할 수 있습니다. 비를 소환하고, 해일을 일으키고, 심지어 얼음을 조작할 수도 있습니다. 그녀는 침착하고 유동적이며 변화하는 전투 상황에 쉽게 적응합니다.
 
 #### 3. 에어로맨시 카드
-![Wind Whisperer](./Wind Whisperer.png)
+![Wind Whisperer](./WindWhisperer.png)
 
 - **공격력**: 5
 - **방어력**: 5
@@ -58,7 +58,7 @@
 
 #### 1. 스팀 마법 (화염 마법 + 수계 마법)
 
-![Mistress of Mist](./Mistress of Mist.png)
+![Mistress of Mist](./MistressofMist.png)
 
 - **공격력**: 11
 - **방어력**: 9
@@ -88,7 +88,7 @@
 
 #### 3. 모래폭풍 마법 (풍마법 + 지마법)
 
-![Desert Tempest](./Desert Tempest.png)
+![Desert Tempest](./DesertTempest.png)
 
 - **공격력**: 11
 - **방어력**: 11
@@ -103,7 +103,7 @@
 
 #### 4. 화산 마법 (지마법 + 화염 마법)
 
-![Lava Queen](./Lava Queen.png)
+![Lava Queen](./LavaQueen.png)
 
 - **공격력**: 14
 - **방어력**: 8
@@ -122,7 +122,7 @@
 
 #### 1. 열 안개 (증기 마법 + 안개 마법)
 
-![Mistress of Mirage](./Mistress of Mirage.png)
+![Mistress of Mirage](./MistressofMirage.png)
 
 - **공격력**: 13
 - **방어력**: 15
@@ -137,7 +137,7 @@
 
 #### 2. 용암 분출 (증기 마법 + 화산 마법)
 
-![Sultana of Surge](./Sultana of Surge.png)
+![Sultana of Surge](./SultanaofSurge.png)
 
 - **공격력**: 16
 - **방어력**: 11
@@ -152,7 +152,7 @@
 
 #### 3. 사막의 바람 (안개 마법 + 모래폭풍 마법)
 
-![Desert Wind Whisperer](./Desert Wind Whisperer.png)
+![Desert Wind Whisperer](./DesertWindWhisperer.png)
 
 - **공격력**: 12
 - **방어력**: 16
@@ -167,7 +167,7 @@
 
 #### 4. 마운틴 파이어 (모래폭풍 마법 + 화산 마법)
 
-![Mountain's Fury](./Mountain's Fury.png)
+![Mountain's Fury](./MountainsFury.png)
 
 - **공격력**: 17
 - **방어력**: 13
@@ -186,7 +186,7 @@
 
 #### 1. 천상의 지옥 (화산 안개 + 신비한 강풍 + 대지의 분노)
 
-![Celestial Blaze](./Celestial Blaze.png)
+![Celestial Blaze](./CelestialBlaze.png)
 
 - **공격력**: 22
 - **방어력**: 18 18
@@ -216,7 +216,7 @@
 
 #### 3. 태초의 폭풍 (신비한 강풍 + 대지의 분노 + 모래 폭풍 사이클론)
 
-![Eye of the Storm](./Eye of the Storm.png)
+![Eye of the Storm](./EyeoftheStorm.png)
 
 - **공격력**: 23
 - **방어력**: 17 17
