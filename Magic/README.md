@@ -518,10 +518,9 @@
 - **Strong Against**: Telepathy
 - **Story**: Often called the "Puppeteer," this girl can take control of her enemies, making them turn against each other. Her eerie ability can change the course of a battle, but it requires great concentration. She is cunning and manipulative, always several steps ahead of her enemies.
 
-
 ## Future Prediction (Telepathy + Divination)
 
-![Seer of All](./SeerofAlls.png)
+![Seer of All](./SeerofAll.png)
 
 - **Level**: 2
 - **Type**: Psionics
@@ -569,7 +568,7 @@
 
 ## Futuristic Manipulation (Future Prediction + Manipulation)
 
-!["Oracle of Schemes](./"OracleofSchemes.png)
+![Oracle of Schemes](./OracleofSchemes.png)
 
 - **Level**: 3
 - **Type**: Psionics
@@ -630,3 +629,234 @@
 - **Range**: 7 tiles
 - **Strong Against**: All forms of magic due to its transcendent awareness and control
 - **Story**: Hailed as the "Mind of the Multiverse," this girl attains a level of awareness and control that is virtually unparalleled. She not only can manipulate individual minds and predict future events but her consciousness extends to a galactic, even cosmic level. This allows her to anticipate and adapt to virtually any magical form or strategy, making her almost a divine entity in the realm of Psionics.
+
+---
+
+## Chronomancy
+
+![Timekeeper](./Timekeeper.png)
+
+- **Level**: 1
+- **Type**: Chronospace
+- **Composit**: null
+- **Attack Power**: 4
+- **Defense Power**: 7
+- **Health**: 6
+- **Mana Cost**: 5
+- **Duration**: 4 turns
+- **Range**: 3 tiles
+- **Strong Against**: Teleportation
+- **Story**: Known as the "Timekeeper," this girl has the ability to manipulate time. She can slow down or speed up events, giving her team more time to act or causing enemies to act slower. She's highly analytical and thinks multiple steps ahead, ensuring that she's prepared for any situation.
+
+## Teleportation
+
+![Spacebender](./Spacebender.png)
+
+- **Level**: 1
+- **Type**: Chronospace
+- **Composit**: null
+- **Attack Power**: 7
+- **Defense Power**: 3
+- **Health**: 4
+- **Mana Cost**: 2
+- **Duration**: 1 turn
+- **Range**: 5 tiles
+- **Strong Against**: Chronomancy
+- **Story**: Dubbed the "Spacebender," this girl possesses the ability to teleport herself and others across short distances. Her high mobility makes her hard to pin down, but her defensive capabilities are limited. She's adventurous and daring, always looking for the next thrill.
+
+## Spacetime Warp (Chronomancy + Teleportation)
+
+![Dimensional Maestro](./DimensionalMaestro.png)
+
+- **Level**: 2
+- **Type**: Chronospace
+- **Composit**: Chronomancy, Teleportation
+- **Attack Power**: 11
+- **Defense Power**: 10
+- **Health**: 10
+- **Mana Cost**: 7
+- **Duration**: 3 turns
+- **Range**: 4 tiles
+- **Strong Against**: Both Chronomancy and Teleportation
+- **Story**: Known as the "Dimensional Maestro," this girl merges the powers of time and space manipulation. She can not only control the pace of the battle but can also relocate herself and her allies instantaneously. This combination makes her incredibly versatile and unpredictable, capable of dictating the flow of time while shifting the spatial layout of the battlefield.
+
+## Eternal Warp (Spacetime Warp + Spacetime Warp)
+
+![Architect of Eternity](./ArchitectofEternity.png)
+
+- **Level**: 3
+- **Type**: Chronospace
+- **Composit**: Spacetime Warp
+- **Attack Power**: 18
+- **Defense Power**: 16
+- **Health**: 18
+- **Mana Cost**: 12
+- **Duration**: 4 turns
+- **Range**: 6 tiles
+- **Strong Against**: Almost all forms due to its mastery over time and space
+- **Story**: Revered as the "Architect of Eternity," this girl is the epitome of time-space manipulation. With the power to control both dimensions in an even more advanced way, she can stop time for short periods and teleport multiple allies and enemies across vast distances. Her near-omnipotent abilities make her one of the most unpredictable and uncounterable entities on the battlefield.
+
+---
+
+## Cursing
+
+![Hexweaver](./Hexweaver.png)
+
+- **Level**: 1
+- **Type**: Catalyst
+- **Composit**: null
+- **Attack Power**: 7
+- **Defense Power**: 3
+- **Health**: 4
+- **Mana Cost**: 6
+- **Duration**: 1 turn
+- **Range**: 2 tiles
+- **Strong Against**: Healing
+- **Story**: Known as the "Hexweaver," this girl specializes in casting curses that weaken enemies or inflict continuous damage. Her abilities can turn the tide in a tight situation, but she must be careful as her defense is low. She's cunning and thrives on the despair of her enemies.
+
+## Healing
+
+![Lifesaver](./Lifesaver.png)
+
+- **Level**: 1
+- **Type**: Catalyst
+- **Composit**: null
+- **Attack Power**: 2
+- **Defense Power**: 5
+- **Health**: 7
+- **Mana Cost**: 4
+- **Duration**: 3 turns
+- **Range**: 3 tiles
+- **Strong Against**: Warding
+- **Story**: Often referred to as the "Lifesaver," this girl is adept at healing spells that restore health to her allies and can even revive those who have fallen. She is a cornerstone in any team's defense, always there to lend a helping hand. She's compassionate and nurturing, the heart of her team.
+
+## Warding
+
+![Guardian](./Guardian.png)
+
+- **Level**: 1
+- **Type**: Catalyst
+- **Composit**: null
+- **Attack Power**: 3
+- **Defense Power**: 8
+- **Health**: 5
+- **Mana Cost**: 5
+- **Duration**: 2 turns
+- **Range**: 4 tiles
+- **Strong Against**: Cursing
+- **Story**: Called the "Guardian," this girl specializes in casting wards and shields that protect her team from harm. Her skills make her invaluable in holding the line and sustaining the team's defenses. She's steadfast and dependable, a true shield for her allies.
+
+## Resurrection (Cursing + Healing)
+
+![Soul Warden](./SoulWarden.png)
+
+- **Level**: 2
+- **Type**: Catalyst
+- **Composit**: Cursing, Healing
+- **Attack Power**: 4
+- **Defense Power**: 4
+- **Health**: 8
+- **Mana Cost**: 7
+- **Duration**: 2 turns
+- **Range**: 3 tiles
+- **Strong Against**: Both Cursing and Healing
+- **Story**: Known as the "Soul Warden," this girl combines the power of curses and healing to manipulate life forces directly. She can not only heal her allies but also revive them with a cursed condition, making them even more potent for a short period. She's a blend of darkness and light, straddling the line between life and death.
+
+## Complete Protection (Healing + Warding)
+
+![Sanctuary Sentinel](./SanctuarySentinel.png)
+
+- **Level**: 12
+- **Type**: Catalyst
+- **Composit**: Healing, Warding
+- **Attack Power**: 2
+- **Defense Power**: 9
+- **Health**: 9
+- **Mana Cost**: 6
+- **Duration**: 3 turns
+- **Range**: 4 tiles
+- **Strong Against**: Both Healing and Warding
+- **Story**: Referred to as the "Sanctuary Sentinel," this girl is the epitome of defense, merging healing and warding spells to create an almost impregnable protective zone around her allies. Her compassionate and steadfast nature make her the ultimate guardian, capable of both preventing and undoing harm.
+
+## Sealing (Warding + Cursing)
+
+![Sealbreaker](./Sealbreaker.png)
+
+- **Level**: 2
+- **Type**: Catalyst
+- **Composit**: Warding, Cursing
+- **Attack Power**: 6
+- **Defense Power**: 6
+- **Health**: 5
+- **Mana Cost**: 7
+- **Duration**: 2 turns
+- **Range**: 3 tiles
+- **Strong Against**: Both Warding and Cursing
+- **Story**: Known as the "Sealbreaker," this girl combines warding and cursing powers to create magical seals that not only protect but also afflict enemies who dare cross them. These seals can trap enemies, making them easy targets for her allies. She's tactical and cunning, creating labyrinths of danger and safety on the battlefield.
+
+## Sacred Resurrection (Resurrection + Complete Protection)
+
+![Eternal Guardian](./EternalGuardian.png)
+
+- **Level**: 3
+- **Type**: Catalyst
+- **Composit**: Resurrection, Complete Protection
+- **Attack Power**: 5
+- **Defense Power**: 12
+- **Health**: 15
+- **Mana Cost**: 11
+- **Duration**: 4 turns
+- **Range**: 5 tiles
+- **Strong Against**: A broad spectrum of offensive and defensive magic
+- **Story**: Known as the "Eternal Guardian," this girl is a master of both resurrection and complete protection magic. She can bring allies back to life while surrounding them with near-impenetrable barriers, creating an environment where her team can act with impunity. Her nature is a synthesis of light and darkness, life and death, making her a spiritual beacon on the battlefield.
+
+## Resurrection Seal (Resurrection + Sealing)
+
+![Soul Gatekeeper](./SoulGatekeeper.png)
+
+- **Level**: 3
+- **Type**: Catalyst
+- **Composit**: Resurrection, Sealing
+- **Attack Power**: 8
+- **Defense Power**: 8
+- **Health**: 10
+- **Mana Cost**: 11
+- **Duration**: 3 turns
+- **Range**: 4 tiles
+- **Strong Against**: Both life-based and affliction-based magic
+- **Story**: Referred to as the "Soul Gatekeeper," this girl merges resurrection and sealing powers. She can bring allies back while setting up devastating traps for enemies, creating a battlefield that's advantageous for her team. She holds the keys to life and constriction, making her an enigmatic and unpredictable force.
+
+## Protective Seal (Complete Protection + Sealing)
+
+![Bastion Alchemist](./BastionAlchemist.png)
+
+- **Level**: 3
+- **Type**: Catalyst
+- **Composit**: Complete Protection, Sealing
+- **Attack Power**: 4
+- **Defense Power**: 12
+- **Health**: 12
+- **Mana Cost**: 10
+- **Duration**: 3 turns
+- **Range**: 5 tiles
+- **Strong Against**: Both protective and destructive magic
+- **Story**: Known as the "Bastion Alchemist," this girl fuses the arts of warding and cursing into a unique blend of protective seals that can both protect allies and restrict enemies. Her dual abilities make her a fortress of defense and a web of peril, capable of changing the dynamics of the battlefield in an instant.
+
+## Seraphic Covenant (Sacred Resurrection + Resurrection Seal + Protective Seal)
+
+![Celestial Warden](./CelestialWarden.png)
+
+- **Level**: 4
+- **Type**: Catalyst
+- **Composit**: Sacred Resurrection, Resurrection Seal, Protective Seal
+- **Attack Power**: 10
+- **Defense Power**: 20
+- **Health**: 24
+- **Mana Cost**: 30
+- **Duration**: 5 turns
+- **Range**: 6 tiles
+- **Strong Against**: Virtually all forms of magic due to its Sacred Resurrection, Resurrection Seal and Protective Seal
+- **Story**: Bestowed with the title of "Celestial Warden," this girl transcends the realms of life and restriction, becoming a nearly divine entity. Her ability to resurrect allies is now elevated to a celestial level, while her protective seals and soul guardianship have become unbreakable and universally effective. She essentially holds the keys to life and fate, making her a quasi-divine force on the battlefield.
+
+---
+
