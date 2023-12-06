@@ -2,7 +2,8 @@
 [![english](https://img.shields.io/badge/lang-english-red.svg)](https://github.com/kjaylee/solforest.card/blob/master/README.md)
 [![korean](https://img.shields.io/badge/lang-korean-blue.svg)](https://github.com/kjaylee/solforest.card/blob/master/README.kr.md)
 
-### Magic Types and Their Affinities
+## Magic Types and Their Affinities
+
 1. **Elemental Magic**
    - Pyromancy is strong against Hydromancy.
    - Hydromancy is strong against Aeromancy.
@@ -44,7 +45,8 @@
     - Gravimancy is strong against Sonimancy.
     - Sonimancy is strong against Illusion.
 
-### Magic Group Affinities
+## Magic Group Affinities
+
 1. **Nature-aligned Magic**
    - Elemental Magic is strong against Nature Magic.
    - Nature Magic is strong against Luminomancy Magic.
@@ -60,7 +62,8 @@
 3. **Diverse & Mystical Magic**
    - Death Magic and Mystic Magic are equally matched.
 
-### Overall Magic Affinity Cycle
+## Overall Magic Affinity Cycle
+
 - Nature-aligned Magic is strong against Mental-aligned Magic.
 - Mental-aligned Magic is strong against Diverse & Mystical Magic.
 - Diverse & Mystical Magic is strong against Nature-aligned Magic.
